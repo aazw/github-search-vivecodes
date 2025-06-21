@@ -10,11 +10,12 @@
 ## セットアップ
 
 1. VSCode Dev Containerでの起動推奨 ([.devcontainer/](./.devcontainer))
-2. Task(Taskfile)で初期化処理 ([Taskfile.yml](./Taskfile.yml))
+2. Task(Taskfile)で初期化処理 ([Taskfile.yml](./Taskfile.yml)) 
+   * VSCode Tasksも利用可能
 
-  ```bash
-  task uv_sync
-  ```
+   ```bash
+   task uv_sync
+   ```
 
 ## 使用方法
 

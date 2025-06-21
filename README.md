@@ -11,10 +11,11 @@
 
 1. Recommended to start with VSCode Dev Container ([.devcontainer/](./.devcontainer))
 2. Initialize with Task (Taskfile) ([Taskfile.yml](./Taskfile.yml))
+   * VSCode Tasks available
 
-  ```bash
-  task uv_sync
-  ```
+   ```bash
+   task uv_sync
+   ```
 
 ## Usage
 
