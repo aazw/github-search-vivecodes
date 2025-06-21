@@ -1,4 +1,4 @@
-name: Search .clinerules
+name: Search CLAUDE.md
 on:
   schedule:
     - cron: "0 15 * * *" # UTC 15:00 = JST 24:00 (00:00)
@@ -8,11 +8,11 @@ permissions:
   contents: write
 
 jobs:
-  search_clinerules:
+  search_claudemd:
     runs-on: ubuntu-latest
     env:
       GHSEARCH_GITHUB_TOKEN: ${{ secrets.GHSEARCH_GITHUB_TOKEN }}
-      QUERY: "filename:.clinerules"
+      QUERY: "filename:CLAUDE.md"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,14 +26,14 @@ jobs:
           mkdir -p docs/search_results
           uv run src/github_search.py \
             --query "${QUERY}" \
-            --output docs/search_results/search_clinerules.atom
+            --output docs/search_results/search_claudemd.atom
       - name: Create new commit
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add -f docs/search_results/search_clinerules.atom
+          git add -f docs/search_results/search_claudemd.atom
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
