@@ -45,5 +45,6 @@
     "vsc-github-search-vivecodes",
     "--add-host",
     "host.docker.internal:host-gateway"
-  ]
+  ],
+  "postCreateCommand": "task uv_sync"
 }
