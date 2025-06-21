@@ -1,3 +1,3 @@
 # vscode-base
 
-This project is a template implementation for projects that use a VS Code Dev Container.
+https://docs.github.com/en/rest/search/search#search-code

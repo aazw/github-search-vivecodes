@@ -1,5 +1,5 @@
 {
-  "name": "vsc-base",
+  "name": "vsc-github-search-vivecodes",
   "build": {
     "dockerfile": "Dockerfile"
   },
@@ -11,7 +11,12 @@
       "extensions": [
         "emeraldwalk.runonsave",
         "ms-azuretools.vscode-containers",
-        "ms-azuretools.vscode-docker"
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "tamasfe.even-better-toml",
+        "charliermarsh.ruff"
       ],
       "settings": {
         "terminal.integrated.defaultProfile.linux": "bash"
@@ -28,7 +33,8 @@
   "remoteUser": "vscode",
   "remoteEnv": {
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}",
-    "TZ": "Asia/Tokyo"
+    "TZ": "Asia/Tokyo",
+    "UV_PROJECT_ENVIRONMENT": "${containerWorkspaceFolder}/.venv"
   },
   "containerEnv": {
     // "LANG": "ja_JP.UTF-8",
@@ -36,7 +42,7 @@
   },
   "runArgs": [
     "--name",
-    "vsc-base",
+    "vsc-github-search-vivecodes",
     "--add-host",
     "host.docker.internal:host-gateway"
   ]

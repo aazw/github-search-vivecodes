@@ -38,5 +38,10 @@
         "cmd": "taplo fmt \"${file}\""
       }
     ]
-  }
+  },
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true
+  },
+  "python.analysis.typeCheckingMode": "strict"
 }

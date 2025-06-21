@@ -1,0 +1,43 @@
+name: search_clinerules
+on:
+  schedule:
+    - cron: "0 15 * * *" # UTC 15:00 = JST 24:00 (00:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search_cline_rules:
+    runs-on: ubuntu-latest
+    env:
+      GHSEARCH_GITHUB_TOKEN: ${{ secrets.GHSEARCH_GITHUB_TOKEN }}
+      QUERY: "filename:.clinerules"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      - name: Install packages
+        run: uv sync --link-mode=copy --frozen
+      - name: Run script
+        run: |
+          set -e
+          mkdir -p docs/search_results
+          uv run src/github_search.py \
+            --query "${QUERY}" \
+            --output docs/search_results/search_clinerules.atom
+      - name: Create new commit
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs/search_results/search_clinerules.atom
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update search results: ${QUERY}"
+            git push
+          fi
