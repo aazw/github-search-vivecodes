@@ -1,7 +1,7 @@
 # github-search-vivecodes
 
-GitHub Code Search APIを使用してコード検索を行い、結果をAtomフィード形式で出力するツールです.  
-[Code Search API](https://docs.github.com/en/rest/search/search#search-code)が `sort=indexed`に対応しているまで使えるはず. (いずれなくなるらしい)
+[GitHub Code Search API](https://docs.github.com/en/rest/search/search#search-code)を使用してコード検索を行い、結果をAtomフィード形式で出力するツールです.  
+[GitHub Code Search API](https://docs.github.com/en/rest/search/search#search-code)が `sort=indexed`に対応しているまで使えるはず. (いずれなくなるらしい)
 
 ## 使用方法
 
