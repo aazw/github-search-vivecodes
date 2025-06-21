@@ -137,6 +137,15 @@
       "customType": "regex",
       "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
       "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+OTHER_XQ_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "github-tags",
+      "depNameTemplate": "sibprogrammer/xq",
+      "versioningTemplate": "semver-coerced"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
       "matchStrings": ["ARG\\s+OTHER_TAPLO_VERSION=(?<currentValue>\\S+)"],
       "datasourceTemplate": "github-tags",
       "depNameTemplate": "tamasfe/taplo",
@@ -149,15 +158,6 @@
       "matchStrings": ["ARG\\s+OTHER_SHELLCHECK_VERSION=(?<currentValue>\\S+)"],
       "datasourceTemplate": "github-tags",
       "depNameTemplate": "koalaman/shellcheck",
-      "versioningTemplate": "semver-coerced"
-    },
-    {
-      "customType": "regex",
-      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
-      "matchStringsStrategy": "any",
-      "matchStrings": ["ARG\\s+OTHER_XQ_VERSION=(?<currentValue>\\S+)"],
-      "datasourceTemplate": "github-tags",
-      "depNameTemplate": "sibprogrammer/xq",
       "versioningTemplate": "semver-coerced"
     }
   ],
