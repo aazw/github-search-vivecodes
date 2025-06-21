@@ -38,6 +38,15 @@
       "customType": "regex",
       "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
       "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+NPM_NPM_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "npm",
+      "depNameTemplate": "npm",
+      "versioningTemplate": "npm"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
       "matchStrings": ["ARG\\s+NPM_RENOVATE_VERSION=(?<currentValue>\\S+)"],
       "datasourceTemplate": "npm",
       "depNameTemplate": "renovate",
@@ -74,6 +83,42 @@
       "customType": "regex",
       "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
       "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+PIP_PIP_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "pypi",
+      "depNameTemplate": "pip",
+      "versioningTemplate": "pep440"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+PIP_PIPX_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "pypi",
+      "depNameTemplate": "pipx",
+      "versioningTemplate": "pep440"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+PIP_UV_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "pypi",
+      "depNameTemplate": "uv",
+      "versioningTemplate": "pep440"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+PIP_RUFF_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "pypi",
+      "depNameTemplate": "ruff",
+      "versioningTemplate": "pep440"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
       "matchStrings": ["ARG\\s+OTHER_JQ_VERSION=(?<currentValue>\\S+)"],
       "datasourceTemplate": "github-tags",
       "depNameTemplate": "jqlang/jq",
@@ -105,6 +150,15 @@
       "datasourceTemplate": "github-tags",
       "depNameTemplate": "koalaman/shellcheck",
       "versioningTemplate": "semver-coerced"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
+      "matchStringsStrategy": "any",
+      "matchStrings": ["ARG\\s+OTHER_XQ_VERSION=(?<currentValue>\\S+)"],
+      "datasourceTemplate": "github-tags",
+      "depNameTemplate": "sibprogrammer/xq",
+      "versioningTemplate": "semver-coerced"
     }
   ],
   "packageRules": [
@@ -122,6 +176,10 @@
     {
       "matchFileNames": [".github/workflows/*.yaml"],
       "groupName": "githubactions"
+    },
+    {
+      "matchFileNames": ["pyproject.toml", ".python-version", "uv.lock"],
+      "groupName": "python"
     }
   ]
 }
