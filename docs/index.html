@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Search Results</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #f8f9fa;
+        }
+        h1 {
+            color: #24292e;
+            border-bottom: 2px solid #e1e4e8;
+            padding-bottom: 0.5rem;
+        }
+        .search-result {
+            background: white;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .result-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #0969da;
+            text-decoration: none;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+        .result-title:hover {
+            text-decoration: underline;
+        }
+        .result-description {
+            color: #656d76;
+            margin-bottom: 0.5rem;
+        }
+        .result-meta {
+            font-size: 0.9rem;
+            color: #8b949e;
+        }
+        .atom-link {
+            display: inline-block;
+            background: #f6f8fa;
+            border: 1px solid #d0d7de;
+            border-radius: 4px;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.8rem;
+            text-decoration: none;
+            color: #24292e;
+            margin-top: 0.5rem;
+        }
+        .atom-link:hover {
+            background: #e1e4e8;
+        }
+    </style>
+</head>
+<body>
+    <h1>GitHub Search Results</h1>
+    <p>このページでは、GitHubでのコード検索結果を確認できます。</p>
+    
+    <div class="search-result">
+        <a href="./search_results/search_claudemd.atom" class="result-title">CLAUDE.mdファイルの検索結果</a>
+        <div class="result-description">
+            GitHubリポジトリ内でCLAUDE.mdファイル名を持つファイルの検索結果
+        </div>
+        <div class="result-meta">検索クエリ: filename:CLAUDE.md</div>
+        <a href="./search_results/search_claudemd.atom" class="atom-link">Atom Feed</a>
+    </div>
+    
+    <div class="search-result">
+        <a href="./search_results/search_clinerules.atom" class="result-title">.clinerules ファイルの検索結果</a>
+        <div class="result-description">
+            GitHubリポジトリ内で.clinerules ファイル名を持つファイルの検索結果
+        </div>
+        <div class="result-meta">検索クエリ: filename:.clinerules</div>
+        <a href="./search_results/search_clinerules.atom" class="atom-link">Atom Feed</a>
+    </div>
+</body>
+</html>
