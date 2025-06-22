@@ -47,18 +47,18 @@
       "customType": "regex",
       "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
       "matchStringsStrategy": "any",
-      "matchStrings": ["ARG\\s+NPM_RENOVATE_VERSION=(?<currentValue>\\S+)"],
+      "matchStrings": ["ARG\\s+NPM_PRETTIER_VERSION=(?<currentValue>\\S+)"],
       "datasourceTemplate": "npm",
-      "depNameTemplate": "renovate",
+      "depNameTemplate": "prettier",
       "versioningTemplate": "npm"
     },
     {
       "customType": "regex",
       "managerFilePatterns": ["/^\\.devcontainer\\/Dockerfile$/"],
       "matchStringsStrategy": "any",
-      "matchStrings": ["ARG\\s+NPM_PRETTIER_VERSION=(?<currentValue>\\S+)"],
+      "matchStrings": ["ARG\\s+NPM_RENOVATE_VERSION=(?<currentValue>\\S+)"],
       "datasourceTemplate": "npm",
-      "depNameTemplate": "prettier",
+      "depNameTemplate": "renovate",
       "versioningTemplate": "npm"
     },
     {
