@@ -25,6 +25,7 @@ jobs:
           set -e
           mkdir -p docs/search_results
           uv run src/github_search.py \
+            --log-level DEBUG \
             --query "${QUERY}" \
             --output docs/search_results/search_clinerules.atom
       - name: Create new commit
