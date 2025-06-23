@@ -9,6 +9,19 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # search_clinerules.yaml が実行され、その結果がcommit & pushされるが、このpushは GITHUB_TOKEN で実行される
+  # GITHUB_TOKEN によるpushは他のワークフローをトリガーしない
+  # よって github_pages.yml の push: branches: ["main"] は反応しない
+  # 変わりに、workflow_runを使う
+  workflow_run:
+    workflows:
+      - "Search .clinerules"
+      - "Search CLAUDE.md"
+    types:
+      - "completed"
+    branches:
+      - "main"
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -37,7 +50,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'docs'
+          path: "docs"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
