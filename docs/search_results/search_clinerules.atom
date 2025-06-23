@@ -2,6 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Code Search Results for: .clinerules+in:path</title>
   <link href="https://github.com/search?q=.clinerules%2Bin%3Apath&amp;type=code" rel="alternate"/>
-  <updated>2025-06-23T13:54:27.214547+00:00</updated>
+  <updated>2025-06-23T14:33:47.371048+00:00</updated>
   <id>urn:github-search:.clinerules%2Bin%3Apath</id>
+  <entry>
+    <title>aazw/github-search-vivecodes: index.html</title>
+    <link href="https://github.com/aazw/github-search-vivecodes/blob/84ea4fff3ca78217ad3a728be9b74de76f26cf1a/docs/index.html"/>
+    <id>urn:github:aazw/github-search-vivecodes:docs/index.html:a7be4de9e1714b68905315210eccd75e40079500</id>
+    <updated>2025-06-23T14:33:47.371048+00:00</updated>
+    <summary>File: docs/index.html
+Repository: aazw/github-search-vivecodes
+SHA: a7be4de9e1714b68905315210eccd75e40079500</summary>
+    <category term="repository" label="aazw/github-search-vivecodes"/>
+    <category term="path" label="docs/index.html"/>
+  </entry>
+  <entry>
+    <title>aazw/github-search-vivecodes: search_clinerules.atom</title>
+    <link href="https://github.com/aazw/github-search-vivecodes/blob/84ea4fff3ca78217ad3a728be9b74de76f26cf1a/docs/search_results/search_clinerules.atom"/>
+    <id>urn:github:aazw/github-search-vivecodes:docs/search_results/search_clinerules.atom:8fe633a9f149f3e8b0eaf2919fa357f738cfc9a3</id>
+    <updated>2025-06-23T14:33:47.371048+00:00</updated>
+    <summary>File: docs/search_results/search_clinerules.atom
+Repository: aazw/github-search-vivecodes
+SHA: 8fe633a9f149f3e8b0eaf2919fa357f738cfc9a3</summary>
+    <category term="repository" label="aazw/github-search-vivecodes"/>
+    <category term="path" label="docs/search_results/search_clinerules.atom"/>
+  </entry>
+  <entry>
+    <title>aazw/github-search-vivecodes: search_clinerules.yaml</title>
+    <link href="https://github.com/aazw/github-search-vivecodes/blob/84ea4fff3ca78217ad3a728be9b74de76f26cf1a/.github/workflows/search_clinerules.yaml"/>
+    <id>urn:github:aazw/github-search-vivecodes:.github/workflows/search_clinerules.yaml:33d21840bb6196882fc276dfbc915b861947ee32</id>
+    <updated>2025-06-23T14:33:47.371048+00:00</updated>
+    <summary>File: .github/workflows/search_clinerules.yaml
+Repository: aazw/github-search-vivecodes
+SHA: 33d21840bb6196882fc276dfbc915b861947ee32</summary>
+    <category term="repository" label="aazw/github-search-vivecodes"/>
+    <category term="path" label=".github/workflows/search_clinerules.yaml"/>
+  </entry>
 </feed>
