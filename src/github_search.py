@@ -259,18 +259,11 @@ def search_github_code(
     logging.info(f"Sort: {sort}, Order: {order}")
 
     while True:
-        params: Dict[str, Union[str, int]] = {
-            "q": query,
-            "sort": sort,
-            "order": order,
-            "page": page,
-            "per_page": per_page,
-        }
+        # requests.getのparams=paramsを使うと、queryが%エンコードされ、APIの結果が意図しない結果となるため
+        url: str = f"{base_url}?q={query}&sort={sort}&order={order}&page={page}&per_page={per_page}"
 
         try:
-            response: requests.Response = requests.get(
-                base_url, headers=headers, params=params
-            )
+            response: requests.Response = requests.get(url, headers=headers)
 
             # Check for rate limit before raising for status
             if response.status_code == 403:
