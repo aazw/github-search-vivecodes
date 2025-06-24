@@ -36,9 +36,9 @@ jobs:
 
           git add -f docs/search_results/search_claudemd.atom
 
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
+          if ! git diff --quiet --cached ; then
             git commit -m "Update search results: ${QUERY}"
             git push
+          else
+            echo "No changes to commit"
           fi

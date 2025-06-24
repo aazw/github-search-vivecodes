@@ -1,18 +1,18 @@
-name: Search .clinerules
+name: Search .claude/settings.json
 on:
   schedule:
-    - cron: "0 15 * * *" # UTC 15:00 = JST 24:00 (00:00)
+    - cron: "10 15 * * *" # UTC 15:10 = JST 24:10 (00:10)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  search_clinerules:
+  search_claude_settingsjson:
     runs-on: ubuntu-latest
     env:
       GHSEARCH_GITHUB_TOKEN: ${{ secrets.GHSEARCH_GITHUB_TOKEN }}
-      QUERY: ".clinerules+in:path"
+      QUERY: ".claude/settings.json+in:path"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,14 +27,14 @@ jobs:
           uv run src/github_search.py \
             --log-level DEBUG \
             --query "${QUERY}" \
-            --output docs/search_results/search_clinerules.atom
+            --output docs/search_results/search_claude_settingsjson.atom
       - name: Create new commit
         run: |
           set -e
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add -f docs/search_results/search_clinerules.atom
+          git add -f docs/search_results/search_claude_settingsjson.atom
 
           if ! git diff --quiet --cached ; then
             git commit -m "Update search results: ${QUERY}"
