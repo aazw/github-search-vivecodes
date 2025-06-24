@@ -16,6 +16,7 @@ on:
   workflow_run:
     workflows:
       - "Search .clinerules"
+      - "Search .claude/settings.json"
       - "Search CLAUDE.md"
     types:
       - "completed"
