@@ -6,7 +6,7 @@
 # 14 (Forky)
 
 # for main image
-ARG DOCKER_DEBIAN_VERSION=12.11
+ARG DOCKER_DEBIAN_VERSION=13.0
 
 # for builder images
 ARG DOCKER_GOLANG_VERSION=1.24-bookworm
