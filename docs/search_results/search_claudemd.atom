@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Code Search Results for: CLAUDE.md+in:path</title>
   <link href="https://github.com/search?q=CLAUDE.md%2Bin%3Apath&amp;type=code" rel="alternate"/>
-  <updated>2025-11-04T15:12:40.009158+00:00</updated>
+  <updated>2025-11-05T15:09:52.301479+00:00</updated>
   <id>urn:github-search:CLAUDE.md%2Bin%3Apath</id>
   <entry>
     <title>foambubble/foam: CLAUDE.md</title>
     <link href="https://github.com/foambubble/foam/blob/bbb480148693984638b7c46cc0a57172f81a8b2c/CLAUDE.md"/>
     <id>urn:github:foambubble/foam:CLAUDE.md:009ed0daca429f80bd8bdc5ea7970dc1b421eed0</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: foambubble/foam
 SHA: 009ed0daca429f80bd8bdc5ea7970dc1b421eed0</summary>
@@ -19,7 +19,7 @@ SHA: 009ed0daca429f80bd8bdc5ea7970dc1b421eed0</summary>
     <title>ModelEngine-Group/nexent: CLAUDE.md</title>
     <link href="https://github.com/ModelEngine-Group/nexent/blob/0f58c26815db0a637bc6b40cc03b6ab1840309fe/CLAUDE.md"/>
     <id>urn:github:ModelEngine-Group/nexent:CLAUDE.md:00eff3d2ee5cb49492aab73cc6b1d3b8d699ec1c</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: ModelEngine-Group/nexent
 SHA: 00eff3d2ee5cb49492aab73cc6b1d3b8d699ec1c</summary>
@@ -28,9 +28,9 @@ SHA: 00eff3d2ee5cb49492aab73cc6b1d3b8d699ec1c</summary>
   </entry>
   <entry>
     <title>zshcatsandevops/UniversalJailbreakDB20XX: #########claude.md</title>
-    <link href="https://github.com/zshcatsandevops/UniversalJailbreakDB20XX/blob/a080b99a6f0e65af63c445a77825204a3ae0f096/%23%23%23%23%23%23%23%23%23claude.md"/>
+    <link href="https://github.com/zshcatsandevops/UniversalJailbreakDB20XX/blob/914c71fbfbaa61df407ceacbdebe1c4687623e00/%23%23%23%23%23%23%23%23%23claude.md"/>
     <id>urn:github:zshcatsandevops/UniversalJailbreakDB20XX:#########claude.md:c665b6f8efe3abdc3bab48155b55c40e9653e16d</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: #########claude.md
 Repository: zshcatsandevops/UniversalJailbreakDB20XX
 SHA: c665b6f8efe3abdc3bab48155b55c40e9653e16d</summary>
@@ -41,7 +41,7 @@ SHA: c665b6f8efe3abdc3bab48155b55c40e9653e16d</summary>
     <title>oldwinter/knowledge-garden: CLAUDE.md</title>
     <link href="https://github.com/oldwinter/knowledge-garden/blob/2ad252e3820b775040d726298ea9b05821e86783/CLAUDE.md"/>
     <id>urn:github:oldwinter/knowledge-garden:CLAUDE.md:00f30a413a9fd5a2a81c9ee76e19d83b894a85d7</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: oldwinter/knowledge-garden
 SHA: 00f30a413a9fd5a2a81c9ee76e19d83b894a85d7</summary>
@@ -52,7 +52,7 @@ SHA: 00f30a413a9fd5a2a81c9ee76e19d83b894a85d7</summary>
     <title>dwildt/bankaccount-travis: claude.md</title>
     <link href="https://github.com/dwildt/bankaccount-travis/blob/1bd335038db602cea8ee9f6334b81dba45dd2482/claude.md"/>
     <id>urn:github:dwildt/bankaccount-travis:claude.md:0167be4f1d0a2530c2ebdce5657fe22859c334d6</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: claude.md
 Repository: dwildt/bankaccount-travis
 SHA: 0167be4f1d0a2530c2ebdce5657fe22859c334d6</summary>
@@ -63,7 +63,7 @@ SHA: 0167be4f1d0a2530c2ebdce5657fe22859c334d6</summary>
     <title>MillCityAI/minneapolis-permits-dashboard: Claude.MD</title>
     <link href="https://github.com/MillCityAI/minneapolis-permits-dashboard/blob/85ce803b8ad70f542ece9589fbfe5b6b55951419/Claude.MD"/>
     <id>urn:github:MillCityAI/minneapolis-permits-dashboard:Claude.MD:02548c3c6d94a8a9f62c5957bcb9f0b5cbfe193d</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: Claude.MD
 Repository: MillCityAI/minneapolis-permits-dashboard
 SHA: 02548c3c6d94a8a9f62c5957bcb9f0b5cbfe193d</summary>
@@ -71,153 +71,21 @@ SHA: 02548c3c6d94a8a9f62c5957bcb9f0b5cbfe193d</summary>
     <category term="path" label="Claude.MD"/>
   </entry>
   <entry>
-    <title>delegateas/XrmBedrock: CLAUDE.md</title>
-    <link href="https://github.com/delegateas/XrmBedrock/blob/a69e298a50309372c47fcbd093d751ecb2361a2f/CLAUDE.md"/>
-    <id>urn:github:delegateas/XrmBedrock:CLAUDE.md:020005bc1214c002267a5bf896627b758cd498e7</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: delegateas/XrmBedrock
-SHA: 020005bc1214c002267a5bf896627b758cd498e7</summary>
-    <category term="repository" label="delegateas/XrmBedrock"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>markussandin1/zirk-it: claude.md</title>
-    <link href="https://github.com/markussandin1/zirk-it/blob/c02087cc373c211587a28a944980f4110cf0385f/claude.md"/>
-    <id>urn:github:markussandin1/zirk-it:claude.md:00eda773f47da4972ac4a8c225eaded346aff2b2</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>HKdigital/hkdigital--lib-core: claude.md</title>
+    <link href="https://github.com/HKdigital/hkdigital--lib-core/blob/983d451cc9087b8588539ad9fcb2b42cf4a220b2/claude.md"/>
+    <id>urn:github:HKdigital/hkdigital--lib-core:claude.md:00397f6035b66340eb06f2d49a29da2995accdfa</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: claude.md
-Repository: markussandin1/zirk-it
-SHA: 00eda773f47da4972ac4a8c225eaded346aff2b2</summary>
-    <category term="repository" label="markussandin1/zirk-it"/>
+Repository: HKdigital/hkdigital--lib-core
+SHA: 00397f6035b66340eb06f2d49a29da2995accdfa</summary>
+    <category term="repository" label="HKdigital/hkdigital--lib-core"/>
     <category term="path" label="claude.md"/>
-  </entry>
-  <entry>
-    <title>willswire/trivy-plugin-zarf: CLAUDE.md</title>
-    <link href="https://github.com/willswire/trivy-plugin-zarf/blob/20ac201614249f121b13dbe93d97a4abfc816c69/CLAUDE.md"/>
-    <id>urn:github:willswire/trivy-plugin-zarf:CLAUDE.md:00f514aaef183a1a203223ad87933d4f56fee7b0</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: willswire/trivy-plugin-zarf
-SHA: 00f514aaef183a1a203223ad87933d4f56fee7b0</summary>
-    <category term="repository" label="willswire/trivy-plugin-zarf"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>daviguides/heavens7: Claude.md</title>
-    <link href="https://github.com/daviguides/heavens7/blob/b0e52cdd642cca61e0e943e8253e6c1e8f254004/Claude.md"/>
-    <id>urn:github:daviguides/heavens7:Claude.md:b77bacb2a5ce204289c6fc17038044ef657e9923</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: Claude.md
-Repository: daviguides/heavens7
-SHA: b77bacb2a5ce204289c6fc17038044ef657e9923</summary>
-    <category term="repository" label="daviguides/heavens7"/>
-    <category term="path" label="Claude.md"/>
-  </entry>
-  <entry>
-    <title>reallygood83/smartq: CLAUDE.md</title>
-    <link href="https://github.com/reallygood83/smartq/blob/a120e3f271a48097938aa8ffe9bf7ff7124af04d/CLAUDE.md"/>
-    <id>urn:github:reallygood83/smartq:CLAUDE.md:0214f945ee2b6cb1c1ffc12dcdf28d37656d9314</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: reallygood83/smartq
-SHA: 0214f945ee2b6cb1c1ffc12dcdf28d37656d9314</summary>
-    <category term="repository" label="reallygood83/smartq"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>anthonyo1978/taketwo-ndis: claude.md</title>
-    <link href="https://github.com/anthonyo1978/taketwo-ndis/blob/34bbb85b62760d5434c62e6d7713634cf01ceee9/claude.md"/>
-    <id>urn:github:anthonyo1978/taketwo-ndis:claude.md:0193dfb315b70efa90ec66a04bcbab1693747e61</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: claude.md
-Repository: anthonyo1978/taketwo-ndis
-SHA: 0193dfb315b70efa90ec66a04bcbab1693747e61</summary>
-    <category term="repository" label="anthonyo1978/taketwo-ndis"/>
-    <category term="path" label="claude.md"/>
-  </entry>
-  <entry>
-    <title>skr-cloudify/repomix-cloud: CLAUDE.md</title>
-    <link href="https://github.com/skr-cloudify/repomix-cloud/blob/a109b292141004480158a0cf3c240d892c254f1f/CLAUDE.md"/>
-    <id>urn:github:skr-cloudify/repomix-cloud:CLAUDE.md:00f787a390d41df388a8d6eb617099298b73a316</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: skr-cloudify/repomix-cloud
-SHA: 00f787a390d41df388a8d6eb617099298b73a316</summary>
-    <category term="repository" label="skr-cloudify/repomix-cloud"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>burningion/nathan_for_us: genstage_learning_for_claude.md</title>
-    <link href="https://github.com/burningion/nathan_for_us/blob/4752026dce907b348541c852f5b1f040f61c5222/genstage_learning_for_claude.md"/>
-    <id>urn:github:burningion/nathan_for_us:genstage_learning_for_claude.md:51457f5a370fe83308565d6c47343205631649c6</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: genstage_learning_for_claude.md
-Repository: burningion/nathan_for_us
-SHA: 51457f5a370fe83308565d6c47343205631649c6</summary>
-    <category term="repository" label="burningion/nathan_for_us"/>
-    <category term="path" label="genstage_learning_for_claude.md"/>
-  </entry>
-  <entry>
-    <title>typelate/muxt: Claude.md</title>
-    <link href="https://github.com/typelate/muxt/blob/7ce37596bd0e88fb36fc7d9e03cc89b322064289/Claude.md"/>
-    <id>urn:github:typelate/muxt:Claude.md:018a942185ea9a9d216a789365cb97467de4ad41</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: Claude.md
-Repository: typelate/muxt
-SHA: 018a942185ea9a9d216a789365cb97467de4ad41</summary>
-    <category term="repository" label="typelate/muxt"/>
-    <category term="path" label="Claude.md"/>
-  </entry>
-  <entry>
-    <title>jonyardley/Intrada: Claude.MD</title>
-    <link href="https://github.com/jonyardley/Intrada/blob/134de58b757606b7fe8797c84ec92e696aa3a6b4/Claude.MD"/>
-    <id>urn:github:jonyardley/Intrada:Claude.MD:02cf501fc1a0869b21bfa8af1a9e33214c1def03</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: Claude.MD
-Repository: jonyardley/Intrada
-SHA: 02cf501fc1a0869b21bfa8af1a9e33214c1def03</summary>
-    <category term="repository" label="jonyardley/Intrada"/>
-    <category term="path" label="Claude.MD"/>
-  </entry>
-  <entry>
-    <title>kznconsulting/bibtex_importer: CLAUDE.md</title>
-    <link href="https://github.com/kznconsulting/bibtex_importer/blob/8987795fca476b7f326bdccf68784e5077b5089e/CLAUDE.md"/>
-    <id>urn:github:kznconsulting/bibtex_importer:CLAUDE.md:00634b15e97cc9383ba3dc1beabfd1f77a188ef6</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: kznconsulting/bibtex_importer
-SHA: 00634b15e97cc9383ba3dc1beabfd1f77a188ef6</summary>
-    <category term="repository" label="kznconsulting/bibtex_importer"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>bjarneo/aether.nvim: claude.md</title>
-    <link href="https://github.com/bjarneo/aether.nvim/blob/89ccaae78a1f263fdf698f9e506bfaf82c59890e/claude.md"/>
-    <id>urn:github:bjarneo/aether.nvim:claude.md:019d3e764996ddeba68a02502108d47a0fc5e314</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: claude.md
-Repository: bjarneo/aether.nvim
-SHA: 019d3e764996ddeba68a02502108d47a0fc5e314</summary>
-    <category term="repository" label="bjarneo/aether.nvim"/>
-    <category term="path" label="claude.md"/>
-  </entry>
-  <entry>
-    <title>TimurMunykin/OutlineVpnTelegramBot: CLAUDE.md</title>
-    <link href="https://github.com/TimurMunykin/OutlineVpnTelegramBot/blob/0f65a69093c695818ae8eca3d0a00a3529d76a04/CLAUDE.md"/>
-    <id>urn:github:TimurMunykin/OutlineVpnTelegramBot:CLAUDE.md:0189362d35aea840305618466e4cc3630b2cc9a4</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: TimurMunykin/OutlineVpnTelegramBot
-SHA: 0189362d35aea840305618466e4cc3630b2cc9a4</summary>
-    <category term="repository" label="TimurMunykin/OutlineVpnTelegramBot"/>
-    <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>Clionegohan/iot-temperature-conversion-api: Claude.md</title>
     <link href="https://github.com/Clionegohan/iot-temperature-conversion-api/blob/6d01378ce99092c3626cba88ebc9b4cd11a9d116/Claude.md"/>
     <id>urn:github:Clionegohan/iot-temperature-conversion-api:Claude.md:021ce0f79906b956a46421daea611aeef11e757e</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: Claude.md
 Repository: Clionegohan/iot-temperature-conversion-api
 SHA: 021ce0f79906b956a46421daea611aeef11e757e</summary>
@@ -225,98 +93,76 @@ SHA: 021ce0f79906b956a46421daea611aeef11e757e</summary>
     <category term="path" label="Claude.md"/>
   </entry>
   <entry>
-    <title>yuya-takeyama/cchh: CLAUDE.md</title>
-    <link href="https://github.com/yuya-takeyama/cchh/blob/c6743fad21182c85ec5dec49140f794ac3159ba0/CLAUDE.md"/>
-    <id>urn:github:yuya-takeyama/cchh:CLAUDE.md:00598e573e30e91203ae7ef5515ce761db1a0fff</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>sillygod/ansible-zerossl: CLAUDE.md</title>
+    <link href="https://github.com/sillygod/ansible-zerossl/blob/960cfdf90551bd95d83cb9476b51c39d16046db0/CLAUDE.md"/>
+    <id>urn:github:sillygod/ansible-zerossl:CLAUDE.md:00d4073154567679158ed44172cc3cd3723acefc</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: yuya-takeyama/cchh
-SHA: 00598e573e30e91203ae7ef5515ce761db1a0fff</summary>
-    <category term="repository" label="yuya-takeyama/cchh"/>
+Repository: sillygod/ansible-zerossl
+SHA: 00d4073154567679158ed44172cc3cd3723acefc</summary>
+    <category term="repository" label="sillygod/ansible-zerossl"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>haithemobeidi/purchase-pause: CLAUDE.md</title>
-    <link href="https://github.com/haithemobeidi/purchase-pause/blob/2c1ccf632b64fdb67ad7fc1e77888910e2e276ad/CLAUDE.md"/>
-    <id>urn:github:haithemobeidi/purchase-pause:CLAUDE.md:007468e76441339771c64ce8194e96cb7f5abbd8</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>oberonlai/cc-spec: CLAUDE.md</title>
+    <link href="https://github.com/oberonlai/cc-spec/blob/0a85f23f429c33db6f0c2a98ac0b3bce422d5adb/CLAUDE.md"/>
+    <id>urn:github:oberonlai/cc-spec:CLAUDE.md:022ac21b1b672c2958a6b1da3fd9c18e7ef10356</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: haithemobeidi/purchase-pause
-SHA: 007468e76441339771c64ce8194e96cb7f5abbd8</summary>
-    <category term="repository" label="haithemobeidi/purchase-pause"/>
+Repository: oberonlai/cc-spec
+SHA: 022ac21b1b672c2958a6b1da3fd9c18e7ef10356</summary>
+    <category term="repository" label="oberonlai/cc-spec"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>malibrated/simple-llm-service: CLAUDE.md</title>
-    <link href="https://github.com/malibrated/simple-llm-service/blob/b83ef996dd32e8d0d2e73af39e8f154255ad4e16/CLAUDE.md"/>
-    <id>urn:github:malibrated/simple-llm-service:CLAUDE.md:000c3892ad3c5e966b6571448d4649cadc36b14d</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>jpfaraco/colorguru: CLAUDE.md</title>
+    <link href="https://github.com/jpfaraco/colorguru/blob/a74745a0fe62972af5c70a922e1e8c0659e2aa54/CLAUDE.md"/>
+    <id>urn:github:jpfaraco/colorguru:CLAUDE.md:0129c5f929f543f55b6cc872001ab38e5893da5a</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: malibrated/simple-llm-service
-SHA: 000c3892ad3c5e966b6571448d4649cadc36b14d</summary>
-    <category term="repository" label="malibrated/simple-llm-service"/>
+Repository: jpfaraco/colorguru
+SHA: 0129c5f929f543f55b6cc872001ab38e5893da5a</summary>
+    <category term="repository" label="jpfaraco/colorguru"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>ricequant/rqboot: CLAUDE.md</title>
-    <link href="https://github.com/ricequant/rqboot/blob/1b94b4e12216b6099851373b93b9e03f3ea6a005/CLAUDE.md"/>
-    <id>urn:github:ricequant/rqboot:CLAUDE.md:021bfa683b1f16d4f515ed5ff02697f7ee785628</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>rafaelcostaleite/new_blog_veloder: claude.md</title>
+    <link href="https://github.com/rafaelcostaleite/new_blog_veloder/blob/1d8bda4f738b65589d020c9434fd697eacb28034/claude.md"/>
+    <id>urn:github:rafaelcostaleite/new_blog_veloder:claude.md:0005dc2e59cb057e1eff89116761c776d12bd844</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: claude.md
+Repository: rafaelcostaleite/new_blog_veloder
+SHA: 0005dc2e59cb057e1eff89116761c776d12bd844</summary>
+    <category term="repository" label="rafaelcostaleite/new_blog_veloder"/>
+    <category term="path" label="claude.md"/>
+  </entry>
+  <entry>
+    <title>jackzhaojin/jackzhaojin.github.io: CLAUDE.md</title>
+    <link href="https://github.com/jackzhaojin/jackzhaojin.github.io/blob/6b2c08e609ac64f2e756202e24eec0a0d14d2840/CLAUDE.md"/>
+    <id>urn:github:jackzhaojin/jackzhaojin.github.io:CLAUDE.md:03209cf29f4a1eb2909ecc460605b91e4418f61b</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: ricequant/rqboot
-SHA: 021bfa683b1f16d4f515ed5ff02697f7ee785628</summary>
-    <category term="repository" label="ricequant/rqboot"/>
+Repository: jackzhaojin/jackzhaojin.github.io
+SHA: 03209cf29f4a1eb2909ecc460605b91e4418f61b</summary>
+    <category term="repository" label="jackzhaojin/jackzhaojin.github.io"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>EntropyRy/Tunkki: CLAUDE.md</title>
-    <link href="https://github.com/EntropyRy/Tunkki/blob/8df155b05d41fc928b2a19188d8dd274917d66c2/CLAUDE.md"/>
-    <id>urn:github:EntropyRy/Tunkki:CLAUDE.md:006182eb11d50d01e6d2f9e8ec9522a6226ccaab</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: EntropyRy/Tunkki
-SHA: 006182eb11d50d01e6d2f9e8ec9522a6226ccaab</summary>
-    <category term="repository" label="EntropyRy/Tunkki"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>jondallasjr/coda-doc-scraper: CLAUDE.md</title>
-    <link href="https://github.com/jondallasjr/coda-doc-scraper/blob/fc36e17d552b14b9003de3dc6899d65bb191780c/CLAUDE.md"/>
-    <id>urn:github:jondallasjr/coda-doc-scraper:CLAUDE.md:00de365d383b9fc8c7de1cb1dca981f02e848da0</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: jondallasjr/coda-doc-scraper
-SHA: 00de365d383b9fc8c7de1cb1dca981f02e848da0</summary>
-    <category term="repository" label="jondallasjr/coda-doc-scraper"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>misterbuckley/vim-oracle: CLAUDE.md</title>
-    <link href="https://github.com/misterbuckley/vim-oracle/blob/c580e28669f3483e47a5198e644a2e10a6697570/CLAUDE.md"/>
-    <id>urn:github:misterbuckley/vim-oracle:CLAUDE.md:016324a1ac2ad0d0491a7a463235b367ae378ee3</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: misterbuckley/vim-oracle
-SHA: 016324a1ac2ad0d0491a7a463235b367ae378ee3</summary>
-    <category term="repository" label="misterbuckley/vim-oracle"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>Hartha-aloufi/Merqam: CLAUDE.md</title>
-    <link href="https://github.com/Hartha-aloufi/Merqam/blob/1e1c2fce643c8ea838d8a00ea28842fc218a51d6/CLAUDE.md"/>
-    <id>urn:github:Hartha-aloufi/Merqam:CLAUDE.md:0018dae56f549ac68dc9d805b973a1da18cf8c9a</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: Hartha-aloufi/Merqam
-SHA: 0018dae56f549ac68dc9d805b973a1da18cf8c9a</summary>
-    <category term="repository" label="Hartha-aloufi/Merqam"/>
-    <category term="path" label="CLAUDE.md"/>
+    <title>hajimasa/lunch-map: Claude.md</title>
+    <link href="https://github.com/hajimasa/lunch-map/blob/aa7f4a24034c424acbde05b53a6f34c8403af0be/Claude.md"/>
+    <id>urn:github:hajimasa/lunch-map:Claude.md:0238f55098f7a587f33a710da47269c25aeada2f</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: Claude.md
+Repository: hajimasa/lunch-map
+SHA: 0238f55098f7a587f33a710da47269c25aeada2f</summary>
+    <category term="repository" label="hajimasa/lunch-map"/>
+    <category term="path" label="Claude.md"/>
   </entry>
   <entry>
     <title>Popplywop/tsql-mcp-server: Claude.md</title>
     <link href="https://github.com/Popplywop/tsql-mcp-server/blob/36f3a2fc8943ddd83bbcb609a72c42a424dc3cff/Claude.md"/>
     <id>urn:github:Popplywop/tsql-mcp-server:Claude.md:00fa80268e2e89cef64dbf174b676695650c9cee</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: Claude.md
 Repository: Popplywop/tsql-mcp-server
 SHA: 00fa80268e2e89cef64dbf174b676695650c9cee</summary>
@@ -324,230 +170,131 @@ SHA: 00fa80268e2e89cef64dbf174b676695650c9cee</summary>
     <category term="path" label="Claude.md"/>
   </entry>
   <entry>
-    <title>ham0215/google-calendar-mcp: CLAUDE.md</title>
-    <link href="https://github.com/ham0215/google-calendar-mcp/blob/81b78a239dc6f0b5128588c2f054180b4db9b307/CLAUDE.md"/>
-    <id>urn:github:ham0215/google-calendar-mcp:CLAUDE.md:0392805138daaaf3ca0ab61e9e9be23a9119caac</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>liuyuelintop/next-blog: CLAUDE.md</title>
+    <link href="https://github.com/liuyuelintop/next-blog/blob/1eb4ae10a353d6cd7da69fc05418a95900fc9e57/CLAUDE.md"/>
+    <id>urn:github:liuyuelintop/next-blog:CLAUDE.md:00501e2a158dfea786d70755fc68243f9053f31d</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: ham0215/google-calendar-mcp
-SHA: 0392805138daaaf3ca0ab61e9e9be23a9119caac</summary>
-    <category term="repository" label="ham0215/google-calendar-mcp"/>
+Repository: liuyuelintop/next-blog
+SHA: 00501e2a158dfea786d70755fc68243f9053f31d</summary>
+    <category term="repository" label="liuyuelintop/next-blog"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>PIGU-PPPgu/edu-analysis: CLAUDE.md</title>
-    <link href="https://github.com/PIGU-PPPgu/edu-analysis/blob/106cbd3823a46f5b1d86c360bbdebc0ad4190382/CLAUDE.md"/>
-    <id>urn:github:PIGU-PPPgu/edu-analysis:CLAUDE.md:025e104ac689e0563f61067bec320c520934f46c</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>markussandin1/zirk-it: claude.md</title>
+    <link href="https://github.com/markussandin1/zirk-it/blob/c02087cc373c211587a28a944980f4110cf0385f/claude.md"/>
+    <id>urn:github:markussandin1/zirk-it:claude.md:00eda773f47da4972ac4a8c225eaded346aff2b2</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: claude.md
+Repository: markussandin1/zirk-it
+SHA: 00eda773f47da4972ac4a8c225eaded346aff2b2</summary>
+    <category term="repository" label="markussandin1/zirk-it"/>
+    <category term="path" label="claude.md"/>
+  </entry>
+  <entry>
+    <title>michaelborck-education/career-compass: CLAUDE.md</title>
+    <link href="https://github.com/michaelborck-education/career-compass/blob/8b12f6f668ec5a64e637e7f60df673d54ff4e6c4/CLAUDE.md"/>
+    <id>urn:github:michaelborck-education/career-compass:CLAUDE.md:020d5716682eb8dff8db998249b92c2119219e27</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: PIGU-PPPgu/edu-analysis
-SHA: 025e104ac689e0563f61067bec320c520934f46c</summary>
-    <category term="repository" label="PIGU-PPPgu/edu-analysis"/>
+Repository: michaelborck-education/career-compass
+SHA: 020d5716682eb8dff8db998249b92c2119219e27</summary>
+    <category term="repository" label="michaelborck-education/career-compass"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Lucascis/discord_bot: CLAUDE.md</title>
-    <link href="https://github.com/Lucascis/discord_bot/blob/f8a646a4f8ce1cb0b2814be95396e1b287068c4b/CLAUDE.md"/>
-    <id>urn:github:Lucascis/discord_bot:CLAUDE.md:02284c557275f9057ae2f271bba38d6edd195ee7</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>davidkarpay/ChatGPT-Sidecar: CLAUDE.md</title>
+    <link href="https://github.com/davidkarpay/ChatGPT-Sidecar/blob/eff4a2ee3c1248009b76344777929e51ce425b09/CLAUDE.md"/>
+    <id>urn:github:davidkarpay/ChatGPT-Sidecar:CLAUDE.md:0144b69892042de652c930a57baea5bf54bac508</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Lucascis/discord_bot
-SHA: 02284c557275f9057ae2f271bba38d6edd195ee7</summary>
-    <category term="repository" label="Lucascis/discord_bot"/>
+Repository: davidkarpay/ChatGPT-Sidecar
+SHA: 0144b69892042de652c930a57baea5bf54bac508</summary>
+    <category term="repository" label="davidkarpay/ChatGPT-Sidecar"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>itsatony/go-pubbing: CLAUDE.md</title>
-    <link href="https://github.com/itsatony/go-pubbing/blob/cb9ef4313f5a52d79450e7e80a56522aed4d542c/CLAUDE.md"/>
-    <id>urn:github:itsatony/go-pubbing:CLAUDE.md:01b69b2633df71f4000717a33dd8dcb4f349563b</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>brendanxu/greentokey: claude.md</title>
+    <link href="https://github.com/brendanxu/greentokey/blob/5e31ba4cd0e8811321b2f3f50166584670aee4bd/claude.md"/>
+    <id>urn:github:brendanxu/greentokey:claude.md:026c79e02ad8cb3d25e261f52df6eee7e17aa25d</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: claude.md
+Repository: brendanxu/greentokey
+SHA: 026c79e02ad8cb3d25e261f52df6eee7e17aa25d</summary>
+    <category term="repository" label="brendanxu/greentokey"/>
+    <category term="path" label="claude.md"/>
+  </entry>
+  <entry>
+    <title>khirayama/reader: CLAUDE.md</title>
+    <link href="https://github.com/khirayama/reader/blob/87b28fde780ad4c6f56e81fa9e4ccb539816a98d/CLAUDE.md"/>
+    <id>urn:github:khirayama/reader:CLAUDE.md:01f8fd9e40dfda22d39cd69369d7ff18bd528e2b</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: itsatony/go-pubbing
-SHA: 01b69b2633df71f4000717a33dd8dcb4f349563b</summary>
-    <category term="repository" label="itsatony/go-pubbing"/>
+Repository: khirayama/reader
+SHA: 01f8fd9e40dfda22d39cd69369d7ff18bd528e2b</summary>
+    <category term="repository" label="khirayama/reader"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>shishi/ubuntu_autoinstall: CLAUDE.md</title>
-    <link href="https://github.com/shishi/ubuntu_autoinstall/blob/f5e411e94ace929d02d80f1c6dd50b880527ae37/CLAUDE.md"/>
-    <id>urn:github:shishi/ubuntu_autoinstall:CLAUDE.md:01aaf70addfc8a7afbc2b5c13fffe8b5aefd48e1</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>gitkola/copy-call: CLAUDE.md</title>
+    <link href="https://github.com/gitkola/copy-call/blob/094caac561c555b72370892d920cadabb383900f/CLAUDE.md"/>
+    <id>urn:github:gitkola/copy-call:CLAUDE.md:017a6825c76dfa36514529267538e4119d26f3b4</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: shishi/ubuntu_autoinstall
-SHA: 01aaf70addfc8a7afbc2b5c13fffe8b5aefd48e1</summary>
-    <category term="repository" label="shishi/ubuntu_autoinstall"/>
+Repository: gitkola/copy-call
+SHA: 017a6825c76dfa36514529267538e4119d26f3b4</summary>
+    <category term="repository" label="gitkola/copy-call"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>RST-T/siraj-mcp-platform: CLAUDE.md</title>
-    <link href="https://github.com/RST-T/siraj-mcp-platform/blob/5a6a161ec5bf991a1c5d77480a3ea01644cd8c5a/CLAUDE.md"/>
-    <id>urn:github:RST-T/siraj-mcp-platform:CLAUDE.md:019214aa7ddddef0ab95c0fb262092bc56deae40</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>aigouassel/setup: CLAUDE.md</title>
+    <link href="https://github.com/aigouassel/setup/blob/53493c3e5787d3f9258eca3f879d1a85145983b1/CLAUDE.md"/>
+    <id>urn:github:aigouassel/setup:CLAUDE.md:00c0846e07a34bbd7b296fac06f8d95d7cbd49c5</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: RST-T/siraj-mcp-platform
-SHA: 019214aa7ddddef0ab95c0fb262092bc56deae40</summary>
-    <category term="repository" label="RST-T/siraj-mcp-platform"/>
+Repository: aigouassel/setup
+SHA: 00c0846e07a34bbd7b296fac06f8d95d7cbd49c5</summary>
+    <category term="repository" label="aigouassel/setup"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>andrey-belen/compound-v2-audit: CLAUDE.md</title>
-    <link href="https://github.com/andrey-belen/compound-v2-audit/blob/e128dd4b42d9fe6968ff4bee7172481b8318fe27/CLAUDE.md"/>
-    <id>urn:github:andrey-belen/compound-v2-audit:CLAUDE.md:016a14c39a1e375d776d5226945f59788dc85592</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>mylex/veilux: claude.md</title>
+    <link href="https://github.com/mylex/veilux/blob/a6add520408c2c34b35c2d2b64edc824aef2a1f9/claude.md"/>
+    <id>urn:github:mylex/veilux:claude.md:006d358bbe1b022e2a4b777565c3199927d46431</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: claude.md
+Repository: mylex/veilux
+SHA: 006d358bbe1b022e2a4b777565c3199927d46431</summary>
+    <category term="repository" label="mylex/veilux"/>
+    <category term="path" label="claude.md"/>
+  </entry>
+  <entry>
+    <title>chrischaps/Scratcher: CLAUDE.md</title>
+    <link href="https://github.com/chrischaps/Scratcher/blob/776e4b7c4dfaa184386d6eef3bbe493706dd65b9/CLAUDE.md"/>
+    <id>urn:github:chrischaps/Scratcher:CLAUDE.md:0297eda2e3329d94915aad5adc5eb6d853498d32</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: andrey-belen/compound-v2-audit
-SHA: 016a14c39a1e375d776d5226945f59788dc85592</summary>
-    <category term="repository" label="andrey-belen/compound-v2-audit"/>
+Repository: chrischaps/Scratcher
+SHA: 0297eda2e3329d94915aad5adc5eb6d853498d32</summary>
+    <category term="repository" label="chrischaps/Scratcher"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Jamie-Cui/dlutils-cpp: CLAUDE.md</title>
-    <link href="https://github.com/Jamie-Cui/dlutils-cpp/blob/0c5b6bf834b4b5c0daf6847223c5d87f7fa5aba0/CLAUDE.md"/>
-    <id>urn:github:Jamie-Cui/dlutils-cpp:CLAUDE.md:0123017f04a5b1be4940029ea401c7c90c65ab71</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>indrajeet-tellis/modern-admin-panel-boilerplate: CLAUDE.md</title>
+    <link href="https://github.com/indrajeet-tellis/modern-admin-panel-boilerplate/blob/e6d11b1ca504ca3f03d1efdbffd2146289f2a1dd/CLAUDE.md"/>
+    <id>urn:github:indrajeet-tellis/modern-admin-panel-boilerplate:CLAUDE.md:01b3960347234512aad0600cde5bc9bc1fd48872</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Jamie-Cui/dlutils-cpp
-SHA: 0123017f04a5b1be4940029ea401c7c90c65ab71</summary>
-    <category term="repository" label="Jamie-Cui/dlutils-cpp"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>guess/axn: CLAUDE.md</title>
-    <link href="https://github.com/guess/axn/blob/2778a361a4035ea7c18fe70dee01548408605edf/CLAUDE.md"/>
-    <id>urn:github:guess/axn:CLAUDE.md:00a0a18c11d32515ce9fbd8d4e5e9094f98aea8d</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: guess/axn
-SHA: 00a0a18c11d32515ce9fbd8d4e5e9094f98aea8d</summary>
-    <category term="repository" label="guess/axn"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>ineffably/kenney-asset-viewer: CLAUDE.md</title>
-    <link href="https://github.com/ineffably/kenney-asset-viewer/blob/7ba23ad7fd71a35d0081398ed2877e19c60c06b0/CLAUDE.md"/>
-    <id>urn:github:ineffably/kenney-asset-viewer:CLAUDE.md:000b2247d8bf373515849f47b2d00e04455358f1</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: ineffably/kenney-asset-viewer
-SHA: 000b2247d8bf373515849f47b2d00e04455358f1</summary>
-    <category term="repository" label="ineffably/kenney-asset-viewer"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>studie-tech/TheNinjaRPG: CLAUDE.md</title>
-    <link href="https://github.com/studie-tech/TheNinjaRPG/blob/9772ebe415ef770aa5891f672038e32918391ff8/CLAUDE.md"/>
-    <id>urn:github:studie-tech/TheNinjaRPG:CLAUDE.md:01235464b83731fb8618dafb485fb2b1634fc0f1</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: studie-tech/TheNinjaRPG
-SHA: 01235464b83731fb8618dafb485fb2b1634fc0f1</summary>
-    <category term="repository" label="studie-tech/TheNinjaRPG"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>allenlee820202/exif-editor: CLAUDE.md</title>
-    <link href="https://github.com/allenlee820202/exif-editor/blob/ba2f3f9af4e9cc89d4219124939a5b5efdad4650/CLAUDE.md"/>
-    <id>urn:github:allenlee820202/exif-editor:CLAUDE.md:0045db5f44e0d0fd9fe9b8f4fb7509af5ed70e21</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: allenlee820202/exif-editor
-SHA: 0045db5f44e0d0fd9fe9b8f4fb7509af5ed70e21</summary>
-    <category term="repository" label="allenlee820202/exif-editor"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>cairo-castro/sistema_qualidade: CLAUDE.md</title>
-    <link href="https://github.com/cairo-castro/sistema_qualidade/blob/aae2824c9489e5aff6cbc1bf6ffe371f632bc95d/CLAUDE.md"/>
-    <id>urn:github:cairo-castro/sistema_qualidade:CLAUDE.md:26ab3544c23ad46368849ec7949c3aaa93286375</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: cairo-castro/sistema_qualidade
-SHA: 26ab3544c23ad46368849ec7949c3aaa93286375</summary>
-    <category term="repository" label="cairo-castro/sistema_qualidade"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>ida29/yadon-desktop-pet: CLAUDE.md</title>
-    <link href="https://github.com/ida29/yadon-desktop-pet/blob/3af0992186e202de1c9e4ba9b3a66d7514febf21/CLAUDE.md"/>
-    <id>urn:github:ida29/yadon-desktop-pet:CLAUDE.md:0319dc176c35c733309c8ff8a47708c1e3c779b9</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: ida29/yadon-desktop-pet
-SHA: 0319dc176c35c733309c8ff8a47708c1e3c779b9</summary>
-    <category term="repository" label="ida29/yadon-desktop-pet"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>rojosinalma/tools-installer: CLAUDE.md</title>
-    <link href="https://github.com/rojosinalma/tools-installer/blob/e74121fe13f4a0bb67d1a6b15a902a25a7bd5d07/CLAUDE.md"/>
-    <id>urn:github:rojosinalma/tools-installer:CLAUDE.md:02554b1d215018b54854edbf3bd9f3c221d346f5</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: rojosinalma/tools-installer
-SHA: 02554b1d215018b54854edbf3bd9f3c221d346f5</summary>
-    <category term="repository" label="rojosinalma/tools-installer"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>jw41784/meridian: CLAUDE.md</title>
-    <link href="https://github.com/jw41784/meridian/blob/5aecdbe240cfa85b82ae5b6318c1ccc8d192f2ef/CLAUDE.md"/>
-    <id>urn:github:jw41784/meridian:CLAUDE.md:01df8e71c309dbd3625ebabdaf7d25b3d554e519</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: jw41784/meridian
-SHA: 01df8e71c309dbd3625ebabdaf7d25b3d554e519</summary>
-    <category term="repository" label="jw41784/meridian"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>smorin/thoth: CLAUDE.md</title>
-    <link href="https://github.com/smorin/thoth/blob/01e461bd0064bc445fc94681805da675221a90ff/CLAUDE.md"/>
-    <id>urn:github:smorin/thoth:CLAUDE.md:017f5afe79c75309f7efc632a3a6b9071f77168f</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: smorin/thoth
-SHA: 017f5afe79c75309f7efc632a3a6b9071f77168f</summary>
-    <category term="repository" label="smorin/thoth"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>yar0316/KitchenCompass: CLAUDE.md</title>
-    <link href="https://github.com/yar0316/KitchenCompass/blob/6dfbe9533ff46b73d8fc65050a278555d57bd3eb/CLAUDE.md"/>
-    <id>urn:github:yar0316/KitchenCompass:CLAUDE.md:0179299b3d92243506b483087779a1b4c4474a5e</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: yar0316/KitchenCompass
-SHA: 0179299b3d92243506b483087779a1b4c4474a5e</summary>
-    <category term="repository" label="yar0316/KitchenCompass"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>kiernan-dev/kiernan-cloud-landing: CLAUDE.md</title>
-    <link href="https://github.com/kiernan-dev/kiernan-cloud-landing/blob/288ac11088e84a74bb27e0c0fb50706f5bc87104/CLAUDE.md"/>
-    <id>urn:github:kiernan-dev/kiernan-cloud-landing:CLAUDE.md:0172a9cb349d2871dda51b7dd35fcaaa9459e9b1</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: kiernan-dev/kiernan-cloud-landing
-SHA: 0172a9cb349d2871dda51b7dd35fcaaa9459e9b1</summary>
-    <category term="repository" label="kiernan-dev/kiernan-cloud-landing"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>piwi3910/dns-go: CLAUDE.md</title>
-    <link href="https://github.com/piwi3910/dns-go/blob/012fa5dcfe2456a4f790cb3966c55fbdacc80258/CLAUDE.md"/>
-    <id>urn:github:piwi3910/dns-go:CLAUDE.md:01577fb16c3913bba1c9640e76c27c75d00132d3</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: piwi3910/dns-go
-SHA: 01577fb16c3913bba1c9640e76c27c75d00132d3</summary>
-    <category term="repository" label="piwi3910/dns-go"/>
+Repository: indrajeet-tellis/modern-admin-panel-boilerplate
+SHA: 01b3960347234512aad0600cde5bc9bc1fd48872</summary>
+    <category term="repository" label="indrajeet-tellis/modern-admin-panel-boilerplate"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>CFA-Fintech/AgenticForce-Orchestrator: CLAUDE.md</title>
     <link href="https://github.com/CFA-Fintech/AgenticForce-Orchestrator/blob/dea85696fca7c9f643856f6d31914286db3df892/CLAUDE.md"/>
     <id>urn:github:CFA-Fintech/AgenticForce-Orchestrator:CLAUDE.md:014e8106d7204a4eeefa7cdd2ac86102f6c2e986</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: CFA-Fintech/AgenticForce-Orchestrator
 SHA: 014e8106d7204a4eeefa7cdd2ac86102f6c2e986</summary>
@@ -555,54 +302,329 @@ SHA: 014e8106d7204a4eeefa7cdd2ac86102f6c2e986</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>eruotolo/astro-vycmantencionnaval: CLAUDE.md</title>
-    <link href="https://github.com/eruotolo/astro-vycmantencionnaval/blob/655cdbf40164dd9e00f209dd17cee5e8e3e2187c/CLAUDE.md"/>
-    <id>urn:github:eruotolo/astro-vycmantencionnaval:CLAUDE.md:0148cfbdb5bab9ee358f43ffdd2e7878c7cfb5a8</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>Sunwood-ai-labs/git-it-sync: CLAUDE.md</title>
+    <link href="https://github.com/Sunwood-ai-labs/git-it-sync/blob/376e151b1550a879c30e6a94d384240b62a2b02c/CLAUDE.md"/>
+    <id>urn:github:Sunwood-ai-labs/git-it-sync:CLAUDE.md:5e7514f82a3d79eb062b0d5d33e3a89f044d683e</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: eruotolo/astro-vycmantencionnaval
-SHA: 0148cfbdb5bab9ee358f43ffdd2e7878c7cfb5a8</summary>
-    <category term="repository" label="eruotolo/astro-vycmantencionnaval"/>
+Repository: Sunwood-ai-labs/git-it-sync
+SHA: 5e7514f82a3d79eb062b0d5d33e3a89f044d683e</summary>
+    <category term="repository" label="Sunwood-ai-labs/git-it-sync"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>PaulTreanor/taispeain: CLAUDE.md</title>
-    <link href="https://github.com/PaulTreanor/taispeain/blob/6c94ba1b3c77595b3642835d9e47a73723319aef/CLAUDE.md"/>
-    <id>urn:github:PaulTreanor/taispeain:CLAUDE.md:01230db43891be69563e4f5a785785d51ac39ff9</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>ham0215/google-calendar-mcp: CLAUDE.md</title>
+    <link href="https://github.com/ham0215/google-calendar-mcp/blob/81b78a239dc6f0b5128588c2f054180b4db9b307/CLAUDE.md"/>
+    <id>urn:github:ham0215/google-calendar-mcp:CLAUDE.md:0392805138daaaf3ca0ab61e9e9be23a9119caac</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: PaulTreanor/taispeain
-SHA: 01230db43891be69563e4f5a785785d51ac39ff9</summary>
-    <category term="repository" label="PaulTreanor/taispeain"/>
+Repository: ham0215/google-calendar-mcp
+SHA: 0392805138daaaf3ca0ab61e9e9be23a9119caac</summary>
+    <category term="repository" label="ham0215/google-calendar-mcp"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>james-heidi/enterprise-fastapi-template: CLAUDE.md</title>
-    <link href="https://github.com/james-heidi/enterprise-fastapi-template/blob/4ce32d810145312dd67ecb53512f88a2f49416b8/CLAUDE.md"/>
-    <id>urn:github:james-heidi/enterprise-fastapi-template:CLAUDE.md:011de5d5715fd05b4ec85f93b84ad58cfb658b5c</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>IvanGarcia-Git/mundoctor: CLAUDE.md</title>
+    <link href="https://github.com/IvanGarcia-Git/mundoctor/blob/5c848299e19cf36212802e972b360644cda18325/CLAUDE.md"/>
+    <id>urn:github:IvanGarcia-Git/mundoctor:CLAUDE.md:02afb882be78e12703d57eec32f6589510e7a7df</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: james-heidi/enterprise-fastapi-template
-SHA: 011de5d5715fd05b4ec85f93b84ad58cfb658b5c</summary>
-    <category term="repository" label="james-heidi/enterprise-fastapi-template"/>
+Repository: IvanGarcia-Git/mundoctor
+SHA: 02afb882be78e12703d57eec32f6589510e7a7df</summary>
+    <category term="repository" label="IvanGarcia-Git/mundoctor"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>leftonbo/eel-rpg-game: CLAUDE.md</title>
-    <link href="https://github.com/leftonbo/eel-rpg-game/blob/d82cccd2e6f5ac94cf52f395d54907edf8b8afff/CLAUDE.md"/>
-    <id>urn:github:leftonbo/eel-rpg-game:CLAUDE.md:0116fcf4ece25a11add474cabe1000363e755d9f</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>Lucascis/discord_bot: CLAUDE.md</title>
+    <link href="https://github.com/Lucascis/discord_bot/blob/f8a646a4f8ce1cb0b2814be95396e1b287068c4b/CLAUDE.md"/>
+    <id>urn:github:Lucascis/discord_bot:CLAUDE.md:02284c557275f9057ae2f271bba38d6edd195ee7</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: leftonbo/eel-rpg-game
-SHA: 0116fcf4ece25a11add474cabe1000363e755d9f</summary>
-    <category term="repository" label="leftonbo/eel-rpg-game"/>
+Repository: Lucascis/discord_bot
+SHA: 02284c557275f9057ae2f271bba38d6edd195ee7</summary>
+    <category term="repository" label="Lucascis/discord_bot"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>xdanger/tower-tumbler: CLAUDE.md</title>
+    <link href="https://github.com/xdanger/tower-tumbler/blob/14018783119150f6be95af97281e9152dff066a4/CLAUDE.md"/>
+    <id>urn:github:xdanger/tower-tumbler:CLAUDE.md:01bed59314159835342e0b1f018cb85b7e4f2c64</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: xdanger/tower-tumbler
+SHA: 01bed59314159835342e0b1f018cb85b7e4f2c64</summary>
+    <category term="repository" label="xdanger/tower-tumbler"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>shishi/ubuntu_autoinstall: CLAUDE.md</title>
+    <link href="https://github.com/shishi/ubuntu_autoinstall/blob/f5e411e94ace929d02d80f1c6dd50b880527ae37/CLAUDE.md"/>
+    <id>urn:github:shishi/ubuntu_autoinstall:CLAUDE.md:01aaf70addfc8a7afbc2b5c13fffe8b5aefd48e1</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: shishi/ubuntu_autoinstall
+SHA: 01aaf70addfc8a7afbc2b5c13fffe8b5aefd48e1</summary>
+    <category term="repository" label="shishi/ubuntu_autoinstall"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>pcdkd/fastpay: CLAUDE.md</title>
+    <link href="https://github.com/pcdkd/fastpay/blob/63dd29cc104dfd56e73039bf8eeaa6f4a32b6ee8/CLAUDE.md"/>
+    <id>urn:github:pcdkd/fastpay:CLAUDE.md:0156397bb1ec92d45505ac77ac0450a233b072df</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: pcdkd/fastpay
+SHA: 0156397bb1ec92d45505ac77ac0450a233b072df</summary>
+    <category term="repository" label="pcdkd/fastpay"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>toyjack/toho-html-data: CLAUDE.md</title>
+    <link href="https://github.com/toyjack/toho-html-data/blob/007f0f264a2eaf7ad5386eb99c8bf2eff942a7cd/CLAUDE.md"/>
+    <id>urn:github:toyjack/toho-html-data:CLAUDE.md:0116a36fa4d7a5398bda056fa6ddb21b94a4ddcc</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: toyjack/toho-html-data
+SHA: 0116a36fa4d7a5398bda056fa6ddb21b94a4ddcc</summary>
+    <category term="repository" label="toyjack/toho-html-data"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>skyconnfig/pptlist: CLAUDE.md</title>
+    <link href="https://github.com/skyconnfig/pptlist/blob/7a5c367471d9364827c72d33fc987322a5474a9d/CLAUDE.md"/>
+    <id>urn:github:skyconnfig/pptlist:CLAUDE.md:00a7b1e5997acc17a473b0b11a4d1f68ffcb4b29</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: skyconnfig/pptlist
+SHA: 00a7b1e5997acc17a473b0b11a4d1f68ffcb4b29</summary>
+    <category term="repository" label="skyconnfig/pptlist"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>TheBSD/poykott: CLAUDE.md</title>
+    <link href="https://github.com/TheBSD/poykott/blob/4aeb4655beb81bab81f43af7be41d71cb1a5191c/CLAUDE.md"/>
+    <id>urn:github:TheBSD/poykott:CLAUDE.md:e54fb34bac6206ea670062faf22f73a083a7f315</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: TheBSD/poykott
+SHA: e54fb34bac6206ea670062faf22f73a083a7f315</summary>
+    <category term="repository" label="TheBSD/poykott"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>vqt123/twclone: CLAUDE.md</title>
+    <link href="https://github.com/vqt123/twclone/blob/66638e08b34d3dfa95ad048d1e4bf6e3b9d46a1e/CLAUDE.md"/>
+    <id>urn:github:vqt123/twclone:CLAUDE.md:0120da073a7d308b32c8429a90dc77a4a7df5b1b</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: vqt123/twclone
+SHA: 0120da073a7d308b32c8429a90dc77a4a7df5b1b</summary>
+    <category term="repository" label="vqt123/twclone"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>santosrai/santosrai.github.io: CLAUDE.md</title>
+    <link href="https://github.com/santosrai/santosrai.github.io/blob/b9422fd869dbde8edc0f319a1182d1d28421ac19/CLAUDE.md"/>
+    <id>urn:github:santosrai/santosrai.github.io:CLAUDE.md:0127224fae330ed539b425c0abc47bdd55dccd81</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: santosrai/santosrai.github.io
+SHA: 0127224fae330ed539b425c0abc47bdd55dccd81</summary>
+    <category term="repository" label="santosrai/santosrai.github.io"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>arunperiyal/arunperiyal.github.io: CLAUDE.md</title>
+    <link href="https://github.com/arunperiyal/arunperiyal.github.io/blob/9390d6119b4899a0be441fa30e85900f2d45a435/CLAUDE.md"/>
+    <id>urn:github:arunperiyal/arunperiyal.github.io:CLAUDE.md:001234cc782013389f3a7fb807034efb67ea7807</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: arunperiyal/arunperiyal.github.io
+SHA: 001234cc782013389f3a7fb807034efb67ea7807</summary>
+    <category term="repository" label="arunperiyal/arunperiyal.github.io"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>monoconsulting/Mind2: CLAUDE.md</title>
+    <link href="https://github.com/monoconsulting/Mind2/blob/da9b5132a91d3fc1991e7cc8d329668d5ce4be71/CLAUDE.md"/>
+    <id>urn:github:monoconsulting/Mind2:CLAUDE.md:02b824c37aaa19b6b7bf001df9606c9a13f0c2f2</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: monoconsulting/Mind2
+SHA: 02b824c37aaa19b6b7bf001df9606c9a13f0c2f2</summary>
+    <category term="repository" label="monoconsulting/Mind2"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>ZainW/opencode-sync: CLAUDE.md</title>
+    <link href="https://github.com/ZainW/opencode-sync/blob/23e4a3917dd30a92a63b000b235ec0f825dfb7d4/CLAUDE.md"/>
+    <id>urn:github:ZainW/opencode-sync:CLAUDE.md:021d7282c4d6092e0d768fa38bacab2efb6b3a26</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: ZainW/opencode-sync
+SHA: 021d7282c4d6092e0d768fa38bacab2efb6b3a26</summary>
+    <category term="repository" label="ZainW/opencode-sync"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>Baconutd/Delta_Hedge: CLAUDE.md</title>
+    <link href="https://github.com/Baconutd/Delta_Hedge/blob/3dc5d7f41892043d782af212772b9d2799d979a5/CLAUDE.md"/>
+    <id>urn:github:Baconutd/Delta_Hedge:CLAUDE.md:01dda636117e298b4b692c2a79f4534aa52adf45</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: Baconutd/Delta_Hedge
+SHA: 01dda636117e298b4b692c2a79f4534aa52adf45</summary>
+    <category term="repository" label="Baconutd/Delta_Hedge"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>kmransom56/mutlifamily-ai-valuation: CLAUDE.md</title>
+    <link href="https://github.com/kmransom56/mutlifamily-ai-valuation/blob/da48855f947cb266a709898583aac96d640e2d6f/CLAUDE.md"/>
+    <id>urn:github:kmransom56/mutlifamily-ai-valuation:CLAUDE.md:01d7ab108fa703259d6c8ca33cdbe97ac28accb7</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: kmransom56/mutlifamily-ai-valuation
+SHA: 01d7ab108fa703259d6c8ca33cdbe97ac28accb7</summary>
+    <category term="repository" label="kmransom56/mutlifamily-ai-valuation"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>beshkenadze/openapi-mcp-generator: CLAUDE.md</title>
+    <link href="https://github.com/beshkenadze/openapi-mcp-generator/blob/442e4a88580cc047d101d86d199bd73a39a900f0/CLAUDE.md"/>
+    <id>urn:github:beshkenadze/openapi-mcp-generator:CLAUDE.md:01d3dd2a5df2bcafba59f57cbf33e31aa45fe31e</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: beshkenadze/openapi-mcp-generator
+SHA: 01d3dd2a5df2bcafba59f57cbf33e31aa45fe31e</summary>
+    <category term="repository" label="beshkenadze/openapi-mcp-generator"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>Dennis-J-Carroll/Seeded-Sphere-Search: CLAUDE.md</title>
+    <link href="https://github.com/Dennis-J-Carroll/Seeded-Sphere-Search/blob/485dac365d2b7e87030c448ccf46658067434cbc/CLAUDE.md"/>
+    <id>urn:github:Dennis-J-Carroll/Seeded-Sphere-Search:CLAUDE.md:01ac3d07f671a08d0593739d18fc09fa212cc1e3</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: Dennis-J-Carroll/Seeded-Sphere-Search
+SHA: 01ac3d07f671a08d0593739d18fc09fa212cc1e3</summary>
+    <category term="repository" label="Dennis-J-Carroll/Seeded-Sphere-Search"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>motoya-k/tsundoc: CLAUDE.md</title>
+    <link href="https://github.com/motoya-k/tsundoc/blob/d5a9d886788300035fcedf1f870201289568fe04/CLAUDE.md"/>
+    <id>urn:github:motoya-k/tsundoc:CLAUDE.md:01a2ce52e46dbd083a9c63bd8ba58dbd49aff34f</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: motoya-k/tsundoc
+SHA: 01a2ce52e46dbd083a9c63bd8ba58dbd49aff34f</summary>
+    <category term="repository" label="motoya-k/tsundoc"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>jjjjjjjjjjjjjjjjacob/template: CLAUDE.md</title>
+    <link href="https://github.com/jjjjjjjjjjjjjjjjacob/template/blob/3a6218dbf99c03ebf56d15bc391e62f33f30a109/CLAUDE.md"/>
+    <id>urn:github:jjjjjjjjjjjjjjjjacob/template:CLAUDE.md:01839d6a84242be51efa22a44e2c17058c9e39d7</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: jjjjjjjjjjjjjjjjacob/template
+SHA: 01839d6a84242be51efa22a44e2c17058c9e39d7</summary>
+    <category term="repository" label="jjjjjjjjjjjjjjjjacob/template"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>piwi3910/dns-go: CLAUDE.md</title>
+    <link href="https://github.com/piwi3910/dns-go/blob/012fa5dcfe2456a4f790cb3966c55fbdacc80258/CLAUDE.md"/>
+    <id>urn:github:piwi3910/dns-go:CLAUDE.md:01577fb16c3913bba1c9640e76c27c75d00132d3</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: piwi3910/dns-go
+SHA: 01577fb16c3913bba1c9640e76c27c75d00132d3</summary>
+    <category term="repository" label="piwi3910/dns-go"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>KanditT/quest100: CLAUDE.md</title>
+    <link href="https://github.com/KanditT/quest100/blob/cd0d1e73465bb7ff828688da1985efcaac1dcbe4/CLAUDE.md"/>
+    <id>urn:github:KanditT/quest100:CLAUDE.md:0151cd4b94cc338a6d3c1f1d12ec3640f4fc9a82</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: KanditT/quest100
+SHA: 0151cd4b94cc338a6d3c1f1d12ec3640f4fc9a82</summary>
+    <category term="repository" label="KanditT/quest100"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>businesswalrus/pupper: CLAUDE.md</title>
+    <link href="https://github.com/businesswalrus/pupper/blob/6d264b5424e8a917591412da0731fbfdabf274b4/CLAUDE.md"/>
+    <id>urn:github:businesswalrus/pupper:CLAUDE.md:014be1191b7e787f341e903e79f64210ece229a2</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: businesswalrus/pupper
+SHA: 014be1191b7e787f341e903e79f64210ece229a2</summary>
+    <category term="repository" label="businesswalrus/pupper"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>tecnomage/myportifolio_next: CLAUDE.md</title>
+    <link href="https://github.com/tecnomage/myportifolio_next/blob/2b45e2531be62a7719a969329b2afdc07a8fb182/CLAUDE.md"/>
+    <id>urn:github:tecnomage/myportifolio_next:CLAUDE.md:013986c1ff4cfb7a94d7be2ed9541aa03b3e2050</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: tecnomage/myportifolio_next
+SHA: 013986c1ff4cfb7a94d7be2ed9541aa03b3e2050</summary>
+    <category term="repository" label="tecnomage/myportifolio_next"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>groupsky/game-4: CLAUDE.md</title>
+    <link href="https://github.com/groupsky/game-4/blob/c0f83c2b5f0200a6dd9c1bd625a4a34eb7bca362/CLAUDE.md"/>
+    <id>urn:github:groupsky/game-4:CLAUDE.md:0134279acf7f525b00944e6862c774695a2cf697</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: groupsky/game-4
+SHA: 0134279acf7f525b00944e6862c774695a2cf697</summary>
+    <category term="repository" label="groupsky/game-4"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>poke-key/vehicle-net: CLAUDE.md</title>
+    <link href="https://github.com/poke-key/vehicle-net/blob/d71deb9cc6af2d684e60031502b6fecbe8c2234a/CLAUDE.md"/>
+    <id>urn:github:poke-key/vehicle-net:CLAUDE.md:0131bd0106454a52b7cd6f3233eba53eda6bca06</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: poke-key/vehicle-net
+SHA: 0131bd0106454a52b7cd6f3233eba53eda6bca06</summary>
+    <category term="repository" label="poke-key/vehicle-net"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>NextNodeSolutions/project-generator: CLAUDE.md</title>
+    <link href="https://github.com/NextNodeSolutions/project-generator/blob/11b4698995eaac6692b327fa6eb4e964e256e2cf/CLAUDE.md"/>
+    <id>urn:github:NextNodeSolutions/project-generator:CLAUDE.md:01295e97a4c94712cf64cb6d27d0ec95e5af9336</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: NextNodeSolutions/project-generator
+SHA: 01295e97a4c94712cf64cb6d27d0ec95e5af9336</summary>
+    <category term="repository" label="NextNodeSolutions/project-generator"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>John0x/operation-loki: CLAUDE.md</title>
+    <link href="https://github.com/John0x/operation-loki/blob/bd408192e8c9d204c60ea32ea7ce7329db401e17/CLAUDE.md"/>
+    <id>urn:github:John0x/operation-loki:CLAUDE.md:01129dd9dc7be915190aef54f149f01bc3595885</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: John0x/operation-loki
+SHA: 01129dd9dc7be915190aef54f149f01bc3595885</summary>
+    <category term="repository" label="John0x/operation-loki"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>peterchappy/Linear-MCP: CLAUDE.md</title>
     <link href="https://github.com/peterchappy/Linear-MCP/blob/9279f5c105be4e03f7811fd6354387820b9e0817/CLAUDE.md"/>
     <id>urn:github:peterchappy/Linear-MCP:CLAUDE.md:01083c52ba0787b87e2cd1cfac10cf7c2b4a5741</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: peterchappy/Linear-MCP
 SHA: 01083c52ba0787b87e2cd1cfac10cf7c2b4a5741</summary>
@@ -610,21 +632,10 @@ SHA: 01083c52ba0787b87e2cd1cfac10cf7c2b4a5741</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>rayhunter/omd: CLAUDE.md</title>
-    <link href="https://github.com/rayhunter/omd/blob/4d06010bbb3352daeec23d2e3e355eb69d597c79/CLAUDE.md"/>
-    <id>urn:github:rayhunter/omd:CLAUDE.md:010751f393430f17371015a7282bb77df9da8fb6</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: rayhunter/omd
-SHA: 010751f393430f17371015a7282bb77df9da8fb6</summary>
-    <category term="repository" label="rayhunter/omd"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
     <title>inaplay/whisper-rest: CLAUDE.md</title>
     <link href="https://github.com/inaplay/whisper-rest/blob/f94b3ee204d4eb9892ed4b258761a0fbf3150f20/CLAUDE.md"/>
     <id>urn:github:inaplay/whisper-rest:CLAUDE.md:01054a6b4a82c44a5d94db49dc4fecbb8795d816</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: inaplay/whisper-rest
 SHA: 01054a6b4a82c44a5d94db49dc4fecbb8795d816</summary>
@@ -635,7 +646,7 @@ SHA: 01054a6b4a82c44a5d94db49dc4fecbb8795d816</summary>
     <title>JinTanba/polyaave-contract-dev: CLAUDE.md</title>
     <link href="https://github.com/JinTanba/polyaave-contract-dev/blob/51930825cec662737a3da3dbb5abe49f56aeb8ae/CLAUDE.md"/>
     <id>urn:github:JinTanba/polyaave-contract-dev:CLAUDE.md:00ff22565248fa434f55652472048972222d7f71</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: JinTanba/polyaave-contract-dev
 SHA: 00ff22565248fa434f55652472048972222d7f71</summary>
@@ -643,32 +654,21 @@ SHA: 00ff22565248fa434f55652472048972222d7f71</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>atrawog/mcp-fetch-streamablehttp-server: CLAUDE.md</title>
-    <link href="https://github.com/atrawog/mcp-fetch-streamablehttp-server/blob/069f1d7f6d4504ce4f1484245e71c257bbc61688/CLAUDE.md"/>
-    <id>urn:github:atrawog/mcp-fetch-streamablehttp-server:CLAUDE.md:00eeac9b39939b339f8db949a4512b680bbd0c75</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>peihsinsu/ollamacli: CLAUDE.md</title>
+    <link href="https://github.com/peihsinsu/ollamacli/blob/0cecde69fa481df767c1a20583281d3f84615f0e/CLAUDE.md"/>
+    <id>urn:github:peihsinsu/ollamacli:CLAUDE.md:00e92063637c7bcd6eb6e877a033b2e3964ff5f7</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: atrawog/mcp-fetch-streamablehttp-server
-SHA: 00eeac9b39939b339f8db949a4512b680bbd0c75</summary>
-    <category term="repository" label="atrawog/mcp-fetch-streamablehttp-server"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>zif91/jmagency_fb_bot: CLAUDE.md</title>
-    <link href="https://github.com/zif91/jmagency_fb_bot/blob/4d73e9036cf652b1e6d0e04d08903a0df04c815a/CLAUDE.md"/>
-    <id>urn:github:zif91/jmagency_fb_bot:CLAUDE.md:00e81dba56108a484ded0f68116871264c575848</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: zif91/jmagency_fb_bot
-SHA: 00e81dba56108a484ded0f68116871264c575848</summary>
-    <category term="repository" label="zif91/jmagency_fb_bot"/>
+Repository: peihsinsu/ollamacli
+SHA: 00e92063637c7bcd6eb6e877a033b2e3964ff5f7</summary>
+    <category term="repository" label="peihsinsu/ollamacli"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>NickNort/101825hackathon: CLAUDE.md</title>
     <link href="https://github.com/NickNort/101825hackathon/blob/aa095c0962b17c8e7e50f09d1caaa9af4c5f485e/CLAUDE.md"/>
     <id>urn:github:NickNort/101825hackathon:CLAUDE.md:00e5b8d677e96f39619b02f80628b666b875a078</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: NickNort/101825hackathon
 SHA: 00e5b8d677e96f39619b02f80628b666b875a078</summary>
@@ -676,21 +676,43 @@ SHA: 00e5b8d677e96f39619b02f80628b666b875a078</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Paul-Bonneville-Labs/arrgh-excalidraw: CLAUDE.md</title>
-    <link href="https://github.com/Paul-Bonneville-Labs/arrgh-excalidraw/blob/520b2658e41ee00708b387698070e5c86e7d8321/CLAUDE.md"/>
-    <id>urn:github:Paul-Bonneville-Labs/arrgh-excalidraw:CLAUDE.md:00ddb8bf6b05df6dbf56a53d05f921414464aae4</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>SailesTech/KFS-Mitura: CLAUDE.md</title>
+    <link href="https://github.com/SailesTech/KFS-Mitura/blob/ee49b6b7968c1546d12f8d59d1b72a1e4a252b8b/CLAUDE.md"/>
+    <id>urn:github:SailesTech/KFS-Mitura:CLAUDE.md:00d9f6625574976c384a12fe5b72f46261659a28</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Paul-Bonneville-Labs/arrgh-excalidraw
-SHA: 00ddb8bf6b05df6dbf56a53d05f921414464aae4</summary>
-    <category term="repository" label="Paul-Bonneville-Labs/arrgh-excalidraw"/>
+Repository: SailesTech/KFS-Mitura
+SHA: 00d9f6625574976c384a12fe5b72f46261659a28</summary>
+    <category term="repository" label="SailesTech/KFS-Mitura"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>cyverse-de/portal-conductor: CLAUDE.md</title>
+    <link href="https://github.com/cyverse-de/portal-conductor/blob/9a2986160ab3db595939e8bf191585b722ddf695/CLAUDE.md"/>
+    <id>urn:github:cyverse-de/portal-conductor:CLAUDE.md:00c6213c7fbd8a8cc8e118a732c0710035a3540c</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: cyverse-de/portal-conductor
+SHA: 00c6213c7fbd8a8cc8e118a732c0710035a3540c</summary>
+    <category term="repository" label="cyverse-de/portal-conductor"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>thomppa030/kindertagespflege-hummelgarten: CLAUDE.md</title>
+    <link href="https://github.com/thomppa030/kindertagespflege-hummelgarten/blob/ba01c0d728bbc824e2991ec10c2af09e37981a61/CLAUDE.md"/>
+    <id>urn:github:thomppa030/kindertagespflege-hummelgarten:CLAUDE.md:00c3223e5e3bea00c27479db0acd813f3ba8bbd0</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: thomppa030/kindertagespflege-hummelgarten
+SHA: 00c3223e5e3bea00c27479db0acd813f3ba8bbd0</summary>
+    <category term="repository" label="thomppa030/kindertagespflege-hummelgarten"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>yousefamar/coros: CLAUDE.md</title>
     <link href="https://github.com/yousefamar/coros/blob/a25671e7feffd6f492754bb443fa00702baa0ed7/CLAUDE.md"/>
     <id>urn:github:yousefamar/coros:CLAUDE.md:00b73741bb646f68f8ee234165e939953adfe7a0</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: yousefamar/coros
 SHA: 00b73741bb646f68f8ee234165e939953adfe7a0</summary>
@@ -701,7 +723,7 @@ SHA: 00b73741bb646f68f8ee234165e939953adfe7a0</summary>
     <title>verlyn13/system-setup-update: CLAUDE.md</title>
     <link href="https://github.com/verlyn13/system-setup-update/blob/62f536e3ad34b460da5ebe0f18ca97c22c89ee9f/CLAUDE.md"/>
     <id>urn:github:verlyn13/system-setup-update:CLAUDE.md:00a2287c618f1e02fefb7349b3dcb2fd6570e928</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: verlyn13/system-setup-update
 SHA: 00a2287c618f1e02fefb7349b3dcb2fd6570e928</summary>
@@ -709,197 +731,142 @@ SHA: 00a2287c618f1e02fefb7349b3dcb2fd6570e928</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>fracabu/generatore-di-prompt-craft: CLAUDE.md</title>
-    <link href="https://github.com/fracabu/generatore-di-prompt-craft/blob/b9f7d1108401ea6169903ce13400d51265e7402b/CLAUDE.md"/>
-    <id>urn:github:fracabu/generatore-di-prompt-craft:CLAUDE.md:0098fab4e55945a537ed8cfed56b1a4237cd2ec5</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>nukopy/linux-kernel-6.16.2-code-reading: CLAUDE.md</title>
+    <link href="https://github.com/nukopy/linux-kernel-6.16.2-code-reading/blob/73432ee141affee27e3f400ee8c7cc90234a23fc/CLAUDE.md"/>
+    <id>urn:github:nukopy/linux-kernel-6.16.2-code-reading:CLAUDE.md:009e77ec2ec2659e8d6473341df215abd56fadc6</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: fracabu/generatore-di-prompt-craft
-SHA: 0098fab4e55945a537ed8cfed56b1a4237cd2ec5</summary>
-    <category term="repository" label="fracabu/generatore-di-prompt-craft"/>
+Repository: nukopy/linux-kernel-6.16.2-code-reading
+SHA: 009e77ec2ec2659e8d6473341df215abd56fadc6</summary>
+    <category term="repository" label="nukopy/linux-kernel-6.16.2-code-reading"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>pec-camp/navi.ai: CLAUDE.md</title>
-    <link href="https://github.com/pec-camp/navi.ai/blob/59f7e8befc3ef2c8dbf56075fab31f0cad1eecc3/CLAUDE.md"/>
-    <id>urn:github:pec-camp/navi.ai:CLAUDE.md:008de7ca0051f4da58df776af4e1771e9ceca24e</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>ganyariya/tinyengine: CLAUDE.md</title>
+    <link href="https://github.com/ganyariya/tinyengine/blob/e555da823eb78e11cb9d0af911834c443310751b/CLAUDE.md"/>
+    <id>urn:github:ganyariya/tinyengine:CLAUDE.md:0091c341ee46f27ede340b0ba2cc8d2f022b7cb4</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: pec-camp/navi.ai
-SHA: 008de7ca0051f4da58df776af4e1771e9ceca24e</summary>
-    <category term="repository" label="pec-camp/navi.ai"/>
+Repository: ganyariya/tinyengine
+SHA: 0091c341ee46f27ede340b0ba2cc8d2f022b7cb4</summary>
+    <category term="repository" label="ganyariya/tinyengine"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>drgaciw/price-rules-ai-drools-service: CLAUDE.md</title>
-    <link href="https://github.com/drgaciw/price-rules-ai-drools-service/blob/ed1aeae3027876c7f26c423e6c2b8b823fab1b38/CLAUDE.md"/>
-    <id>urn:github:drgaciw/price-rules-ai-drools-service:CLAUDE.md:0085c905fb04a3240125c3dbbe3e7781f7bfe3d2</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>amather/MetaTypes: CLAUDE.md</title>
+    <link href="https://github.com/amather/MetaTypes/blob/9af1f259a970a27accf6f65f5f8c0204c6c50989/CLAUDE.md"/>
+    <id>urn:github:amather/MetaTypes:CLAUDE.md:0086f98863357471d93dcbda31c6a250a821a5cf</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: drgaciw/price-rules-ai-drools-service
-SHA: 0085c905fb04a3240125c3dbbe3e7781f7bfe3d2</summary>
-    <category term="repository" label="drgaciw/price-rules-ai-drools-service"/>
+Repository: amather/MetaTypes
+SHA: 0086f98863357471d93dcbda31c6a250a821a5cf</summary>
+    <category term="repository" label="amather/MetaTypes"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Alive24/CKBoost: CLAUDE.md</title>
-    <link href="https://github.com/Alive24/CKBoost/blob/94aa15b0d004da7232c2eabc8b07f75126d35384/CLAUDE.md"/>
-    <id>urn:github:Alive24/CKBoost:CLAUDE.md:0070950efbabd13f5001d582ac6e87e9502eeedb</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>wstewarttennes/hass-beeminder: CLAUDE.md</title>
+    <link href="https://github.com/wstewarttennes/hass-beeminder/blob/3c282232e2f30bc99987069d08e0051d79dff9fc/CLAUDE.md"/>
+    <id>urn:github:wstewarttennes/hass-beeminder:CLAUDE.md:005a1b6711acef01482054d507e79ed708242f82</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Alive24/CKBoost
-SHA: 0070950efbabd13f5001d582ac6e87e9502eeedb</summary>
-    <category term="repository" label="Alive24/CKBoost"/>
+Repository: wstewarttennes/hass-beeminder
+SHA: 005a1b6711acef01482054d507e79ed708242f82</summary>
+    <category term="repository" label="wstewarttennes/hass-beeminder"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>BenPomme/candyclash: CLAUDE.md</title>
-    <link href="https://github.com/BenPomme/candyclash/blob/3e7cc74694b08c19c0058d59d58a04d8384af487/CLAUDE.md"/>
-    <id>urn:github:BenPomme/candyclash:CLAUDE.md:00556a64b8dd0f3eca283b0865bbb5f569c037d6</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>tsuifmy/vr-maze: CLAUDE.md</title>
+    <link href="https://github.com/tsuifmy/vr-maze/blob/0c4079e7a34477bfc0e3e98bf51b37032dfa7444/CLAUDE.md"/>
+    <id>urn:github:tsuifmy/vr-maze:CLAUDE.md:002b38514334281c525451d43800378fdcbaf0fe</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: BenPomme/candyclash
-SHA: 00556a64b8dd0f3eca283b0865bbb5f569c037d6</summary>
-    <category term="repository" label="BenPomme/candyclash"/>
+Repository: tsuifmy/vr-maze
+SHA: 002b38514334281c525451d43800378fdcbaf0fe</summary>
+    <category term="repository" label="tsuifmy/vr-maze"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>ShogoMiyashita/MyKakeibo: CLAUDE.md</title>
-    <link href="https://github.com/ShogoMiyashita/MyKakeibo/blob/d7b9f6234155786f5384dd7288ef77f431cf1f8a/CLAUDE.md"/>
-    <id>urn:github:ShogoMiyashita/MyKakeibo:CLAUDE.md:0054a41e369f6cca25b3760dc6dc71ebe92253c1</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>mischief-marmot/create-studio: CLAUDE.md</title>
+    <link href="https://github.com/mischief-marmot/create-studio/blob/032ea62e7857f65a8338c6c888a48b37277bfe13/CLAUDE.md"/>
+    <id>urn:github:mischief-marmot/create-studio:CLAUDE.md:0027cffbe273b3c0a2c486777cfe69ceb8e9bf51</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: ShogoMiyashita/MyKakeibo
-SHA: 0054a41e369f6cca25b3760dc6dc71ebe92253c1</summary>
-    <category term="repository" label="ShogoMiyashita/MyKakeibo"/>
+Repository: mischief-marmot/create-studio
+SHA: 0027cffbe273b3c0a2c486777cfe69ceb8e9bf51</summary>
+    <category term="repository" label="mischief-marmot/create-studio"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>naonao0001777/kubernetes-event-driven-service: CLAUDE.md</title>
-    <link href="https://github.com/naonao0001777/kubernetes-event-driven-service/blob/cc53f08eb1e669f6e189c52f372ce2e6ac1f8ac0/CLAUDE.md"/>
-    <id>urn:github:naonao0001777/kubernetes-event-driven-service:CLAUDE.md:003fcc744770327058f7572ccd891afd14724e86</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>TamaEaston/frontier: CLAUDE.md</title>
+    <link href="https://github.com/TamaEaston/frontier/blob/195f0dcada415acadb928e2520eb8c8fe6128496/CLAUDE.md"/>
+    <id>urn:github:TamaEaston/frontier:CLAUDE.md:00030ac23d5548fba674d69f401cdaf04e6909ce</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: naonao0001777/kubernetes-event-driven-service
-SHA: 003fcc744770327058f7572ccd891afd14724e86</summary>
-    <category term="repository" label="naonao0001777/kubernetes-event-driven-service"/>
+Repository: TamaEaston/frontier
+SHA: 00030ac23d5548fba674d69f401cdaf04e6909ce</summary>
+    <category term="repository" label="TamaEaston/frontier"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>dmquant/learning: CLAUDE.md</title>
-    <link href="https://github.com/dmquant/learning/blob/c990f2a1b3ff3fadd60cecb54542b6ce3b25b7b4/CLAUDE.md"/>
-    <id>urn:github:dmquant/learning:CLAUDE.md:003a12a26093393a342716f1356590ccaa2128c7</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>CSSLab/maia-platform-frontend: CLAUDE.md</title>
+    <link href="https://github.com/CSSLab/maia-platform-frontend/blob/46584f61a037d30dd68ef174bea24f2927116299/CLAUDE.md"/>
+    <id>urn:github:CSSLab/maia-platform-frontend:CLAUDE.md:00f3e63a03311c7a864b2de7ab625bb1c92657ff</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: dmquant/learning
-SHA: 003a12a26093393a342716f1356590ccaa2128c7</summary>
-    <category term="repository" label="dmquant/learning"/>
+Repository: CSSLab/maia-platform-frontend
+SHA: 00f3e63a03311c7a864b2de7ab625bb1c92657ff</summary>
+    <category term="repository" label="CSSLab/maia-platform-frontend"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>otsukanaaaa/agents-orchestrator-workflow: CLAUDE.md</title>
-    <link href="https://github.com/otsukanaaaa/agents-orchestrator-workflow/blob/1807ff41f859941666ecace524db70cde61791d7/CLAUDE.md"/>
-    <id>urn:github:otsukanaaaa/agents-orchestrator-workflow:CLAUDE.md:002132d3e88ed9989e049902dc583cd0436fb415</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>philoserf/site: CLAUDE.md</title>
+    <link href="https://github.com/philoserf/site/blob/7b6673d25b0f054f9478c7722f741030a3663c00/CLAUDE.md"/>
+    <id>urn:github:philoserf/site:CLAUDE.md:01a1febcf87818c8540178734fa6c53ec3ffe96e</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: otsukanaaaa/agents-orchestrator-workflow
-SHA: 002132d3e88ed9989e049902dc583cd0436fb415</summary>
-    <category term="repository" label="otsukanaaaa/agents-orchestrator-workflow"/>
+Repository: philoserf/site
+SHA: 01a1febcf87818c8540178734fa6c53ec3ffe96e</summary>
+    <category term="repository" label="philoserf/site"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Joe-oss9527/AIHeadline.news: CLAUDE.md</title>
-    <link href="https://github.com/Joe-oss9527/AIHeadline.news/blob/66c6a826e26460995acd95ec0ca412ea7a40c005/CLAUDE.md"/>
-    <id>urn:github:Joe-oss9527/AIHeadline.news:CLAUDE.md:001d78398c2a6344f224ae8fbdc5993641c28f83</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>skr-cloudify/repomix-cloud: CLAUDE.md</title>
+    <link href="https://github.com/skr-cloudify/repomix-cloud/blob/a109b292141004480158a0cf3c240d892c254f1f/CLAUDE.md"/>
+    <id>urn:github:skr-cloudify/repomix-cloud:CLAUDE.md:00f787a390d41df388a8d6eb617099298b73a316</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Joe-oss9527/AIHeadline.news
-SHA: 001d78398c2a6344f224ae8fbdc5993641c28f83</summary>
-    <category term="repository" label="Joe-oss9527/AIHeadline.news"/>
+Repository: skr-cloudify/repomix-cloud
+SHA: 00f787a390d41df388a8d6eb617099298b73a316</summary>
+    <category term="repository" label="skr-cloudify/repomix-cloud"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>dpastoor/qvm: CLAUDE.md</title>
-    <link href="https://github.com/dpastoor/qvm/blob/6e83259aeaa01c84d1e0a2b58288259a058d2213/CLAUDE.md"/>
-    <id>urn:github:dpastoor/qvm:CLAUDE.md:00aa5296fb36bab802c30e7f67a4eb878479e558</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>inference-gateway/adk: CLAUDE.md</title>
+    <link href="https://github.com/inference-gateway/adk/blob/988c0dd641c309813e325cf21bdc53fc0f8c8659/CLAUDE.md"/>
+    <id>urn:github:inference-gateway/adk:CLAUDE.md:01895112d37dc6e509a6a5033e695a19cb63d651</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: dpastoor/qvm
-SHA: 00aa5296fb36bab802c30e7f67a4eb878479e558</summary>
-    <category term="repository" label="dpastoor/qvm"/>
+Repository: inference-gateway/adk
+SHA: 01895112d37dc6e509a6a5033e695a19cb63d651</summary>
+    <category term="repository" label="inference-gateway/adk"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>nevercodealone/cms-symfony-sulu: CLAUDE.md</title>
-    <link href="https://github.com/nevercodealone/cms-symfony-sulu/blob/eb41552f1e3ff232121d560842f13dcd07b9c123/CLAUDE.md"/>
-    <id>urn:github:nevercodealone/cms-symfony-sulu:CLAUDE.md:031103df92a883c220fbe1c339b7dd6c271c979a</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>LadislavSopko/cvm: CLAUDE.md</title>
+    <link href="https://github.com/LadislavSopko/cvm/blob/451727b89da3934a170a6d481368da75c01c7921/CLAUDE.md"/>
+    <id>urn:github:LadislavSopko/cvm:CLAUDE.md:025a881c5ac26d86915d78b925340b26db69d858</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: nevercodealone/cms-symfony-sulu
-SHA: 031103df92a883c220fbe1c339b7dd6c271c979a</summary>
-    <category term="repository" label="nevercodealone/cms-symfony-sulu"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>liuyuelintop/next-blog: CLAUDE.md</title>
-    <link href="https://github.com/liuyuelintop/next-blog/blob/1eb4ae10a353d6cd7da69fc05418a95900fc9e57/CLAUDE.md"/>
-    <id>urn:github:liuyuelintop/next-blog:CLAUDE.md:00501e2a158dfea786d70755fc68243f9053f31d</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: liuyuelintop/next-blog
-SHA: 00501e2a158dfea786d70755fc68243f9053f31d</summary>
-    <category term="repository" label="liuyuelintop/next-blog"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>KevinMarquette/pwsh.mcp.sdk: CLAUDE.md</title>
-    <link href="https://github.com/KevinMarquette/pwsh.mcp.sdk/blob/b3168c808505fdf82580567fbb8e540d15a88471/CLAUDE.md"/>
-    <id>urn:github:KevinMarquette/pwsh.mcp.sdk:CLAUDE.md:003a151d2ac7ecb63934e3d02fe46ef10d068f96</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: KevinMarquette/pwsh.mcp.sdk
-SHA: 003a151d2ac7ecb63934e3d02fe46ef10d068f96</summary>
-    <category term="repository" label="KevinMarquette/pwsh.mcp.sdk"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>SeanTater/pv: CLAUDE.md</title>
-    <link href="https://github.com/SeanTater/pv/blob/e55224fb119965915c94dacb6365a64f96e171c3/CLAUDE.md"/>
-    <id>urn:github:SeanTater/pv:CLAUDE.md:0277d7ce90513241af8285a63b2d7c1078541561</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: SeanTater/pv
-SHA: 0277d7ce90513241af8285a63b2d7c1078541561</summary>
-    <category term="repository" label="SeanTater/pv"/>
-    <category term="path" label="CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>chrismcdermut/tech-thought-portfolio: CLAUDE.md</title>
-    <link href="https://github.com/chrismcdermut/tech-thought-portfolio/blob/b00e3be42af5689e9715716eb653a26dcad9491f/ai-learning/CLAUDE.md"/>
-    <id>urn:github:chrismcdermut/tech-thought-portfolio:ai-learning/CLAUDE.md:002b9237e3405f9b0bb3b82d8bf0bbdd8b03d3b3</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: ai-learning/CLAUDE.md
-Repository: chrismcdermut/tech-thought-portfolio
-SHA: 002b9237e3405f9b0bb3b82d8bf0bbdd8b03d3b3</summary>
-    <category term="repository" label="chrismcdermut/tech-thought-portfolio"/>
-    <category term="path" label="ai-learning/CLAUDE.md"/>
-  </entry>
-  <entry>
-    <title>joesaby/astro-plantuml: CLAUDE.md</title>
-    <link href="https://github.com/joesaby/astro-plantuml/blob/6da433dc141d794bac599ebc04111403400c08e9/CLAUDE.md"/>
-    <id>urn:github:joesaby/astro-plantuml:CLAUDE.md:002488ffc705b20615b11d4678dea74408615ac1</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: CLAUDE.md
-Repository: joesaby/astro-plantuml
-SHA: 002488ffc705b20615b11d4678dea74408615ac1</summary>
-    <category term="repository" label="joesaby/astro-plantuml"/>
+Repository: LadislavSopko/cvm
+SHA: 025a881c5ac26d86915d78b925340b26db69d858</summary>
+    <category term="repository" label="LadislavSopko/cvm"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>geeknik/ai-audio-fingerprint-remover: CLAUDE.md</title>
     <link href="https://github.com/geeknik/ai-audio-fingerprint-remover/blob/d53c4c128d097c67971e2f8a06402ca9724adaa5/CLAUDE.md"/>
     <id>urn:github:geeknik/ai-audio-fingerprint-remover:CLAUDE.md:00fa168e772b8e3ed605622a57a0b246edc1e21d</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: geeknik/ai-audio-fingerprint-remover
 SHA: 00fa168e772b8e3ed605622a57a0b246edc1e21d</summary>
@@ -907,219 +874,241 @@ SHA: 00fa168e772b8e3ed605622a57a0b246edc1e21d</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>tonk-labs/tonkbook: CLAUDE.md</title>
-    <link href="https://github.com/tonk-labs/tonkbook/blob/8ec3d4bf941092f8499c969de8ceafa29883b37e/CLAUDE.md"/>
-    <id>urn:github:tonk-labs/tonkbook:CLAUDE.md:ed2d0c5d86e28bbd4764bb7469c5b0153f72b90b</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>builders-of-stuff/svelte-sui-wallet-adapter: CLAUDE.md</title>
+    <link href="https://github.com/builders-of-stuff/svelte-sui-wallet-adapter/blob/68aaad50dfbfb2bd54bde457c061b514a03c6596/CLAUDE.md"/>
+    <id>urn:github:builders-of-stuff/svelte-sui-wallet-adapter:CLAUDE.md:0359533bfaa179f389ea5b520fed60031e676bc0</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: tonk-labs/tonkbook
-SHA: ed2d0c5d86e28bbd4764bb7469c5b0153f72b90b</summary>
-    <category term="repository" label="tonk-labs/tonkbook"/>
+Repository: builders-of-stuff/svelte-sui-wallet-adapter
+SHA: 0359533bfaa179f389ea5b520fed60031e676bc0</summary>
+    <category term="repository" label="builders-of-stuff/svelte-sui-wallet-adapter"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>ex3ndr/privacy-kit: CLAUDE.md</title>
-    <link href="https://github.com/ex3ndr/privacy-kit/blob/ae57048c99be19b949122c0fcf459ffb3644c8be/CLAUDE.md"/>
-    <id>urn:github:ex3ndr/privacy-kit:CLAUDE.md:0085309ad98fd5ce598a8067a52d6041a58630be</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>neuroneural/wirehead: CLAUDE.md</title>
+    <link href="https://github.com/neuroneural/wirehead/blob/11c740455630c58b921d3c856f2950bd49158fd7/CLAUDE.md"/>
+    <id>urn:github:neuroneural/wirehead:CLAUDE.md:0117d9c7e24248b5cdca7661502435301e4ef081</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: ex3ndr/privacy-kit
-SHA: 0085309ad98fd5ce598a8067a52d6041a58630be</summary>
-    <category term="repository" label="ex3ndr/privacy-kit"/>
+Repository: neuroneural/wirehead
+SHA: 0117d9c7e24248b5cdca7661502435301e4ef081</summary>
+    <category term="repository" label="neuroneural/wirehead"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>BlockSurvey/ballot: CLAUDE.md</title>
-    <link href="https://github.com/BlockSurvey/ballot/blob/752b9300549018ee70bd218c18918361aa0220cd/CLAUDE.md"/>
-    <id>urn:github:BlockSurvey/ballot:CLAUDE.md:00ad5206ac3398391b5917bb6ced87148dce025a</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>ekollof/meshtui: CLAUDE.md</title>
+    <link href="https://github.com/ekollof/meshtui/blob/26178f5dcbb659ed83b9f201ef4556b07958fc0a/CLAUDE.md"/>
+    <id>urn:github:ekollof/meshtui:CLAUDE.md:0262b8a6a61a23456669c725054e558f5ffdd598</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: BlockSurvey/ballot
-SHA: 00ad5206ac3398391b5917bb6ced87148dce025a</summary>
-    <category term="repository" label="BlockSurvey/ballot"/>
+Repository: ekollof/meshtui
+SHA: 0262b8a6a61a23456669c725054e558f5ffdd598</summary>
+    <category term="repository" label="ekollof/meshtui"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Stewart86/bobby: CLAUDE.md</title>
-    <link href="https://github.com/Stewart86/bobby/blob/783092e9626a87ddba35601269d0927cb38a2dda/CLAUDE.md"/>
-    <id>urn:github:Stewart86/bobby:CLAUDE.md:1e9d95e53d64785a110e8162367bf0cf84c3c2fd</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>constROD/template-react-vite: CLAUDE.md</title>
+    <link href="https://github.com/constROD/template-react-vite/blob/bb7b657ade338f4be9a2e18f17b7c9b91f87951b/CLAUDE.md"/>
+    <id>urn:github:constROD/template-react-vite:CLAUDE.md:30cdf342360c92593690872f5ba4ae1763e85c3d</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Stewart86/bobby
-SHA: 1e9d95e53d64785a110e8162367bf0cf84c3c2fd</summary>
-    <category term="repository" label="Stewart86/bobby"/>
+Repository: constROD/template-react-vite
+SHA: 30cdf342360c92593690872f5ba4ae1763e85c3d</summary>
+    <category term="repository" label="constROD/template-react-vite"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>zeroslashagency/zeroslash: CLAUDE.md</title>
-    <link href="https://github.com/zeroslashagency/zeroslash/blob/1e3d1b21607fb44e1accddedd689704d5693f089/CLAUDE.md"/>
-    <id>urn:github:zeroslashagency/zeroslash:CLAUDE.md:00a3500528a908e3dcb8f0708f2f5809295e6f1e</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>hmesfin/gojjo-mcp: CLAUDE.md</title>
+    <link href="https://github.com/hmesfin/gojjo-mcp/blob/96da2a9ecd2369da89475c986563daea2a032684/CLAUDE.md"/>
+    <id>urn:github:hmesfin/gojjo-mcp:CLAUDE.md:02c641e8856ca8881db8b3d436b1609d2fb92321</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: zeroslashagency/zeroslash
-SHA: 00a3500528a908e3dcb8f0708f2f5809295e6f1e</summary>
-    <category term="repository" label="zeroslashagency/zeroslash"/>
+Repository: hmesfin/gojjo-mcp
+SHA: 02c641e8856ca8881db8b3d436b1609d2fb92321</summary>
+    <category term="repository" label="hmesfin/gojjo-mcp"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>vqt123/twclone: CLAUDE.md</title>
-    <link href="https://github.com/vqt123/twclone/blob/66638e08b34d3dfa95ad048d1e4bf6e3b9d46a1e/CLAUDE.md"/>
-    <id>urn:github:vqt123/twclone:CLAUDE.md:0120da073a7d308b32c8429a90dc77a4a7df5b1b</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>lanxiaoxing/AiFactory: CLAUDE.md</title>
+    <link href="https://github.com/lanxiaoxing/AiFactory/blob/c6f2f077478923a8ca8f31a4245db76683b6b5a5/CLAUDE.md"/>
+    <id>urn:github:lanxiaoxing/AiFactory:CLAUDE.md:029a2b2c005858628cf24b7bc88660bad55fe464</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: vqt123/twclone
-SHA: 0120da073a7d308b32c8429a90dc77a4a7df5b1b</summary>
-    <category term="repository" label="vqt123/twclone"/>
+Repository: lanxiaoxing/AiFactory
+SHA: 029a2b2c005858628cf24b7bc88660bad55fe464</summary>
+    <category term="repository" label="lanxiaoxing/AiFactory"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>varadasainikhil/TestingOwnOrderingPlatform: CLAUDE.md</title>
-    <link href="https://github.com/varadasainikhil/TestingOwnOrderingPlatform/blob/801b2a3046fd53b248fe886f8ad9bd82189aea5b/CLAUDE.md"/>
-    <id>urn:github:varadasainikhil/TestingOwnOrderingPlatform:CLAUDE.md:00e71b63964cd42a2736f2051336398b12ddb1fe</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>UnDer-7/sanjy-server: CLAUDE.md</title>
+    <link href="https://github.com/UnDer-7/sanjy-server/blob/e2458455154d8c938157c8ac4b63513405008fd1/CLAUDE.md"/>
+    <id>urn:github:UnDer-7/sanjy-server:CLAUDE.md:0112bfa5304165f5249a241922ffaf2d822098d8</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: varadasainikhil/TestingOwnOrderingPlatform
-SHA: 00e71b63964cd42a2736f2051336398b12ddb1fe</summary>
-    <category term="repository" label="varadasainikhil/TestingOwnOrderingPlatform"/>
+Repository: UnDer-7/sanjy-server
+SHA: 0112bfa5304165f5249a241922ffaf2d822098d8</summary>
+    <category term="repository" label="UnDer-7/sanjy-server"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>bryhearnchi-bot/kgaytripguides: CLAUDE.md</title>
-    <link href="https://github.com/bryhearnchi-bot/kgaytripguides/blob/967f76f971d7964bce9875d3aebad17d7253ddd1/CLAUDE.md"/>
-    <id>urn:github:bryhearnchi-bot/kgaytripguides:CLAUDE.md:002edd3c087d2b26bceb8f238b8085bcaf79f7f8</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>kennethkoontz/chronos: CLAUDE.md</title>
+    <link href="https://github.com/kennethkoontz/chronos/blob/fc8ac3337526f03e12985e163a40fdd138e1b37f/CLAUDE.md"/>
+    <id>urn:github:kennethkoontz/chronos:CLAUDE.md:00e5bd25ea93772bc4c439346dc3a121d6b664e1</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: bryhearnchi-bot/kgaytripguides
-SHA: 002edd3c087d2b26bceb8f238b8085bcaf79f7f8</summary>
-    <category term="repository" label="bryhearnchi-bot/kgaytripguides"/>
+Repository: kennethkoontz/chronos
+SHA: 00e5bd25ea93772bc4c439346dc3a121d6b664e1</summary>
+    <category term="repository" label="kennethkoontz/chronos"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>AJM10565/BlackjackSimulator: CLAUDE.md</title>
-    <link href="https://github.com/AJM10565/BlackjackSimulator/blob/b7f0024c157c687eb395def617d81f61dfb998e8/CLAUDE.md"/>
-    <id>urn:github:AJM10565/BlackjackSimulator:CLAUDE.md:03c9996921ada986127d3307151687c3736ec0ae</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>nakatatsu/test-front-mock: CLAUDE.md</title>
+    <link href="https://github.com/nakatatsu/test-front-mock/blob/41dc423daa9eefa4fb336b383e6f1e564919e741/CLAUDE.md"/>
+    <id>urn:github:nakatatsu/test-front-mock:CLAUDE.md:00a77fa9c957f5c044eaa55eba57d7891859d278</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: AJM10565/BlackjackSimulator
-SHA: 03c9996921ada986127d3307151687c3736ec0ae</summary>
-    <category term="repository" label="AJM10565/BlackjackSimulator"/>
+Repository: nakatatsu/test-front-mock
+SHA: 00a77fa9c957f5c044eaa55eba57d7891859d278</summary>
+    <category term="repository" label="nakatatsu/test-front-mock"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>monoconsulting/Mind2: CLAUDE.md</title>
-    <link href="https://github.com/monoconsulting/Mind2/blob/da9b5132a91d3fc1991e7cc8d329668d5ce4be71/CLAUDE.md"/>
-    <id>urn:github:monoconsulting/Mind2:CLAUDE.md:02b824c37aaa19b6b7bf001df9606c9a13f0c2f2</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>stefvw93/std-nodejs-ts: CLAUDE.md</title>
+    <link href="https://github.com/stefvw93/std-nodejs-ts/blob/a1d61cb240ac5b353ca493883578c62482aaae83/CLAUDE.md"/>
+    <id>urn:github:stefvw93/std-nodejs-ts:CLAUDE.md:028552343b3d3e4fade11d78181086efeb0d4f5a</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: monoconsulting/Mind2
-SHA: 02b824c37aaa19b6b7bf001df9606c9a13f0c2f2</summary>
-    <category term="repository" label="monoconsulting/Mind2"/>
+Repository: stefvw93/std-nodejs-ts
+SHA: 028552343b3d3e4fade11d78181086efeb0d4f5a</summary>
+    <category term="repository" label="stefvw93/std-nodejs-ts"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>rysweet/skwaq: CLAUDE.md</title>
-    <link href="https://github.com/rysweet/skwaq/blob/89395e4232b333b3207a5cd9fd326bd0d5e3fd96/CLAUDE.md"/>
-    <id>urn:github:rysweet/skwaq:CLAUDE.md:025984a78187e0007d331e12ea3bc102fe178ea9</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>gqy20/ZoteroFlow: CLAUDE.md</title>
+    <link href="https://github.com/gqy20/ZoteroFlow/blob/a821efd234b03cc0ada9de2077598aa9efa1b9ba/CLAUDE.md"/>
+    <id>urn:github:gqy20/ZoteroFlow:CLAUDE.md:00f60ae5aa09cd11f64bd9fd8663fba9b1519a52</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: rysweet/skwaq
-SHA: 025984a78187e0007d331e12ea3bc102fe178ea9</summary>
-    <category term="repository" label="rysweet/skwaq"/>
+Repository: gqy20/ZoteroFlow
+SHA: 00f60ae5aa09cd11f64bd9fd8663fba9b1519a52</summary>
+    <category term="repository" label="gqy20/ZoteroFlow"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>awaaate/am2z: CLAUDE.md</title>
-    <link href="https://github.com/awaaate/am2z/blob/74f67d02dd46ee2866b84746d750e5700c5e41b7/CLAUDE.md"/>
-    <id>urn:github:awaaate/am2z:CLAUDE.md:020fcf0dff6f75cbbc2b4b32d0f63dd4ea718e39</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>lambrospetrou/durable-utils: CLAUDE.md</title>
+    <link href="https://github.com/lambrospetrou/durable-utils/blob/9f29c7c9090231ab0df6ba1b09301a5ae3659333/CLAUDE.md"/>
+    <id>urn:github:lambrospetrou/durable-utils:CLAUDE.md:0052dcf0d14ddde4ff77b2bf950286b2b5689347</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: awaaate/am2z
-SHA: 020fcf0dff6f75cbbc2b4b32d0f63dd4ea718e39</summary>
-    <category term="repository" label="awaaate/am2z"/>
+Repository: lambrospetrou/durable-utils
+SHA: 0052dcf0d14ddde4ff77b2bf950286b2b5689347</summary>
+    <category term="repository" label="lambrospetrou/durable-utils"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>andrewlwn77/google-trends-mcp: CLAUDE.md</title>
-    <link href="https://github.com/andrewlwn77/google-trends-mcp/blob/fc8d2000cab478e5fdc0ddb2682d5c1454f2c567/CLAUDE.md"/>
-    <id>urn:github:andrewlwn77/google-trends-mcp:CLAUDE.md:02091ceabd6e4ca205c3c1ec02927825d8aab1ef</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>foresthpark/resume: CLAUDE.md</title>
+    <link href="https://github.com/foresthpark/resume/blob/440cd3feefb285c54049d7593e438ecc907a251b/CLAUDE.md"/>
+    <id>urn:github:foresthpark/resume:CLAUDE.md:01ea9e080df773ddfb3e40e2fddb5c2388086905</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: andrewlwn77/google-trends-mcp
-SHA: 02091ceabd6e4ca205c3c1ec02927825d8aab1ef</summary>
-    <category term="repository" label="andrewlwn77/google-trends-mcp"/>
+Repository: foresthpark/resume
+SHA: 01ea9e080df773ddfb3e40e2fddb5c2388086905</summary>
+    <category term="repository" label="foresthpark/resume"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>forkspacer/operator-ui: CLAUDE.md</title>
-    <link href="https://github.com/forkspacer/operator-ui/blob/0bc84656add4391a4db105de7b094862a2136fab/CLAUDE.md"/>
-    <id>urn:github:forkspacer/operator-ui:CLAUDE.md:008677a1d1fd3c875be4dc0d3e246ebf406957af</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>OrthelT/wcmkts_new: CLAUDE.md</title>
+    <link href="https://github.com/OrthelT/wcmkts_new/blob/123cc1b0c650cf9f0568ef63abfaf595d9b60001/CLAUDE.md"/>
+    <id>urn:github:OrthelT/wcmkts_new:CLAUDE.md:017236d93588135f9649147113e04ddef06f9043</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: forkspacer/operator-ui
-SHA: 008677a1d1fd3c875be4dc0d3e246ebf406957af</summary>
-    <category term="repository" label="forkspacer/operator-ui"/>
+Repository: OrthelT/wcmkts_new
+SHA: 017236d93588135f9649147113e04ddef06f9043</summary>
+    <category term="repository" label="OrthelT/wcmkts_new"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>constROD/template-expo: CLAUDE.md</title>
-    <link href="https://github.com/constROD/template-expo/blob/f51302415ae552260d7feff7b98038e49e83b790/CLAUDE.md"/>
-    <id>urn:github:constROD/template-expo:CLAUDE.md:63ce3605abea3b2015372b45e0aaa33ff5fb0a69</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>arcaDeFAI/arca-contracts: CLAUDE.md</title>
+    <link href="https://github.com/arcaDeFAI/arca-contracts/blob/040cd47b6e6f68a4baae17e6356e2a76c8a470bb/CLAUDE.md"/>
+    <id>urn:github:arcaDeFAI/arca-contracts:CLAUDE.md:015a96b6cfeecfa67706b45ee1a379409bdedfe3</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: constROD/template-expo
-SHA: 63ce3605abea3b2015372b45e0aaa33ff5fb0a69</summary>
-    <category term="repository" label="constROD/template-expo"/>
+Repository: arcaDeFAI/arca-contracts
+SHA: 015a96b6cfeecfa67706b45ee1a379409bdedfe3</summary>
+    <category term="repository" label="arcaDeFAI/arca-contracts"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>pajamadot/geometry-node: CLAUDE.md</title>
-    <link href="https://github.com/pajamadot/geometry-node/blob/f8187221551cbcc8ba8f060cff1f3b1f295b8a41/CLAUDE.md"/>
-    <id>urn:github:pajamadot/geometry-node:CLAUDE.md:026203a7532dd22fadd9fe174956070ec8d87969</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>unfoldingWord/bt-servant-engine: CLAUDE.md</title>
+    <link href="https://github.com/unfoldingWord/bt-servant-engine/blob/efb699e4f601a18e7290eb597d82e745ff6e7098/CLAUDE.md"/>
+    <id>urn:github:unfoldingWord/bt-servant-engine:CLAUDE.md:01106f300d1203ec84e2a021dc835440d3165c42</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: pajamadot/geometry-node
-SHA: 026203a7532dd22fadd9fe174956070ec8d87969</summary>
-    <category term="repository" label="pajamadot/geometry-node"/>
+Repository: unfoldingWord/bt-servant-engine
+SHA: 01106f300d1203ec84e2a021dc835440d3165c42</summary>
+    <category term="repository" label="unfoldingWord/bt-servant-engine"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>dasch-swiss/sipi: CLAUDE.md</title>
-    <link href="https://github.com/dasch-swiss/sipi/blob/2d1d39db3eb14c21b2da47ef34f28a02e4882297/CLAUDE.md"/>
-    <id>urn:github:dasch-swiss/sipi:CLAUDE.md:00ba02a825cbb3738d3d700727b7800b04ae15e8</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>roboco-io/agentic-coding-recommendation: CLAUDE.md</title>
+    <link href="https://github.com/roboco-io/agentic-coding-recommendation/blob/6a1410a169f0da620fb3bcd438782a650d1cc309/CLAUDE.md"/>
+    <id>urn:github:roboco-io/agentic-coding-recommendation:CLAUDE.md:02255dadd66b7b2f586c4a1081c7d3ad8a3a6ad4</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: dasch-swiss/sipi
-SHA: 00ba02a825cbb3738d3d700727b7800b04ae15e8</summary>
-    <category term="repository" label="dasch-swiss/sipi"/>
+Repository: roboco-io/agentic-coding-recommendation
+SHA: 02255dadd66b7b2f586c4a1081c7d3ad8a3a6ad4</summary>
+    <category term="repository" label="roboco-io/agentic-coding-recommendation"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>Centralize/lxc: CLAUDE.md</title>
-    <link href="https://github.com/Centralize/lxc/blob/8093403160a92498d19ef6fcdd5cd4a32d46400e/CLAUDE.md"/>
-    <id>urn:github:Centralize/lxc:CLAUDE.md:02036bcbb21d6b9aa3cb7891d0b9552479dd8fca</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <title>the-cafe/git-ai-commit: CLAUDE.md</title>
+    <link href="https://github.com/the-cafe/git-ai-commit/blob/8750a213aa7890c4c1e88adbf736df6c34a625f4/CLAUDE.md"/>
+    <id>urn:github:the-cafe/git-ai-commit:CLAUDE.md:00d90aa49cd8cf91e94b4dcac419160a87d07caa</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
-Repository: Centralize/lxc
-SHA: 02036bcbb21d6b9aa3cb7891d0b9552479dd8fca</summary>
-    <category term="repository" label="Centralize/lxc"/>
+Repository: the-cafe/git-ai-commit
+SHA: 00d90aa49cd8cf91e94b4dcac419160a87d07caa</summary>
+    <category term="repository" label="the-cafe/git-ai-commit"/>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>ida29/mememe: CLAUDE.md</title>
-    <link href="https://github.com/ida29/mememe/blob/aaf11c7f8bc880b95f46e2db84ac0c5ec81b79ba/temp_files/CLAUDE.md"/>
-    <id>urn:github:ida29/mememe:temp_files/CLAUDE.md:0319dc176c35c733309c8ff8a47708c1e3c779b9</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: temp_files/CLAUDE.md
-Repository: ida29/mememe
-SHA: 0319dc176c35c733309c8ff8a47708c1e3c779b9</summary>
-    <category term="repository" label="ida29/mememe"/>
-    <category term="path" label="temp_files/CLAUDE.md"/>
+    <title>sveinhal/dotfiles: CLAUDE.md</title>
+    <link href="https://github.com/sveinhal/dotfiles/blob/6072788106587dd4211785573945a69d54c336ca/CLAUDE.md"/>
+    <id>urn:github:sveinhal/dotfiles:CLAUDE.md:0418e6db5c3a4c84d2494c8a77dc613e370fc0e5</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: sveinhal/dotfiles
+SHA: 0418e6db5c3a4c84d2494c8a77dc613e370fc0e5</summary>
+    <category term="repository" label="sveinhal/dotfiles"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>shopsys/shopsys: CLAUDE.md</title>
+    <link href="https://github.com/shopsys/shopsys/blob/6e9db6eaacda3e9d21eb9f03c05510eba9a2b99d/CLAUDE.md"/>
+    <id>urn:github:shopsys/shopsys:CLAUDE.md:5be4ea3a7c9fe0714bf9407b8cb67bfd46416187</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: shopsys/shopsys
+SHA: 5be4ea3a7c9fe0714bf9407b8cb67bfd46416187</summary>
+    <category term="repository" label="shopsys/shopsys"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>lucasponce/lucasponce.github.io: CLAUDE.md</title>
+    <link href="https://github.com/lucasponce/lucasponce.github.io/blob/8e273d6ffcc691ab008b947882df24afadd441b1/CLAUDE.md"/>
+    <id>urn:github:lucasponce/lucasponce.github.io:CLAUDE.md:0331643fac805d828c30d8bf7ba7fd59a8434ff4</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: lucasponce/lucasponce.github.io
+SHA: 0331643fac805d828c30d8bf7ba7fd59a8434ff4</summary>
+    <category term="repository" label="lucasponce/lucasponce.github.io"/>
+    <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
     <title>FerryZhaoHui/linear-test-mcp: CLAUDE.md</title>
     <link href="https://github.com/FerryZhaoHui/linear-test-mcp/blob/888878569cd36b88589f951e3ba01d6de0734718/CLAUDE.md"/>
     <id>urn:github:FerryZhaoHui/linear-test-mcp:CLAUDE.md:01083c52ba0787b87e2cd1cfac10cf7c2b4a5741</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
     <summary>File: CLAUDE.md
 Repository: FerryZhaoHui/linear-test-mcp
 SHA: 01083c52ba0787b87e2cd1cfac10cf7c2b4a5741</summary>
@@ -1127,14 +1116,25 @@ SHA: 01083c52ba0787b87e2cd1cfac10cf7c2b4a5741</summary>
     <category term="path" label="CLAUDE.md"/>
   </entry>
   <entry>
-    <title>ziquid/sociobot: CLAUDE.md</title>
-    <link href="https://github.com/ziquid/sociobot/blob/14d2601cc9134701c584827910eff6f635379c6d/docs/CLAUDE.md"/>
-    <id>urn:github:ziquid/sociobot:docs/CLAUDE.md:1e9d95e53d64785a110e8162367bf0cf84c3c2fd</id>
-    <updated>2025-11-04T15:12:40.009158+00:00</updated>
-    <summary>File: docs/CLAUDE.md
-Repository: ziquid/sociobot
-SHA: 1e9d95e53d64785a110e8162367bf0cf84c3c2fd</summary>
-    <category term="repository" label="ziquid/sociobot"/>
-    <category term="path" label="docs/CLAUDE.md"/>
+    <title>OrthelT/wcmkts_north: CLAUDE.md</title>
+    <link href="https://github.com/OrthelT/wcmkts_north/blob/4efd8578a00e19ab58c0fd1578d133b0ae93ab6f/CLAUDE.md"/>
+    <id>urn:github:OrthelT/wcmkts_north:CLAUDE.md:017236d93588135f9649147113e04ddef06f9043</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: OrthelT/wcmkts_north
+SHA: 017236d93588135f9649147113e04ddef06f9043</summary>
+    <category term="repository" label="OrthelT/wcmkts_north"/>
+    <category term="path" label="CLAUDE.md"/>
+  </entry>
+  <entry>
+    <title>OrthelT/wcmkts-staging: CLAUDE.md</title>
+    <link href="https://github.com/OrthelT/wcmkts-staging/blob/950dd2a61f989688a73b81e4928727ae72dc7e7e/CLAUDE.md"/>
+    <id>urn:github:OrthelT/wcmkts-staging:CLAUDE.md:017236d93588135f9649147113e04ddef06f9043</id>
+    <updated>2025-11-05T15:09:52.301479+00:00</updated>
+    <summary>File: CLAUDE.md
+Repository: OrthelT/wcmkts-staging
+SHA: 017236d93588135f9649147113e04ddef06f9043</summary>
+    <category term="repository" label="OrthelT/wcmkts-staging"/>
+    <category term="path" label="CLAUDE.md"/>
   </entry>
 </feed>
