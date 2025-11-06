@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Code Search Results for: .claude/settings.json+in:path</title>
   <link href="https://github.com/search?q=.claude%2Fsettings.json%2Bin%3Apath&amp;type=code" rel="alternate"/>
-  <updated>2025-11-05T15:19:33.949043+00:00</updated>
+  <updated>2025-11-06T15:19:45.073768+00:00</updated>
   <id>urn:github-search:.claude%2Fsettings.json%2Bin%3Apath</id>
   <entry>
     <title>gitpod-io/gitpod: settings.json</title>
     <link href="https://github.com/gitpod-io/gitpod/blob/8e02e09f71084f827583a1701d3777b0381b7e42/.claude/settings.json"/>
     <id>urn:github:gitpod-io/gitpod:.claude/settings.json:17c477514c2e5604a071e33cb960447562f4764b</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: gitpod-io/gitpod
 SHA: 17c477514c2e5604a071e33cb960447562f4764b</summary>
@@ -19,7 +19,7 @@ SHA: 17c477514c2e5604a071e33cb960447562f4764b</summary>
     <title>lvalics/claude_code_stuffs: settings.json.bak</title>
     <link href="https://github.com/lvalics/claude_code_stuffs/blob/bbff71d949965f562c17890392aed9a1f84fa818/.claude/settings.json.bak"/>
     <id>urn:github:lvalics/claude_code_stuffs:.claude/settings.json.bak:109752cfa92f38e9aaf72e5bd4a4a428b8f91ece</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json.bak
 Repository: lvalics/claude_code_stuffs
 SHA: 109752cfa92f38e9aaf72e5bd4a4a428b8f91ece</summary>
@@ -28,9 +28,9 @@ SHA: 109752cfa92f38e9aaf72e5bd4a4a428b8f91ece</summary>
   </entry>
   <entry>
     <title>moraroy/NonSteamLaunchers-On-Steam-Deck: settings.json</title>
-    <link href="https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck/blob/3ed3bf726fd0afd922936e455cb3aec02059f624/.claude/settings.json"/>
+    <link href="https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck/blob/b35e0ef25a636398f7aba7834dfe9d37a66f573d/.claude/settings.json"/>
     <id>urn:github:moraroy/NonSteamLaunchers-On-Steam-Deck:.claude/settings.json:379fda7be5b720d518a9ec60a2a796a5ca514c52</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: moraroy/NonSteamLaunchers-On-Steam-Deck
 SHA: 379fda7be5b720d518a9ec60a2a796a5ca514c52</summary>
@@ -38,131 +38,21 @@ SHA: 379fda7be5b720d518a9ec60a2a796a5ca514c52</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>aRustyDev/dotfiles: settings.json.ignore</title>
-    <link href="https://github.com/aRustyDev/dotfiles/blob/9f165826fa27b3dc626fb994b1ca07f717444311/.claude/settings.json.ignore"/>
-    <id>urn:github:aRustyDev/dotfiles:.claude/settings.json.ignore:e2fd112fd0dc0cbe32858b1762e386cb7d26ada6</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.ignore
-Repository: aRustyDev/dotfiles
-SHA: e2fd112fd0dc0cbe32858b1762e386cb7d26ada6</summary>
-    <category term="repository" label="aRustyDev/dotfiles"/>
-    <category term="path" label=".claude/settings.json.ignore"/>
-  </entry>
-  <entry>
-    <title>EchoingVesper/vespera-atelier: settings.json.backup</title>
-    <link href="https://github.com/EchoingVesper/vespera-atelier/blob/71df5783f5d1f7f9309cca549a73ae9dfebaf4c5/.claude/settings.json.backup"/>
-    <id>urn:github:EchoingVesper/vespera-atelier:.claude/settings.json.backup:d3a0529f65fff399c9da0c179e451d4cf24421d1</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>Lordsisodia/siso-agency-internal: settings.json.backup</title>
+    <link href="https://github.com/Lordsisodia/siso-agency-internal/blob/a371324335e12ec7e6d5dfc866b1a8b0847d53d0/.claude/settings.json.backup"/>
+    <id>urn:github:Lordsisodia/siso-agency-internal:.claude/settings.json.backup:2fdad668204758670ef873d3b981b6faa2f7a7e0</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json.backup
-Repository: EchoingVesper/vespera-atelier
-SHA: d3a0529f65fff399c9da0c179e451d4cf24421d1</summary>
-    <category term="repository" label="EchoingVesper/vespera-atelier"/>
+Repository: Lordsisodia/siso-agency-internal
+SHA: 2fdad668204758670ef873d3b981b6faa2f7a7e0</summary>
+    <category term="repository" label="Lordsisodia/siso-agency-internal"/>
     <category term="path" label=".claude/settings.json.backup"/>
-  </entry>
-  <entry>
-    <title>zfogg/ascii-chat: settings.json</title>
-    <link href="https://github.com/zfogg/ascii-chat/blob/149941d67414528942723e242ef6c3bb545d4c5f/.claude/settings.json"/>
-    <id>urn:github:zfogg/ascii-chat:.claude/settings.json:7d4d5a27b543a5ae0008f6f604c20d183885ef4f</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: zfogg/ascii-chat
-SHA: 7d4d5a27b543a5ae0008f6f604c20d183885ef4f</summary>
-    <category term="repository" label="zfogg/ascii-chat"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>shdennlin/claude-hooks-notifier: settings.json.example</title>
-    <link href="https://github.com/shdennlin/claude-hooks-notifier/blob/3c40b9019df21660f2c8c742afe9802a74bd6cce/.claude/settings.json.example"/>
-    <id>urn:github:shdennlin/claude-hooks-notifier:.claude/settings.json.example:07a96e6f0b69b7de85c2376367ff0c4b6111e1f8</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.example
-Repository: shdennlin/claude-hooks-notifier
-SHA: 07a96e6f0b69b7de85c2376367ff0c4b6111e1f8</summary>
-    <category term="repository" label="shdennlin/claude-hooks-notifier"/>
-    <category term="path" label=".claude/settings.json.example"/>
-  </entry>
-  <entry>
-    <title>Sustainable-Solutions-Lab/food-opt: settings.json.license</title>
-    <link href="https://github.com/Sustainable-Solutions-Lab/food-opt/blob/279d0e6e5bceefe027ccb98a0ca782d1718fa3d0/.claude/settings.json.license"/>
-    <id>urn:github:Sustainable-Solutions-Lab/food-opt:.claude/settings.json.license:155b0f2b2c76042573ed935e9483c0f845e563a0</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.license
-Repository: Sustainable-Solutions-Lab/food-opt
-SHA: 155b0f2b2c76042573ed935e9483c0f845e563a0</summary>
-    <category term="repository" label="Sustainable-Solutions-Lab/food-opt"/>
-    <category term="path" label=".claude/settings.json.license"/>
-  </entry>
-  <entry>
-    <title>drillan/stapy116: settings.json.template</title>
-    <link href="https://github.com/drillan/stapy116/blob/c642d4a45573f50a4d2097a55a257d07540d1f1f/.claude/settings.json.template"/>
-    <id>urn:github:drillan/stapy116:.claude/settings.json.template:76d2e1ee97cb1ca18ff367b2e8ce8b5157ec54c5</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.template
-Repository: drillan/stapy116
-SHA: 76d2e1ee97cb1ca18ff367b2e8ce8b5157ec54c5</summary>
-    <category term="repository" label="drillan/stapy116"/>
-    <category term="path" label=".claude/settings.json.template"/>
-  </entry>
-  <entry>
-    <title>duckduckgo/apple-browsers: settings.json</title>
-    <link href="https://github.com/duckduckgo/apple-browsers/blob/4656e2862345016b4828e5d4da913fe2ec0fdba9/.claude/settings.json"/>
-    <id>urn:github:duckduckgo/apple-browsers:.claude/settings.json:06b1058ead292afcc95dfb50df14a9f6801cf621</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: duckduckgo/apple-browsers
-SHA: 06b1058ead292afcc95dfb50df14a9f6801cf621</summary>
-    <category term="repository" label="duckduckgo/apple-browsers"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>42yash/42yash.github.io: settings.json.backup</title>
-    <link href="https://github.com/42yash/42yash.github.io/blob/720fea6c912d5c00d409c063e655fa979bd069d5/.claude/settings.json.backup"/>
-    <id>urn:github:42yash/42yash.github.io:.claude/settings.json.backup:14be2337c5f8ae37c20070e5a9f2f64f9ee983c2</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.backup
-Repository: 42yash/42yash.github.io
-SHA: 14be2337c5f8ae37c20070e5a9f2f64f9ee983c2</summary>
-    <category term="repository" label="42yash/42yash.github.io"/>
-    <category term="path" label=".claude/settings.json.backup"/>
-  </entry>
-  <entry>
-    <title>ZXXZ1000/creative-dna-quest: settings.json-cc</title>
-    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-cc"/>
-    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-cc:b2909b55827b62a0dd114efb1253ad42de1be766</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json-cc
-Repository: ZXXZ1000/creative-dna-quest
-SHA: b2909b55827b62a0dd114efb1253ad42de1be766</summary>
-    <category term="repository" label="ZXXZ1000/creative-dna-quest"/>
-    <category term="path" label=".claude/settings.json-cc"/>
-  </entry>
-  <entry>
-    <title>rafamiziara/superpool: settings.json</title>
-    <link href="https://github.com/rafamiziara/superpool/blob/b263c303ca5a2ef3e9c435ebe24801246a64bdb7/.claude/settings.json"/>
-    <id>urn:github:rafamiziara/superpool:.claude/settings.json:1bf1f41da07e4029d264c5d8678545f0727ef00d</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: rafamiziara/superpool
-SHA: 1bf1f41da07e4029d264c5d8678545f0727ef00d</summary>
-    <category term="repository" label="rafamiziara/superpool"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>vichannnnn/holy-grail: settings.json.example</title>
-    <link href="https://github.com/vichannnnn/holy-grail/blob/7a7a7aa0c7420ebc3d7590c4ba20526f56b9c63f/.claude/settings.json.example"/>
-    <id>urn:github:vichannnnn/holy-grail:.claude/settings.json.example:afec5a63803972cd6c751ffe07385151c38fbc61</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.example
-Repository: vichannnnn/holy-grail
-SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
-    <category term="repository" label="vichannnnn/holy-grail"/>
-    <category term="path" label=".claude/settings.json.example"/>
   </entry>
   <entry>
     <title>PawelAdamWawrzyniak/10xNoteQuiz: settings.json </title>
     <link href="https://github.com/PawelAdamWawrzyniak/10xNoteQuiz/blob/eec300a1df4f0d267e80f6bdd20f7ea0bb2bf4a8/.claude/settings.json%20"/>
     <id>urn:github:PawelAdamWawrzyniak/10xNoteQuiz:.claude/settings.json :6641d9b8e7a0d2e1ccb50c2373c86ee24e60721a</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json 
 Repository: PawelAdamWawrzyniak/10xNoteQuiz
 SHA: 6641d9b8e7a0d2e1ccb50c2373c86ee24e60721a</summary>
@@ -170,65 +60,10 @@ SHA: 6641d9b8e7a0d2e1ccb50c2373c86ee24e60721a</summary>
     <category term="path" label=".claude/settings.json "/>
   </entry>
   <entry>
-    <title>pakkio/wordpress: settings.json.sample</title>
-    <link href="https://github.com/pakkio/wordpress/blob/bfe848824a23c4ea3631e193c724f326fab7a79e/.claude/settings.json.sample"/>
-    <id>urn:github:pakkio/wordpress:.claude/settings.json.sample:5a5bc1c46f2154b4e2be74a840494998cd3e2d8a</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.sample
-Repository: pakkio/wordpress
-SHA: 5a5bc1c46f2154b4e2be74a840494998cd3e2d8a</summary>
-    <category term="repository" label="pakkio/wordpress"/>
-    <category term="path" label=".claude/settings.json.sample"/>
-  </entry>
-  <entry>
-    <title>stuart-tse/cross-border-app: settings.json</title>
-    <link href="https://github.com/stuart-tse/cross-border-app/blob/2b09058b66258a97a4447f4c0a8014d41f91fefa/.claude/settings.json"/>
-    <id>urn:github:stuart-tse/cross-border-app:.claude/settings.json:1eddd63482b3154e041658233c0b75798ac23732</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: stuart-tse/cross-border-app
-SHA: 1eddd63482b3154e041658233c0b75798ac23732</summary>
-    <category term="repository" label="stuart-tse/cross-border-app"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>zach-source/mcp-rust-proxy: settings.json.bkup</title>
-    <link href="https://github.com/zach-source/mcp-rust-proxy/blob/8dc6bac5f7a6b59f4172d0e726e6679d4a1d7929/.claude/settings.json.bkup"/>
-    <id>urn:github:zach-source/mcp-rust-proxy:.claude/settings.json.bkup:600384da0f5332b9e7c2415ce3c17c5b374f6fca</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.bkup
-Repository: zach-source/mcp-rust-proxy
-SHA: 600384da0f5332b9e7c2415ce3c17c5b374f6fca</summary>
-    <category term="repository" label="zach-source/mcp-rust-proxy"/>
-    <category term="path" label=".claude/settings.json.bkup"/>
-  </entry>
-  <entry>
-    <title>grahama1970/extractor: settings.json.bak</title>
-    <link href="https://github.com/grahama1970/extractor/blob/233c833732559ccfa84527eaecb76f4199e595a8/.claude/settings.json.bak"/>
-    <id>urn:github:grahama1970/extractor:.claude/settings.json.bak:49009e163ad7998334c1bf4b53bb2ba2732d1f7d</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.bak
-Repository: grahama1970/extractor
-SHA: 49009e163ad7998334c1bf4b53bb2ba2732d1f7d</summary>
-    <category term="repository" label="grahama1970/extractor"/>
-    <category term="path" label=".claude/settings.json.bak"/>
-  </entry>
-  <entry>
-    <title>tommy-ca/research: settings.json</title>
-    <link href="https://github.com/tommy-ca/research/blob/7cd65dead3ed92e2fd8731b753cab844fc6a5cfa/.claude/settings.json"/>
-    <id>urn:github:tommy-ca/research:.claude/settings.json:7e5b7540a389a92937c762636a6c6c4a556d884a</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: tommy-ca/research
-SHA: 7e5b7540a389a92937c762636a6c6c4a556d884a</summary>
-    <category term="repository" label="tommy-ca/research"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
     <title>1hoookkk/ARTEFACT_Production: settings.json.backup.DISABLED</title>
     <link href="https://github.com/1hoookkk/ARTEFACT_Production/blob/905add5b3f9f76b39384028184677e72f1203260/.claude/settings.json.backup.DISABLED"/>
     <id>urn:github:1hoookkk/ARTEFACT_Production:.claude/settings.json.backup.DISABLED:7f195c3cfabb55d77f31445448f1d45fdd6c1395</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json.backup.DISABLED
 Repository: 1hoookkk/ARTEFACT_Production
 SHA: 7f195c3cfabb55d77f31445448f1d45fdd6c1395</summary>
@@ -236,318 +71,65 @@ SHA: 7f195c3cfabb55d77f31445448f1d45fdd6c1395</summary>
     <category term="path" label=".claude/settings.json.backup.DISABLED"/>
   </entry>
   <entry>
-    <title>ZXXZ1000/creative-dna-quest: settings.json-gemini</title>
-    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-gemini"/>
-    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-gemini:79565d27db2810181429f6b8cccdb65a18374f4f</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json-gemini
+    <title>apache/struts: settings.json</title>
+    <link href="https://github.com/apache/struts/blob/d48e04756a7506742d0b1ce87c2178852177f328/.claude/settings.json"/>
+    <id>urn:github:apache/struts:.claude/settings.json:a31f3647fcef53085af9400e3cb8ff2c10035aec</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: apache/struts
+SHA: a31f3647fcef53085af9400e3cb8ff2c10035aec</summary>
+    <category term="repository" label="apache/struts"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Sustainable-Solutions-Lab/food-opt: settings.json.license</title>
+    <link href="https://github.com/Sustainable-Solutions-Lab/food-opt/blob/97efbe4dfeb95e8492913b494b521fca4aa42f66/.claude/settings.json.license"/>
+    <id>urn:github:Sustainable-Solutions-Lab/food-opt:.claude/settings.json.license:155b0f2b2c76042573ed935e9483c0f845e563a0</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.license
+Repository: Sustainable-Solutions-Lab/food-opt
+SHA: 155b0f2b2c76042573ed935e9483c0f845e563a0</summary>
+    <category term="repository" label="Sustainable-Solutions-Lab/food-opt"/>
+    <category term="path" label=".claude/settings.json.license"/>
+  </entry>
+  <entry>
+    <title>vichannnnn/holy-grail: settings.json.example</title>
+    <link href="https://github.com/vichannnnn/holy-grail/blob/7a7a7aa0c7420ebc3d7590c4ba20526f56b9c63f/.claude/settings.json.example"/>
+    <id>urn:github:vichannnnn/holy-grail:.claude/settings.json.example:afec5a63803972cd6c751ffe07385151c38fbc61</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.example
+Repository: vichannnnn/holy-grail
+SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
+    <category term="repository" label="vichannnnn/holy-grail"/>
+    <category term="path" label=".claude/settings.json.example"/>
+  </entry>
+  <entry>
+    <title>EchoingVesper/vespera-atelier: settings.json.backup</title>
+    <link href="https://github.com/EchoingVesper/vespera-atelier/blob/71df5783f5d1f7f9309cca549a73ae9dfebaf4c5/.claude/settings.json.backup"/>
+    <id>urn:github:EchoingVesper/vespera-atelier:.claude/settings.json.backup:d3a0529f65fff399c9da0c179e451d4cf24421d1</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.backup
+Repository: EchoingVesper/vespera-atelier
+SHA: d3a0529f65fff399c9da0c179e451d4cf24421d1</summary>
+    <category term="repository" label="EchoingVesper/vespera-atelier"/>
+    <category term="path" label=".claude/settings.json.backup"/>
+  </entry>
+  <entry>
+    <title>ZXXZ1000/creative-dna-quest: settings.json-cc</title>
+    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-cc"/>
+    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-cc:b2909b55827b62a0dd114efb1253ad42de1be766</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json-cc
 Repository: ZXXZ1000/creative-dna-quest
-SHA: 79565d27db2810181429f6b8cccdb65a18374f4f</summary>
+SHA: b2909b55827b62a0dd114efb1253ad42de1be766</summary>
     <category term="repository" label="ZXXZ1000/creative-dna-quest"/>
-    <category term="path" label=".claude/settings.json-gemini"/>
-  </entry>
-  <entry>
-    <title>ZXXZ1000/creative-dna-quest: settings.json-k2</title>
-    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-k2"/>
-    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-k2:e95e1b6506cfe97f295e5706561374d335e7776e</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json-k2
-Repository: ZXXZ1000/creative-dna-quest
-SHA: e95e1b6506cfe97f295e5706561374d335e7776e</summary>
-    <category term="repository" label="ZXXZ1000/creative-dna-quest"/>
-    <category term="path" label=".claude/settings.json-k2"/>
-  </entry>
-  <entry>
-    <title>tbuczen/LARPilot: settings.json.dist</title>
-    <link href="https://github.com/tbuczen/LARPilot/blob/9da4a4691c2225f15a8082332136e0425180b9dd/.claude/settings.json.dist"/>
-    <id>urn:github:tbuczen/LARPilot:.claude/settings.json.dist:97f4af9c68442c3e076ccc1ea140d79313a0e744</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.dist
-Repository: tbuczen/LARPilot
-SHA: 97f4af9c68442c3e076ccc1ea140d79313a0e744</summary>
-    <category term="repository" label="tbuczen/LARPilot"/>
-    <category term="path" label=".claude/settings.json.dist"/>
-  </entry>
-  <entry>
-    <title>jhousteau/solution-desk-engine: settings.json.bak</title>
-    <link href="https://github.com/jhousteau/solution-desk-engine/blob/5798714dcfe76075a1f7a4863aabd5982842583a/.claude/settings.json.bak"/>
-    <id>urn:github:jhousteau/solution-desk-engine:.claude/settings.json.bak:9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.bak
-Repository: jhousteau/solution-desk-engine
-SHA: 9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</summary>
-    <category term="repository" label="jhousteau/solution-desk-engine"/>
-    <category term="path" label=".claude/settings.json.bak"/>
-  </entry>
-  <entry>
-    <title>wedosoft/homepage: settings.json</title>
-    <link href="https://github.com/wedosoft/homepage/blob/138e5b982e4143c8fee89fcac122c1735d2adf6f/.claude/settings.json"/>
-    <id>urn:github:wedosoft/homepage:.claude/settings.json:28ebf7532bf157288449a28aa8996f058bb5dbe5</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: wedosoft/homepage
-SHA: 28ebf7532bf157288449a28aa8996f058bb5dbe5</summary>
-    <category term="repository" label="wedosoft/homepage"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>vtakaj/ADO-History: settings.json</title>
-    <link href="https://github.com/vtakaj/ADO-History/blob/29cf67c8ed556fb5b2ef0bd2f8ae7a274d0df18a/.claude/settings.json"/>
-    <id>urn:github:vtakaj/ADO-History:.claude/settings.json:0640a87214b969e77e231e928814e3f831bcaa34</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: vtakaj/ADO-History
-SHA: 0640a87214b969e77e231e928814e3f831bcaa34</summary>
-    <category term="repository" label="vtakaj/ADO-History"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>christopher-buss/halcyon-prototype: settings.json</title>
-    <link href="https://github.com/christopher-buss/halcyon-prototype/blob/2daeb55053cee8585efad05448f1beb7c3ae03ea/.claude/settings.json"/>
-    <id>urn:github:christopher-buss/halcyon-prototype:.claude/settings.json:04ac9dfd1e468275d8ebedb7bc541350809d9510</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: christopher-buss/halcyon-prototype
-SHA: 04ac9dfd1e468275d8ebedb7bc541350809d9510</summary>
-    <category term="repository" label="christopher-buss/halcyon-prototype"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>junjiangao/ccode: settings.json</title>
-    <link href="https://github.com/junjiangao/ccode/blob/5b9f683e704ce2ad33b0f594fe0ff1ab8cfa549b/.claude/settings.json"/>
-    <id>urn:github:junjiangao/ccode:.claude/settings.json:5275d2b1da0442a1d6acb64695015c8618ceddc5</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: junjiangao/ccode
-SHA: 5275d2b1da0442a1d6acb64695015c8618ceddc5</summary>
-    <category term="repository" label="junjiangao/ccode"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>ClaytonHunt/claude-agent-manager: settings.json</title>
-    <link href="https://github.com/ClaytonHunt/claude-agent-manager/blob/812c8b3743894f7e4ca8e0071ea3ba193be89424/.claude/settings.json"/>
-    <id>urn:github:ClaytonHunt/claude-agent-manager:.claude/settings.json:1079a4858d4eb00cf2eb81966399b7f9309d62db</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: ClaytonHunt/claude-agent-manager
-SHA: 1079a4858d4eb00cf2eb81966399b7f9309d62db</summary>
-    <category term="repository" label="ClaytonHunt/claude-agent-manager"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>ZXXZ1000/creative-dna-quest: settings.json-ds</title>
-    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-ds"/>
-    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-ds:cb4b4b0eab2cc1a7ca6023f7e5025120a78dfba4</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json-ds
-Repository: ZXXZ1000/creative-dna-quest
-SHA: cb4b4b0eab2cc1a7ca6023f7e5025120a78dfba4</summary>
-    <category term="repository" label="ZXXZ1000/creative-dna-quest"/>
-    <category term="path" label=".claude/settings.json-ds"/>
-  </entry>
-  <entry>
-    <title>mslavov/shelly-forge: settings.json</title>
-    <link href="https://github.com/mslavov/shelly-forge/blob/db11cd5920c8671e6237bad57cf075e424d21041/.claude/settings.json"/>
-    <id>urn:github:mslavov/shelly-forge:.claude/settings.json:aa5b2d8101a7037943d7fa9ad9dfa25378a451e0</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: mslavov/shelly-forge
-SHA: aa5b2d8101a7037943d7fa9ad9dfa25378a451e0</summary>
-    <category term="repository" label="mslavov/shelly-forge"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>biggs3d/Tools: settings.json</title>
-    <link href="https://github.com/biggs3d/Tools/blob/27370b9fdbcb775be2468b89398cdafb88da4c40/.claude/settings.json"/>
-    <id>urn:github:biggs3d/Tools:.claude/settings.json:901177d0832017ffea2ba3186ea227ddf943b52e</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: biggs3d/Tools
-SHA: 901177d0832017ffea2ba3186ea227ddf943b52e</summary>
-    <category term="repository" label="biggs3d/Tools"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>Benjafo/react-express-auth-template: settings.json</title>
-    <link href="https://github.com/Benjafo/react-express-auth-template/blob/cb97e5e3db460689571fd2a076e224d0468ccc81/.claude/settings.json"/>
-    <id>urn:github:Benjafo/react-express-auth-template:.claude/settings.json:95bb2ce09ac05ed07155e32dc00590155b525829</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: Benjafo/react-express-auth-template
-SHA: 95bb2ce09ac05ed07155e32dc00590155b525829</summary>
-    <category term="repository" label="Benjafo/react-express-auth-template"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>ineffably/city-scape: settings.json</title>
-    <link href="https://github.com/ineffably/city-scape/blob/edd0b7a1bdc88e0ac9df9b905dae58cbcf8feb29/.claude/settings.json"/>
-    <id>urn:github:ineffably/city-scape:.claude/settings.json:65592e31b9fe5715c0b50431772915650347fba9</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: ineffably/city-scape
-SHA: 65592e31b9fe5715c0b50431772915650347fba9</summary>
-    <category term="repository" label="ineffably/city-scape"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>mmrakt/mimu-memo: settings.json</title>
-    <link href="https://github.com/mmrakt/mimu-memo/blob/51a7e622e5fc1ada27f8ce68694b017a44dcf185/.claude/settings.json"/>
-    <id>urn:github:mmrakt/mimu-memo:.claude/settings.json:38dd298f9da1bf145940ad156c5c5ed9386cd0fc</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: mmrakt/mimu-memo
-SHA: 38dd298f9da1bf145940ad156c5c5ed9386cd0fc</summary>
-    <category term="repository" label="mmrakt/mimu-memo"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>danilomartinelli/usecapsule-api: settings.json</title>
-    <link href="https://github.com/danilomartinelli/usecapsule-api/blob/19ee5baf026ee34ea50e195e2187a306e8bfdf24/.claude/settings.json"/>
-    <id>urn:github:danilomartinelli/usecapsule-api:.claude/settings.json:0e1395f3b7d0007b4b9de92e9548b6e3fcda0001</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: danilomartinelli/usecapsule-api
-SHA: 0e1395f3b7d0007b4b9de92e9548b6e3fcda0001</summary>
-    <category term="repository" label="danilomartinelli/usecapsule-api"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>thedavidyoungblood/vm-ork: settings.json.sudo_redirect_backup</title>
-    <link href="https://github.com/thedavidyoungblood/vm-ork/blob/242edee91ab7758cc7e2d687b99cebb5d83ce65d/.claude/settings.json.sudo_redirect_backup"/>
-    <id>urn:github:thedavidyoungblood/vm-ork:.claude/settings.json.sudo_redirect_backup:4e5aeb51d946ceb6e368febfaab726d68058e098</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.sudo_redirect_backup
-Repository: thedavidyoungblood/vm-ork
-SHA: 4e5aeb51d946ceb6e368febfaab726d68058e098</summary>
-    <category term="repository" label="thedavidyoungblood/vm-ork"/>
-    <category term="path" label=".claude/settings.json.sudo_redirect_backup"/>
-  </entry>
-  <entry>
-    <title>0xIntuition/intuition-contracts-v2: settings.json</title>
-    <link href="https://github.com/0xIntuition/intuition-contracts-v2/blob/20181c162502da226ca25c31aef47872369212c9/.claude/settings.json"/>
-    <id>urn:github:0xIntuition/intuition-contracts-v2:.claude/settings.json:5b65e77f34f7363e5d79d254d30341ff1c239e89</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: 0xIntuition/intuition-contracts-v2
-SHA: 5b65e77f34f7363e5d79d254d30341ff1c239e89</summary>
-    <category term="repository" label="0xIntuition/intuition-contracts-v2"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>fdarian/whap: settings.json</title>
-    <link href="https://github.com/fdarian/whap/blob/939a07d22c19d0266ed1691a425c9d52bce3bcf9/.claude/settings.json"/>
-    <id>urn:github:fdarian/whap:.claude/settings.json:41da444f952009eb21cc2c8f3a9694da1333d436</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: fdarian/whap
-SHA: 41da444f952009eb21cc2c8f3a9694da1333d436</summary>
-    <category term="repository" label="fdarian/whap"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>natsumi/dotfiles: settings.json</title>
-    <link href="https://github.com/natsumi/dotfiles/blob/5a891f507f164f87f5c99ef2077439565e31cbc8/.claude/settings.json"/>
-    <id>urn:github:natsumi/dotfiles:.claude/settings.json:38c548eee1be2fab051ef0c6944f31a887e92256</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: natsumi/dotfiles
-SHA: 38c548eee1be2fab051ef0c6944f31a887e92256</summary>
-    <category term="repository" label="natsumi/dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>biggs3d/Tools: settings.json</title>
-    <link href="https://github.com/biggs3d/Tools/blob/27370b9fdbcb775be2468b89398cdafb88da4c40/.ai-guidance/.claude/settings.json"/>
-    <id>urn:github:biggs3d/Tools:.ai-guidance/.claude/settings.json:2d59d93ae8f598af45d8c4a1f218a14d2743bddc</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .ai-guidance/.claude/settings.json
-Repository: biggs3d/Tools
-SHA: 2d59d93ae8f598af45d8c4a1f218a14d2743bddc</summary>
-    <category term="repository" label="biggs3d/Tools"/>
-    <category term="path" label=".ai-guidance/.claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>sbusso/claude-workflow: settings.json</title>
-    <link href="https://github.com/sbusso/claude-workflow/blob/85db3fe7429312661f9d5acae4e41ee71fe2d171/.claude/settings.json"/>
-    <id>urn:github:sbusso/claude-workflow:.claude/settings.json:ebf22f7e8b7fbfc29cb1527b6a8103df5492bc6e</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: sbusso/claude-workflow
-SHA: ebf22f7e8b7fbfc29cb1527b6a8103df5492bc6e</summary>
-    <category term="repository" label="sbusso/claude-workflow"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>esterpratt/dogs-parks: settings.json</title>
-    <link href="https://github.com/esterpratt/dogs-parks/blob/cbb17dda1d6a4dd2cb757594bc96572769193f69/.claude/settings.json"/>
-    <id>urn:github:esterpratt/dogs-parks:.claude/settings.json:0df37bfd85df86c03b4f0ea9a5fc22d45c482c50</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: esterpratt/dogs-parks
-SHA: 0df37bfd85df86c03b4f0ea9a5fc22d45c482c50</summary>
-    <category term="repository" label="esterpratt/dogs-parks"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>miyazaki-kl/todo-app: settings.json</title>
-    <link href="https://github.com/miyazaki-kl/todo-app/blob/72e1650c7abba8fdb5e705e6753d3231de927017/.claude/settings.json"/>
-    <id>urn:github:miyazaki-kl/todo-app:.claude/settings.json:8fb5ff66027576a1ba29cd35401ce88a592f44fb</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: miyazaki-kl/todo-app
-SHA: 8fb5ff66027576a1ba29cd35401ce88a592f44fb</summary>
-    <category term="repository" label="miyazaki-kl/todo-app"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>tobiaswaggoner/xrai.projectradar: settings.json</title>
-    <link href="https://github.com/tobiaswaggoner/xrai.projectradar/blob/97d7b91c2ef8a4c0ab4533c9379b153daf647080/.claude/settings.json"/>
-    <id>urn:github:tobiaswaggoner/xrai.projectradar:.claude/settings.json:351796a9c542b8e3362faf6bbd8bdddfbcac37ff</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: tobiaswaggoner/xrai.projectradar
-SHA: 351796a9c542b8e3362faf6bbd8bdddfbcac37ff</summary>
-    <category term="repository" label="tobiaswaggoner/xrai.projectradar"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>jmagar/taboot: settings.json</title>
-    <link href="https://github.com/jmagar/taboot/blob/225cbcda88b052443b1c429740d8ada696252883/.claude/settings.json"/>
-    <id>urn:github:jmagar/taboot:.claude/settings.json:207ea2887ffd152aa1138494dba8bf9ed03de7f7</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: jmagar/taboot
-SHA: 207ea2887ffd152aa1138494dba8bf9ed03de7f7</summary>
-    <category term="repository" label="jmagar/taboot"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>marcusrbrown/.dotfiles: settings.json</title>
-    <link href="https://github.com/marcusrbrown/.dotfiles/blob/1e23d57152216eb46291b3e0979d0d85845bd621/.claude/settings.json"/>
-    <id>urn:github:marcusrbrown/.dotfiles:.claude/settings.json:226852af267fa81e7b0a80a62112bdfc67c4f1d8</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: marcusrbrown/.dotfiles
-SHA: 226852af267fa81e7b0a80a62112bdfc67c4f1d8</summary>
-    <category term="repository" label="marcusrbrown/.dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>robertlupo1997/kkbox-churn-prediction: settings.json</title>
-    <link href="https://github.com/robertlupo1997/kkbox-churn-prediction/blob/ec807e50e403fc6934a064b6cd9148ccca22388a/.claude/settings.json"/>
-    <id>urn:github:robertlupo1997/kkbox-churn-prediction:.claude/settings.json:4693c13d218a5bd1dba3d5dfd60d69f9a35fe4ec</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: robertlupo1997/kkbox-churn-prediction
-SHA: 4693c13d218a5bd1dba3d5dfd60d69f9a35fe4ec</summary>
-    <category term="repository" label="robertlupo1997/kkbox-churn-prediction"/>
-    <category term="path" label=".claude/settings.json"/>
+    <category term="path" label=".claude/settings.json-cc"/>
   </entry>
   <entry>
     <title>Exeteres/reside: settings.json</title>
     <link href="https://github.com/Exeteres/reside/blob/68a061cb504ce7e0b10408f5297561d70cae6d5a/.claude/settings.json"/>
     <id>urn:github:Exeteres/reside:.claude/settings.json:262a0f165214ad487f26d34206657aa784f37c98</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: Exeteres/reside
 SHA: 262a0f165214ad487f26d34206657aa784f37c98</summary>
@@ -555,307 +137,54 @@ SHA: 262a0f165214ad487f26d34206657aa784f37c98</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>CVector-Energy/wable: settings.json</title>
-    <link href="https://github.com/CVector-Energy/wable/blob/c5e84c63b7973c033ccbaac07e2a893a0b31d6a5/.claude/settings.json"/>
-    <id>urn:github:CVector-Energy/wable:.claude/settings.json:1e9bd92e89fee0034fa33b5a6941ba1822ef8451</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>1nk1/agentic-keycheck: settings.json.bak</title>
+    <link href="https://github.com/1nk1/agentic-keycheck/blob/7bb43026c6dd35397a87e8d7d703d0a146af310f/.claude/settings.json.bak"/>
+    <id>urn:github:1nk1/agentic-keycheck:.claude/settings.json.bak:73303b5f6353412fdb13b1a5923f5af663244185</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.bak
+Repository: 1nk1/agentic-keycheck
+SHA: 73303b5f6353412fdb13b1a5923f5af663244185</summary>
+    <category term="repository" label="1nk1/agentic-keycheck"/>
+    <category term="path" label=".claude/settings.json.bak"/>
+  </entry>
+  <entry>
+    <title>hyprreal/npt-ai-template: settings.json</title>
+    <link href="https://github.com/hyprreal/npt-ai-template/blob/f7675119ae6640faa1726964ddad4adfe667d32c/.claude/settings.json"/>
+    <id>urn:github:hyprreal/npt-ai-template:.claude/settings.json:5b0a16b5117c9cc64073928571f812dab36e0ff1</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: CVector-Energy/wable
-SHA: 1e9bd92e89fee0034fa33b5a6941ba1822ef8451</summary>
-    <category term="repository" label="CVector-Energy/wable"/>
+Repository: hyprreal/npt-ai-template
+SHA: 5b0a16b5117c9cc64073928571f812dab36e0ff1</summary>
+    <category term="repository" label="hyprreal/npt-ai-template"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>elct9620/poc-mini-trade-game-dataset: settings.json</title>
-    <link href="https://github.com/elct9620/poc-mini-trade-game-dataset/blob/399ee58506a0c14700e5c640cf66db10eeeca45a/.claude/settings.json"/>
-    <id>urn:github:elct9620/poc-mini-trade-game-dataset:.claude/settings.json:12757b20d2dd49713a2f2376c033838c3ac0106c</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: elct9620/poc-mini-trade-game-dataset
-SHA: 12757b20d2dd49713a2f2376c033838c3ac0106c</summary>
-    <category term="repository" label="elct9620/poc-mini-trade-game-dataset"/>
-    <category term="path" label=".claude/settings.json"/>
+    <title>drillan/stapy116: settings.json.template</title>
+    <link href="https://github.com/drillan/stapy116/blob/c642d4a45573f50a4d2097a55a257d07540d1f1f/.claude/settings.json.template"/>
+    <id>urn:github:drillan/stapy116:.claude/settings.json.template:76d2e1ee97cb1ca18ff367b2e8ce8b5157ec54c5</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.template
+Repository: drillan/stapy116
+SHA: 76d2e1ee97cb1ca18ff367b2e8ce8b5157ec54c5</summary>
+    <category term="repository" label="drillan/stapy116"/>
+    <category term="path" label=".claude/settings.json.template"/>
   </entry>
   <entry>
-    <title>rjurney/florian: settings.json</title>
-    <link href="https://github.com/rjurney/florian/blob/5dd0465ec850cd9478553b71f9b4df9a06831974/.claude/settings.json"/>
-    <id>urn:github:rjurney/florian:.claude/settings.json:0f59ee18ea6778d2491707cc288c3f003bfdeb28</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: rjurney/florian
-SHA: 0f59ee18ea6778d2491707cc288c3f003bfdeb28</summary>
-    <category term="repository" label="rjurney/florian"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>engolder/task-manager: settings.json</title>
-    <link href="https://github.com/engolder/task-manager/blob/45f3b9c4eade23f66ae839b689ff00847150fc3b/.claude/settings.json"/>
-    <id>urn:github:engolder/task-manager:.claude/settings.json:2656355d17900ae119b373f93f30c9f93b2a89ce</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: engolder/task-manager
-SHA: 2656355d17900ae119b373f93f30c9f93b2a89ce</summary>
-    <category term="repository" label="engolder/task-manager"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>ahinkle/.dotfiles: settings.json</title>
-    <link href="https://github.com/ahinkle/.dotfiles/blob/bca01f3a361661c040fb814dc443f63e28aa0e6d/.claude/settings.json"/>
-    <id>urn:github:ahinkle/.dotfiles:.claude/settings.json:13fa041d9dda6fe2f493d4a2cb5bb8d35720289b</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: ahinkle/.dotfiles
-SHA: 13fa041d9dda6fe2f493d4a2cb5bb8d35720289b</summary>
-    <category term="repository" label="ahinkle/.dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>scaleapi/scale-agentex-python: settings.json</title>
-    <link href="https://github.com/scaleapi/scale-agentex-python/blob/33f620a9c6eea06f1be9748e573d53b7fe701e26/.claude/settings.json"/>
-    <id>urn:github:scaleapi/scale-agentex-python:.claude/settings.json:378d0ebec3f779ded1bdce4623dfedbce5d894ec</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: scaleapi/scale-agentex-python
-SHA: 378d0ebec3f779ded1bdce4623dfedbce5d894ec</summary>
-    <category term="repository" label="scaleapi/scale-agentex-python"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>pc-style/MCF: settings.json.backup</title>
-    <link href="https://github.com/pc-style/MCF/blob/f1a55359ba6dd208c4b08f60d3c3ffe1abd96f92/.claude/settings.json.backup"/>
-    <id>urn:github:pc-style/MCF:.claude/settings.json.backup:94abcb2cd3263f3b1193e09c2d872892022aa90c</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json.backup
-Repository: pc-style/MCF
-SHA: 94abcb2cd3263f3b1193e09c2d872892022aa90c</summary>
-    <category term="repository" label="pc-style/MCF"/>
-    <category term="path" label=".claude/settings.json.backup"/>
-  </entry>
-  <entry>
-    <title>iammohitsakhuja/dotfiles: settings.json</title>
-    <link href="https://github.com/iammohitsakhuja/dotfiles/blob/7d5adc1847b34e97fc1df2683402b9c1be02fdca/.claude/settings.json"/>
-    <id>urn:github:iammohitsakhuja/dotfiles:.claude/settings.json:6f36c5c7b2824fa5905da5ec87231fff42f87bb6</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: iammohitsakhuja/dotfiles
-SHA: 6f36c5c7b2824fa5905da5ec87231fff42f87bb6</summary>
-    <category term="repository" label="iammohitsakhuja/dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>eligundry/dots: settings.json</title>
-    <link href="https://github.com/eligundry/dots/blob/9726eddaf769c58994dd253c87b901a612ff3a91/.claude/settings.json"/>
-    <id>urn:github:eligundry/dots:.claude/settings.json:5523cd9965ed9c14c976fbb41466e624313e69a1</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: eligundry/dots
-SHA: 5523cd9965ed9c14c976fbb41466e624313e69a1</summary>
-    <category term="repository" label="eligundry/dots"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>heypoom/foigoi: settings.json</title>
-    <link href="https://github.com/heypoom/foigoi/blob/ca59154b75952cfdf31ca0f3814fa5cb6950eed8/.claude/settings.json"/>
-    <id>urn:github:heypoom/foigoi:.claude/settings.json:391e9ee94ca1d0b105ef7fd2868d00a940113958</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: heypoom/foigoi
-SHA: 391e9ee94ca1d0b105ef7fd2868d00a940113958</summary>
-    <category term="repository" label="heypoom/foigoi"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>shinshin86/dotfiles: settings.json</title>
-    <link href="https://github.com/shinshin86/dotfiles/blob/095aa2d713b2cf975a0bbd0fce2ffd1303d0d314/.claude/settings.json"/>
-    <id>urn:github:shinshin86/dotfiles:.claude/settings.json:7b3342a329ee8de45da9c8d77ec324b38f00629b</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: shinshin86/dotfiles
-SHA: 7b3342a329ee8de45da9c8d77ec324b38f00629b</summary>
-    <category term="repository" label="shinshin86/dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>andrekirst/family: settings.json</title>
-    <link href="https://github.com/andrekirst/family/blob/ea8a19b8a7565df6a9a0fc3653eb34a84fa423e7/.claude/settings.json"/>
-    <id>urn:github:andrekirst/family:.claude/settings.json:612359972384e9b4eb514dd1a70886e942d10bf2</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: andrekirst/family
-SHA: 612359972384e9b4eb514dd1a70886e942d10bf2</summary>
-    <category term="repository" label="andrekirst/family"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>ChrisThackrey/thakr.io: settings.json</title>
-    <link href="https://github.com/ChrisThackrey/thakr.io/blob/234a68a5e17462f4d551488fdc608f9afc528aea/.claude/settings.json"/>
-    <id>urn:github:ChrisThackrey/thakr.io:.claude/settings.json:af31958386c08cb67b0a6acb875376f9324d026e</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: ChrisThackrey/thakr.io
-SHA: af31958386c08cb67b0a6acb875376f9324d026e</summary>
-    <category term="repository" label="ChrisThackrey/thakr.io"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>schacon/cc-hooks-auto-commit: settings.json</title>
-    <link href="https://github.com/schacon/cc-hooks-auto-commit/blob/194bdb74aa27cc9c1833d5bacdb6222632ba1272/.claude/settings.json"/>
-    <id>urn:github:schacon/cc-hooks-auto-commit:.claude/settings.json:91fe3ae1c23da1e5ea051296726cc8bcc05229e2</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: schacon/cc-hooks-auto-commit
-SHA: 91fe3ae1c23da1e5ea051296726cc8bcc05229e2</summary>
-    <category term="repository" label="schacon/cc-hooks-auto-commit"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>t-naganuma/kakeibo-client: settings.json</title>
-    <link href="https://github.com/t-naganuma/kakeibo-client/blob/0ff8d2926dcfbf0842b862b1c8b7060b27206e8c/.claude/settings.json"/>
-    <id>urn:github:t-naganuma/kakeibo-client:.claude/settings.json:7a8139405fe2a7faf4f22a800ac2689664675883</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: t-naganuma/kakeibo-client
-SHA: 7a8139405fe2a7faf4f22a800ac2689664675883</summary>
-    <category term="repository" label="t-naganuma/kakeibo-client"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>exlexer/dotfiles: settings.json</title>
-    <link href="https://github.com/exlexer/dotfiles/blob/1fb61c7d719920e4ffb459e27282fd4140786d64/.claude/settings.json"/>
-    <id>urn:github:exlexer/dotfiles:.claude/settings.json:66d626f8204a22dea37bf873153010ad55392277</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: exlexer/dotfiles
-SHA: 66d626f8204a22dea37bf873153010ad55392277</summary>
-    <category term="repository" label="exlexer/dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>MilesChou/claude-spec-kit-workflow: settings.json</title>
-    <link href="https://github.com/MilesChou/claude-spec-kit-workflow/blob/3249e0783630055a1b954eb1d0e897ad60b0c880/.claude/settings.json"/>
-    <id>urn:github:MilesChou/claude-spec-kit-workflow:.claude/settings.json:5516d6b72b581c9baf866a6e92fabbb7e9526116</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: MilesChou/claude-spec-kit-workflow
-SHA: 5516d6b72b581c9baf866a6e92fabbb7e9526116</summary>
-    <category term="repository" label="MilesChou/claude-spec-kit-workflow"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>CaptainCrouton89/new-mystica: settings.json</title>
-    <link href="https://github.com/CaptainCrouton89/new-mystica/blob/b99bfdb1bfcded9257e094f3ac32cd8718a4c96d/.claude/settings.json"/>
-    <id>urn:github:CaptainCrouton89/new-mystica:.claude/settings.json:4fc466c3ededb00096acc8e58286fed8135d4f83</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: CaptainCrouton89/new-mystica
-SHA: 4fc466c3ededb00096acc8e58286fed8135d4f83</summary>
-    <category term="repository" label="CaptainCrouton89/new-mystica"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>day-ai/day-ai-sdk: settings.json</title>
-    <link href="https://github.com/day-ai/day-ai-sdk/blob/d68d706c964d2688c33f33348809ff4a9465e20e/.claude/settings.json"/>
-    <id>urn:github:day-ai/day-ai-sdk:.claude/settings.json:4611240a85ad3f0a7799383309ad828185867be3</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: day-ai/day-ai-sdk
-SHA: 4611240a85ad3f0a7799383309ad828185867be3</summary>
-    <category term="repository" label="day-ai/day-ai-sdk"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>mmcmillan1999/SOTOS: settings.json</title>
-    <link href="https://github.com/mmcmillan1999/SOTOS/blob/e03fa93309e10dd8a513ecbd5672c636265818bc/.claude/settings.json"/>
-    <id>urn:github:mmcmillan1999/SOTOS:.claude/settings.json:3bc9c97ebad21464cce92161670199ac56cd04fa</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: mmcmillan1999/SOTOS
-SHA: 3bc9c97ebad21464cce92161670199ac56cd04fa</summary>
-    <category term="repository" label="mmcmillan1999/SOTOS"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>johnlindquist/poweruser: settings.json</title>
-    <link href="https://github.com/johnlindquist/poweruser/blob/da1a890d494b75938f1a60806af76bae3bebfe7e/.claude/settings.json"/>
-    <id>urn:github:johnlindquist/poweruser:.claude/settings.json:3ac1f48db2933765669151c2737acf4d35d7957a</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: johnlindquist/poweruser
-SHA: 3ac1f48db2933765669151c2737acf4d35d7957a</summary>
-    <category term="repository" label="johnlindquist/poweruser"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>newkayak12/prototype-reservation-system: settings.json</title>
-    <link href="https://github.com/newkayak12/prototype-reservation-system/blob/0c866bd1f834d4eee944a8870743d24b142bbb0b/.claude/settings.json"/>
-    <id>urn:github:newkayak12/prototype-reservation-system:.claude/settings.json:3869d0c731edf158a48a658ec6aeb303a8332f3d</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: newkayak12/prototype-reservation-system
-SHA: 3869d0c731edf158a48a658ec6aeb303a8332f3d</summary>
-    <category term="repository" label="newkayak12/prototype-reservation-system"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>androidyue/claude_code_plugin_example: settings.json</title>
-    <link href="https://github.com/androidyue/claude_code_plugin_example/blob/c49791a8f7bbd64c209a91941dc2f02d81003661/.claude/settings.json"/>
-    <id>urn:github:androidyue/claude_code_plugin_example:.claude/settings.json:314f8fe9db1e2bb9d41801d0fbbc3e1dc2ed54d8</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: androidyue/claude_code_plugin_example
-SHA: 314f8fe9db1e2bb9d41801d0fbbc3e1dc2ed54d8</summary>
-    <category term="repository" label="androidyue/claude_code_plugin_example"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>tughril/dotfiles: settings.json</title>
-    <link href="https://github.com/tughril/dotfiles/blob/4a52e0c9cb90c18526d70822d24eb0f8609db1af/.claude/settings.json"/>
-    <id>urn:github:tughril/dotfiles:.claude/settings.json:2ddb7d7c304397c094638edb506ad7dd0137a94b</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: tughril/dotfiles
-SHA: 2ddb7d7c304397c094638edb506ad7dd0137a94b</summary>
-    <category term="repository" label="tughril/dotfiles"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>AbeJitsu/portfolio-2025: settings.json</title>
-    <link href="https://github.com/AbeJitsu/portfolio-2025/blob/47117dd65cff1456fea881ee867ce84f952549b3/.claude/settings.json"/>
-    <id>urn:github:AbeJitsu/portfolio-2025:.claude/settings.json:2cd73f2dec6b6235f7d2abc184b921b39b97d857</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: AbeJitsu/portfolio-2025
-SHA: 2cd73f2dec6b6235f7d2abc184b921b39b97d857</summary>
-    <category term="repository" label="AbeJitsu/portfolio-2025"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>hut8/soar: settings.json</title>
-    <link href="https://github.com/hut8/soar/blob/f3d8aace06b3b860591cef6f3550cd851e115ba9/.claude/settings.json"/>
-    <id>urn:github:hut8/soar:.claude/settings.json:2afb3e91ded90fe7d47d1d62753b00e392175134</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: hut8/soar
-SHA: 2afb3e91ded90fe7d47d1d62753b00e392175134</summary>
-    <category term="repository" label="hut8/soar"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>joepoptiya/ingest-pdf: settings.json</title>
-    <link href="https://github.com/joepoptiya/ingest-pdf/blob/af2143d45a79e34561a3e6ac8406fcc8ed14245f/.claude/settings.json"/>
-    <id>urn:github:joepoptiya/ingest-pdf:.claude/settings.json:28fdd24a50d85f14b072e447badb0217cc6efc1e</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: joepoptiya/ingest-pdf
-SHA: 28fdd24a50d85f14b072e447badb0217cc6efc1e</summary>
-    <category term="repository" label="joepoptiya/ingest-pdf"/>
-    <category term="path" label=".claude/settings.json"/>
+    <title>zach-source/mcp-rust-proxy: settings.json.bkup</title>
+    <link href="https://github.com/zach-source/mcp-rust-proxy/blob/8dc6bac5f7a6b59f4172d0e726e6679d4a1d7929/.claude/settings.json.bkup"/>
+    <id>urn:github:zach-source/mcp-rust-proxy:.claude/settings.json.bkup:600384da0f5332b9e7c2415ce3c17c5b374f6fca</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.bkup
+Repository: zach-source/mcp-rust-proxy
+SHA: 600384da0f5332b9e7c2415ce3c17c5b374f6fca</summary>
+    <category term="repository" label="zach-source/mcp-rust-proxy"/>
+    <category term="path" label=".claude/settings.json.bkup"/>
   </entry>
   <entry>
     <title>seki-seki/offline-mahjong: settings.json</title>
     <link href="https://github.com/seki-seki/offline-mahjong/blob/a5d96449422a1ccf66afb6700f0b77cac3f5e543/.claude/settings.json"/>
     <id>urn:github:seki-seki/offline-mahjong:.claude/settings.json:1081c66c953c0ecad8c21f336795be46eac936bd</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: seki-seki/offline-mahjong
 SHA: 1081c66c953c0ecad8c21f336795be46eac936bd</summary>
@@ -863,32 +192,758 @@ SHA: 1081c66c953c0ecad8c21f336795be46eac936bd</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>JohnnyMarnell/iqe: settings.json</title>
-    <link href="https://github.com/JohnnyMarnell/iqe/blob/e46273f2d1c6d6e783b8a0c5abd85b7893e483e8/.claude/settings.json"/>
-    <id>urn:github:JohnnyMarnell/iqe:.claude/settings.json:460e7b59442cd12be1529678ffb98b3e410f56da</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>thedavidyoungblood/vm-ork: settings.json.sudo_redirect_backup</title>
+    <link href="https://github.com/thedavidyoungblood/vm-ork/blob/242edee91ab7758cc7e2d687b99cebb5d83ce65d/.claude/settings.json.sudo_redirect_backup"/>
+    <id>urn:github:thedavidyoungblood/vm-ork:.claude/settings.json.sudo_redirect_backup:4e5aeb51d946ceb6e368febfaab726d68058e098</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.sudo_redirect_backup
+Repository: thedavidyoungblood/vm-ork
+SHA: 4e5aeb51d946ceb6e368febfaab726d68058e098</summary>
+    <category term="repository" label="thedavidyoungblood/vm-ork"/>
+    <category term="path" label=".claude/settings.json.sudo_redirect_backup"/>
+  </entry>
+  <entry>
+    <title>UrbanlyticsSolutions/watershed-delineation-system: settings.json</title>
+    <link href="https://github.com/UrbanlyticsSolutions/watershed-delineation-system/blob/971a3c3b06bef346da5b6658eef3cb710002443d/.claude/settings.json"/>
+    <id>urn:github:UrbanlyticsSolutions/watershed-delineation-system:.claude/settings.json:9730a3a2d1e055f97b56f708271dfeed5f23b4c0</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: JohnnyMarnell/iqe
-SHA: 460e7b59442cd12be1529678ffb98b3e410f56da</summary>
-    <category term="repository" label="JohnnyMarnell/iqe"/>
+Repository: UrbanlyticsSolutions/watershed-delineation-system
+SHA: 9730a3a2d1e055f97b56f708271dfeed5f23b4c0</summary>
+    <category term="repository" label="UrbanlyticsSolutions/watershed-delineation-system"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>jwplatta/schwab_rb: settings.json</title>
-    <link href="https://github.com/jwplatta/schwab_rb/blob/beb4e9fc623cd847888b975f2f95df4b7c56926a/.claude/settings.json"/>
-    <id>urn:github:jwplatta/schwab_rb:.claude/settings.json:6124c5515db31ab571c03508745b323c66f21614</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>aRustyDev/dotfiles: settings.json.ignore</title>
+    <link href="https://github.com/aRustyDev/dotfiles/blob/9f165826fa27b3dc626fb994b1ca07f717444311/.claude/settings.json.ignore"/>
+    <id>urn:github:aRustyDev/dotfiles:.claude/settings.json.ignore:e2fd112fd0dc0cbe32858b1762e386cb7d26ada6</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.ignore
+Repository: aRustyDev/dotfiles
+SHA: e2fd112fd0dc0cbe32858b1762e386cb7d26ada6</summary>
+    <category term="repository" label="aRustyDev/dotfiles"/>
+    <category term="path" label=".claude/settings.json.ignore"/>
+  </entry>
+  <entry>
+    <title>pakkio/wordpress: settings.json.sample</title>
+    <link href="https://github.com/pakkio/wordpress/blob/bfe848824a23c4ea3631e193c724f326fab7a79e/.claude/settings.json.sample"/>
+    <id>urn:github:pakkio/wordpress:.claude/settings.json.sample:5a5bc1c46f2154b4e2be74a840494998cd3e2d8a</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.sample
+Repository: pakkio/wordpress
+SHA: 5a5bc1c46f2154b4e2be74a840494998cd3e2d8a</summary>
+    <category term="repository" label="pakkio/wordpress"/>
+    <category term="path" label=".claude/settings.json.sample"/>
+  </entry>
+  <entry>
+    <title>mt114ran/mt114ran.github.io: settings.json.bak</title>
+    <link href="https://github.com/mt114ran/mt114ran.github.io/blob/2463965b72df3367017794f648150017f8f07612/.claude/settings.json.bak"/>
+    <id>urn:github:mt114ran/mt114ran.github.io:.claude/settings.json.bak:b2608afbef8d6fae51c636d1843b715cbe4a89d2</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.bak
+Repository: mt114ran/mt114ran.github.io
+SHA: b2608afbef8d6fae51c636d1843b715cbe4a89d2</summary>
+    <category term="repository" label="mt114ran/mt114ran.github.io"/>
+    <category term="path" label=".claude/settings.json.bak"/>
+  </entry>
+  <entry>
+    <title>jahands/prompts: settings.json</title>
+    <link href="https://github.com/jahands/prompts/blob/284b4432c193c0d2e0ce1adb821632af29db0801/.claude/settings.json"/>
+    <id>urn:github:jahands/prompts:.claude/settings.json:1c0f124f4c5753a52da1beaaaa473c4bb18b7d66</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: jwplatta/schwab_rb
-SHA: 6124c5515db31ab571c03508745b323c66f21614</summary>
-    <category term="repository" label="jwplatta/schwab_rb"/>
+Repository: jahands/prompts
+SHA: 1c0f124f4c5753a52da1beaaaa473c4bb18b7d66</summary>
+    <category term="repository" label="jahands/prompts"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>a-yasui/trip-quota: settings.json</title>
+    <link href="https://github.com/a-yasui/trip-quota/blob/2124c17536e6485acebac0a7c19debef3e6a5a52/.claude/settings.json"/>
+    <id>urn:github:a-yasui/trip-quota:.claude/settings.json:5883a0d96aca93c1030e3cd1a2f75a967ae0d9d8</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: a-yasui/trip-quota
+SHA: 5883a0d96aca93c1030e3cd1a2f75a967ae0d9d8</summary>
+    <category term="repository" label="a-yasui/trip-quota"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>benjaminfauchald/b2b: settings.json</title>
+    <link href="https://github.com/benjaminfauchald/b2b/blob/8966294ddd7a945daabf408a50d7c9094f0caf98/.claude/settings.json"/>
+    <id>urn:github:benjaminfauchald/b2b:.claude/settings.json:4631da519b84e8494b52d45c07214bd19abee138</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: benjaminfauchald/b2b
+SHA: 4631da519b84e8494b52d45c07214bd19abee138</summary>
+    <category term="repository" label="benjaminfauchald/b2b"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>tughril/dotfiles: settings.json</title>
+    <link href="https://github.com/tughril/dotfiles/blob/4a52e0c9cb90c18526d70822d24eb0f8609db1af/.claude/settings.json"/>
+    <id>urn:github:tughril/dotfiles:.claude/settings.json:2ddb7d7c304397c094638edb506ad7dd0137a94b</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: tughril/dotfiles
+SHA: 2ddb7d7c304397c094638edb506ad7dd0137a94b</summary>
+    <category term="repository" label="tughril/dotfiles"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>ophidiarium/cribo: settings.json</title>
+    <link href="https://github.com/ophidiarium/cribo/blob/2cf695103a091cc8594be811d8139991dbe4a424/.claude/settings.json"/>
+    <id>urn:github:ophidiarium/cribo:.claude/settings.json:0dda994bdcc5c1b0eedfbcecbc83bffe7945a0e6</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: ophidiarium/cribo
+SHA: 0dda994bdcc5c1b0eedfbcecbc83bffe7945a0e6</summary>
+    <category term="repository" label="ophidiarium/cribo"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>pc-style/MCF: settings.json.backup</title>
+    <link href="https://github.com/pc-style/MCF/blob/f1a55359ba6dd208c4b08f60d3c3ffe1abd96f92/.claude/settings.json.backup"/>
+    <id>urn:github:pc-style/MCF:.claude/settings.json.backup:94abcb2cd3263f3b1193e09c2d872892022aa90c</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.backup
+Repository: pc-style/MCF
+SHA: 94abcb2cd3263f3b1193e09c2d872892022aa90c</summary>
+    <category term="repository" label="pc-style/MCF"/>
+    <category term="path" label=".claude/settings.json.backup"/>
+  </entry>
+  <entry>
+    <title>ZXXZ1000/creative-dna-quest: settings.json-k2</title>
+    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-k2"/>
+    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-k2:e95e1b6506cfe97f295e5706561374d335e7776e</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json-k2
+Repository: ZXXZ1000/creative-dna-quest
+SHA: e95e1b6506cfe97f295e5706561374d335e7776e</summary>
+    <category term="repository" label="ZXXZ1000/creative-dna-quest"/>
+    <category term="path" label=".claude/settings.json-k2"/>
+  </entry>
+  <entry>
+    <title>gaebalai/taskAlarm: settings.json</title>
+    <link href="https://github.com/gaebalai/taskAlarm/blob/75e19d59dc4b0ce811880124fc22c3fd38924e92/.claude/settings.json"/>
+    <id>urn:github:gaebalai/taskAlarm:.claude/settings.json:2868587bee025bf721e4361c8de16b4c3c76694c</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: gaebalai/taskAlarm
+SHA: 2868587bee025bf721e4361c8de16b4c3c76694c</summary>
+    <category term="repository" label="gaebalai/taskAlarm"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>ZXXZ1000/creative-dna-quest: settings.json-gemini</title>
+    <link href="https://github.com/ZXXZ1000/creative-dna-quest/blob/80b10bb84105ea8e226052b23ad15b19b45533c2/.claude/settings.json-gemini"/>
+    <id>urn:github:ZXXZ1000/creative-dna-quest:.claude/settings.json-gemini:79565d27db2810181429f6b8cccdb65a18374f4f</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json-gemini
+Repository: ZXXZ1000/creative-dna-quest
+SHA: 79565d27db2810181429f6b8cccdb65a18374f4f</summary>
+    <category term="repository" label="ZXXZ1000/creative-dna-quest"/>
+    <category term="path" label=".claude/settings.json-gemini"/>
+  </entry>
+  <entry>
+    <title>sweetdevilprincess/RP-Launcher: settings.json</title>
+    <link href="https://github.com/sweetdevilprincess/RP-Launcher/blob/181775008613e43d57d7a47724499f6f91b3a07d/.claude/settings.json"/>
+    <id>urn:github:sweetdevilprincess/RP-Launcher:.claude/settings.json:021b03f634c88fed045bf493b8ac016fb74af9c7</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: sweetdevilprincess/RP-Launcher
+SHA: 021b03f634c88fed045bf493b8ac016fb74af9c7</summary>
+    <category term="repository" label="sweetdevilprincess/RP-Launcher"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>rmzlb/gomory: settings.json</title>
+    <link href="https://github.com/rmzlb/gomory/blob/35e5fe1e896227f96dd0e07663a6f6f4e2537ea1/.claude/settings.json"/>
+    <id>urn:github:rmzlb/gomory:.claude/settings.json:01cbdf7cec34830579ec9036aab676e90d7ee847</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: rmzlb/gomory
+SHA: 01cbdf7cec34830579ec9036aab676e90d7ee847</summary>
+    <category term="repository" label="rmzlb/gomory"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>shdennlin/claude-hooks-notifier: settings.json.example</title>
+    <link href="https://github.com/shdennlin/claude-hooks-notifier/blob/3c40b9019df21660f2c8c742afe9802a74bd6cce/.claude/settings.json.example"/>
+    <id>urn:github:shdennlin/claude-hooks-notifier:.claude/settings.json.example:07a96e6f0b69b7de85c2376367ff0c4b6111e1f8</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.example
+Repository: shdennlin/claude-hooks-notifier
+SHA: 07a96e6f0b69b7de85c2376367ff0c4b6111e1f8</summary>
+    <category term="repository" label="shdennlin/claude-hooks-notifier"/>
+    <category term="path" label=".claude/settings.json.example"/>
+  </entry>
+  <entry>
+    <title>Benjafo/react-express-auth-template: settings.json</title>
+    <link href="https://github.com/Benjafo/react-express-auth-template/blob/cb97e5e3db460689571fd2a076e224d0468ccc81/.claude/settings.json"/>
+    <id>urn:github:Benjafo/react-express-auth-template:.claude/settings.json:95bb2ce09ac05ed07155e32dc00590155b525829</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Benjafo/react-express-auth-template
+SHA: 95bb2ce09ac05ed07155e32dc00590155b525829</summary>
+    <category term="repository" label="Benjafo/react-express-auth-template"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Milkbboy/repo: settings.json</title>
+    <link href="https://github.com/Milkbboy/repo/blob/28c49a4f950cee65cbb30578ab4ae7bd8b7622f9/.claude/settings.json"/>
+    <id>urn:github:Milkbboy/repo:.claude/settings.json:2eee45f115b8d2d7ab89eba87dbf64e4731de88b</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Milkbboy/repo
+SHA: 2eee45f115b8d2d7ab89eba87dbf64e4731de88b</summary>
+    <category term="repository" label="Milkbboy/repo"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>exlexer/dotfiles: settings.json</title>
+    <link href="https://github.com/exlexer/dotfiles/blob/1fb61c7d719920e4ffb459e27282fd4140786d64/.claude/settings.json"/>
+    <id>urn:github:exlexer/dotfiles:.claude/settings.json:66d626f8204a22dea37bf873153010ad55392277</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: exlexer/dotfiles
+SHA: 66d626f8204a22dea37bf873153010ad55392277</summary>
+    <category term="repository" label="exlexer/dotfiles"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>boma086/itforce-helper: settings.json</title>
+    <link href="https://github.com/boma086/itforce-helper/blob/914d3df5f51d9bdc37920054e865e007d34823fc/.claude/settings.json"/>
+    <id>urn:github:boma086/itforce-helper:.claude/settings.json:fe51eadb2a911d736b860ee0ec8c62714f887682</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: boma086/itforce-helper
+SHA: fe51eadb2a911d736b860ee0ec8c62714f887682</summary>
+    <category term="repository" label="boma086/itforce-helper"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>GrupoUS/neonpro: settings.json</title>
+    <link href="https://github.com/GrupoUS/neonpro/blob/bcca048767b151ab31092850c5ea259e7faece9e/.claude/settings.json"/>
+    <id>urn:github:GrupoUS/neonpro:.claude/settings.json:b235d846068a8244930f4114d3a9023f97fd77b7</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: GrupoUS/neonpro
+SHA: b235d846068a8244930f4114d3a9023f97fd77b7</summary>
+    <category term="repository" label="GrupoUS/neonpro"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>rmc8/moodeSkyF: settings.json</title>
+    <link href="https://github.com/rmc8/moodeSkyF/blob/28094e9d286a9149f1c1db75d520c7a06623dddc/.claude/settings.json"/>
+    <id>urn:github:rmc8/moodeSkyF:.claude/settings.json:490f68332ffe5adca99ad06539e809678fd9cb5d</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: rmc8/moodeSkyF
+SHA: 490f68332ffe5adca99ad06539e809678fd9cb5d</summary>
+    <category term="repository" label="rmc8/moodeSkyF"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>pezzos/remote-mcp-proxy: settings.json</title>
+    <link href="https://github.com/pezzos/remote-mcp-proxy/blob/b0f7a7493aae12ffbe5b96a79e39cab01dbc4969/.claude/settings.json"/>
+    <id>urn:github:pezzos/remote-mcp-proxy:.claude/settings.json:218ee50bd765d1dd44cc2720cb7b5d358587be78</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: pezzos/remote-mcp-proxy
+SHA: 218ee50bd765d1dd44cc2720cb7b5d358587be78</summary>
+    <category term="repository" label="pezzos/remote-mcp-proxy"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>rjurney/florian: settings.json</title>
+    <link href="https://github.com/rjurney/florian/blob/5dd0465ec850cd9478553b71f9b4df9a06831974/.claude/settings.json"/>
+    <id>urn:github:rjurney/florian:.claude/settings.json:0f59ee18ea6778d2491707cc288c3f003bfdeb28</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: rjurney/florian
+SHA: 0f59ee18ea6778d2491707cc288c3f003bfdeb28</summary>
+    <category term="repository" label="rjurney/florian"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>oneprojectorg/common: settings.json</title>
+    <link href="https://github.com/oneprojectorg/common/blob/ed543987658fd75c231deef25af2b1bf44187880/.claude/settings.json"/>
+    <id>urn:github:oneprojectorg/common:.claude/settings.json:0e56a4d26484543a3a1d6a5ab7677b4bdf0e3586</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: oneprojectorg/common
+SHA: 0e56a4d26484543a3a1d6a5ab7677b4bdf0e3586</summary>
+    <category term="repository" label="oneprojectorg/common"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>upsun/whatsun: settings.json</title>
+    <link href="https://github.com/upsun/whatsun/blob/f221c19944aba7f3e92cdb8356b00e8ba01033a1/.claude/settings.json"/>
+    <id>urn:github:upsun/whatsun:.claude/settings.json:33694c4c120d3e17aea6102c93d996853295a155</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: upsun/whatsun
+SHA: 33694c4c120d3e17aea6102c93d996853295a155</summary>
+    <category term="repository" label="upsun/whatsun"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>monorailcss/MonorailCss.Framework: settings.json</title>
+    <link href="https://github.com/monorailcss/MonorailCss.Framework/blob/973f7967cfd4da4099c155251611afbe9aa8cadc/.claude/settings.json"/>
+    <id>urn:github:monorailcss/MonorailCss.Framework:.claude/settings.json:4788abddd57600a18f67e83f90645fd522a70030</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: monorailcss/MonorailCss.Framework
+SHA: 4788abddd57600a18f67e83f90645fd522a70030</summary>
+    <category term="repository" label="monorailcss/MonorailCss.Framework"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>cooldaemon/dotfiles: settings.json</title>
+    <link href="https://github.com/cooldaemon/dotfiles/blob/7c7b65fbb97ac1935e3c99c6e8643627363ac7c0/.claude/settings.json"/>
+    <id>urn:github:cooldaemon/dotfiles:.claude/settings.json:86fa32202c4ff7dff2dc7c818dc32cfaa218e5a0</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: cooldaemon/dotfiles
+SHA: 86fa32202c4ff7dff2dc7c818dc32cfaa218e5a0</summary>
+    <category term="repository" label="cooldaemon/dotfiles"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>jhousteau/solution-desk-engine: settings.json.bak</title>
+    <link href="https://github.com/jhousteau/solution-desk-engine/blob/5798714dcfe76075a1f7a4863aabd5982842583a/.claude/settings.json.bak"/>
+    <id>urn:github:jhousteau/solution-desk-engine:.claude/settings.json.bak:9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.bak
+Repository: jhousteau/solution-desk-engine
+SHA: 9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</summary>
+    <category term="repository" label="jhousteau/solution-desk-engine"/>
+    <category term="path" label=".claude/settings.json.bak"/>
+  </entry>
+  <entry>
+    <title>wahidyankf/oss: settings.json</title>
+    <link href="https://github.com/wahidyankf/oss/blob/f4e7019291c87eb3fe68eb5203f3f17501ecea7c/.claude/settings.json"/>
+    <id>urn:github:wahidyankf/oss:.claude/settings.json:42300abff74c97c263928c8fe088f48802592b90</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: wahidyankf/oss
+SHA: 42300abff74c97c263928c8fe088f48802592b90</summary>
+    <category term="repository" label="wahidyankf/oss"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>aces-sg/convertleadsapp-site: settings.json</title>
+    <link href="https://github.com/aces-sg/convertleadsapp-site/blob/9e319d36f319ec23f21cb274c2767b9e53aa5a16/.claude/settings.json"/>
+    <id>urn:github:aces-sg/convertleadsapp-site:.claude/settings.json:09ecab639185ac6c9b345fc7e219930f51c49d1b</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: aces-sg/convertleadsapp-site
+SHA: 09ecab639185ac6c9b345fc7e219930f51c49d1b</summary>
+    <category term="repository" label="aces-sg/convertleadsapp-site"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>daisuke19891023/test-helper-agent: settings.json</title>
+    <link href="https://github.com/daisuke19891023/test-helper-agent/blob/001e0b64df774847189364addafb8b13fbd77219/.claude/settings.json"/>
+    <id>urn:github:daisuke19891023/test-helper-agent:.claude/settings.json:a1e759c1e1c2159175dcf6e89df97589d4672877</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: daisuke19891023/test-helper-agent
+SHA: a1e759c1e1c2159175dcf6e89df97589d4672877</summary>
+    <category term="repository" label="daisuke19891023/test-helper-agent"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Nuru-AI/sippar: settings.json</title>
+    <link href="https://github.com/Nuru-AI/sippar/blob/9682845533c825e96e2faa0456bda8bf505a5bbc/.claude/settings.json"/>
+    <id>urn:github:Nuru-AI/sippar:.claude/settings.json:48a5cbdf9221eec8882be6d5905a0a26cce736a2</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Nuru-AI/sippar
+SHA: 48a5cbdf9221eec8882be6d5905a0a26cce736a2</summary>
+    <category term="repository" label="Nuru-AI/sippar"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>fundingthecommons/impactful-events: settings.json</title>
+    <link href="https://github.com/fundingthecommons/impactful-events/blob/9a6f45dd2199a4de5f11b8f5eecfe14b9a7fbd9d/.claude/settings.json"/>
+    <id>urn:github:fundingthecommons/impactful-events:.claude/settings.json:39802d1a1513717d460c68e5633011dd581b994e</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: fundingthecommons/impactful-events
+SHA: 39802d1a1513717d460c68e5633011dd581b994e</summary>
+    <category term="repository" label="fundingthecommons/impactful-events"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>senomorf/OracleInstanceCreator: settings.json</title>
+    <link href="https://github.com/senomorf/OracleInstanceCreator/blob/b000b593b8b667b5554e5e485218398c72ba8a45/.claude/settings.json"/>
+    <id>urn:github:senomorf/OracleInstanceCreator:.claude/settings.json:379d907aa953f34ed28f8615409ee22c03a17f20</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: senomorf/OracleInstanceCreator
+SHA: 379d907aa953f34ed28f8615409ee22c03a17f20</summary>
+    <category term="repository" label="senomorf/OracleInstanceCreator"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>toolprint/claude-task: settings.json</title>
+    <link href="https://github.com/toolprint/claude-task/blob/ef93228e8dbb578a9352cdcbe229dc0e025d10fc/.claude/settings.json"/>
+    <id>urn:github:toolprint/claude-task:.claude/settings.json:0ed9bfd23273dc580e7b4c87a082197aceb6c1c6</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: toolprint/claude-task
+SHA: 0ed9bfd23273dc580e7b4c87a082197aceb6c1c6</summary>
+    <category term="repository" label="toolprint/claude-task"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Sheldon-92/TAD: settings.json</title>
+    <link href="https://github.com/Sheldon-92/TAD/blob/e90111ae2151ddc3beeb64b172b14d71727d2ed3/.claude/settings.json"/>
+    <id>urn:github:Sheldon-92/TAD:.claude/settings.json:0df211b718418fd3bea75d6aa2bf6179b76daecf</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Sheldon-92/TAD
+SHA: 0df211b718418fd3bea75d6aa2bf6179b76daecf</summary>
+    <category term="repository" label="Sheldon-92/TAD"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>DylanJinx/Voicelnk-Reset-Trail: settings.json</title>
+    <link href="https://github.com/DylanJinx/Voicelnk-Reset-Trail/blob/1931ed54d5d7f52d2ffa564a094b74e68a3494c1/.claude/settings.json"/>
+    <id>urn:github:DylanJinx/Voicelnk-Reset-Trail:.claude/settings.json:092e9eefebfc45c7e2764f4776cde2547fa6ad49</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: DylanJinx/Voicelnk-Reset-Trail
+SHA: 092e9eefebfc45c7e2764f4776cde2547fa6ad49</summary>
+    <category term="repository" label="DylanJinx/Voicelnk-Reset-Trail"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Kaniikura/atcoder-go: settings.json</title>
+    <link href="https://github.com/Kaniikura/atcoder-go/blob/3dedd1c90dc816b0feb1097191e07e42b966913a/.claude/settings.json"/>
+    <id>urn:github:Kaniikura/atcoder-go:.claude/settings.json:a14bd8270ec0e4187ebf1d6341780ccf8ce43647</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Kaniikura/atcoder-go
+SHA: a14bd8270ec0e4187ebf1d6341780ccf8ce43647</summary>
+    <category term="repository" label="Kaniikura/atcoder-go"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>StarkillerObl/claude-code-agents: settings.json</title>
+    <link href="https://github.com/StarkillerObl/claude-code-agents/blob/b2cf817704b498af50f176b09705b0254bc9cb33/.claude/settings.json"/>
+    <id>urn:github:StarkillerObl/claude-code-agents:.claude/settings.json:57c290a6e772263501f850f9d96b61e6bb74a662</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: StarkillerObl/claude-code-agents
+SHA: 57c290a6e772263501f850f9d96b61e6bb74a662</summary>
+    <category term="repository" label="StarkillerObl/claude-code-agents"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>SchematicHQ/schematic-js: settings.json</title>
+    <link href="https://github.com/SchematicHQ/schematic-js/blob/08b8986647a1be72fb0219d4952dba875526de9c/.claude/settings.json"/>
+    <id>urn:github:SchematicHQ/schematic-js:.claude/settings.json:176bcf91fb3f4877c01ab0fc481798373ee631ac</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: SchematicHQ/schematic-js
+SHA: 176bcf91fb3f4877c01ab0fc481798373ee631ac</summary>
+    <category term="repository" label="SchematicHQ/schematic-js"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Gin-Quin/esrun: settings.json</title>
+    <link href="https://github.com/Gin-Quin/esrun/blob/10ad7f7602d37687b648617c6595313c2bd1f6b1/.claude/settings.json"/>
+    <id>urn:github:Gin-Quin/esrun:.claude/settings.json:0dbc3b69731dbd6b8179ed479e936aa7dee29d32</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Gin-Quin/esrun
+SHA: 0dbc3b69731dbd6b8179ed479e936aa7dee29d32</summary>
+    <category term="repository" label="Gin-Quin/esrun"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>golf-mcp/golf-testing: settings.json</title>
+    <link href="https://github.com/golf-mcp/golf-testing/blob/b256d03954405b42a5e792ee80382a0c1b8f3c16/.claude/settings.json"/>
+    <id>urn:github:golf-mcp/golf-testing:.claude/settings.json:2b6685e298c656af424e60440c1866d57b3f9c54</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: golf-mcp/golf-testing
+SHA: 2b6685e298c656af424e60440c1866d57b3f9c54</summary>
+    <category term="repository" label="golf-mcp/golf-testing"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>iepathos/debtmap: settings.json</title>
+    <link href="https://github.com/iepathos/debtmap/blob/fcdce0a818e9744f885ca731bb917c633cc1b4b2/.claude/settings.json"/>
+    <id>urn:github:iepathos/debtmap:.claude/settings.json:592f50c5c39aef159c99c71a1c669ea37fe92bd8</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: iepathos/debtmap
+SHA: 592f50c5c39aef159c99c71a1c669ea37fe92bd8</summary>
+    <category term="repository" label="iepathos/debtmap"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>mckaywrigley/claude-code-voice: settings.json</title>
+    <link href="https://github.com/mckaywrigley/claude-code-voice/blob/b6c5bae418b3cf0caa7ca17454a2f5d1bed63d8a/.claude/settings.json"/>
+    <id>urn:github:mckaywrigley/claude-code-voice:.claude/settings.json:3ef00bd83d8034c94f6ff8c1cb59b832f53f9948</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: mckaywrigley/claude-code-voice
+SHA: 3ef00bd83d8034c94f6ff8c1cb59b832f53f9948</summary>
+    <category term="repository" label="mckaywrigley/claude-code-voice"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>stefan-vatov/dotfiles: settings.json</title>
+    <link href="https://github.com/stefan-vatov/dotfiles/blob/c1ce20c170a47802e540e2557ec0e2db658c1dbe/.claude/settings.json"/>
+    <id>urn:github:stefan-vatov/dotfiles:.claude/settings.json:22dcb5725a3e249ecfa95db5e59d2a22020f4179</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: stefan-vatov/dotfiles
+SHA: 22dcb5725a3e249ecfa95db5e59d2a22020f4179</summary>
+    <category term="repository" label="stefan-vatov/dotfiles"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>esterpratt/dogs-parks: settings.json</title>
+    <link href="https://github.com/esterpratt/dogs-parks/blob/cbb17dda1d6a4dd2cb757594bc96572769193f69/.claude/settings.json"/>
+    <id>urn:github:esterpratt/dogs-parks:.claude/settings.json:0df37bfd85df86c03b4f0ea9a5fc22d45c482c50</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: esterpratt/dogs-parks
+SHA: 0df37bfd85df86c03b4f0ea9a5fc22d45c482c50</summary>
+    <category term="repository" label="esterpratt/dogs-parks"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>tbuczen/LARPilot: settings.json.dist</title>
+    <link href="https://github.com/tbuczen/LARPilot/blob/6519af86fa92c0315962ee5567f2bb7cfe0ed8f3/.claude/settings.json.dist"/>
+    <id>urn:github:tbuczen/LARPilot:.claude/settings.json.dist:97f4af9c68442c3e076ccc1ea140d79313a0e744</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json.dist
+Repository: tbuczen/LARPilot
+SHA: 97f4af9c68442c3e076ccc1ea140d79313a0e744</summary>
+    <category term="repository" label="tbuczen/LARPilot"/>
+    <category term="path" label=".claude/settings.json.dist"/>
+  </entry>
+  <entry>
+    <title>pedroapfilho/dotfiles: settings.json</title>
+    <link href="https://github.com/pedroapfilho/dotfiles/blob/ec0bf248941c964934624fa8175fc3296022f57a/.claude/settings.json"/>
+    <id>urn:github:pedroapfilho/dotfiles:.claude/settings.json:be15eb86f1d0e0f5f3806f4f630bb6b32fc42787</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: pedroapfilho/dotfiles
+SHA: be15eb86f1d0e0f5f3806f4f630bb6b32fc42787</summary>
+    <category term="repository" label="pedroapfilho/dotfiles"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>keevingfu/eufyprism: settings.json</title>
+    <link href="https://github.com/keevingfu/eufyprism/blob/8d981bde199bce066357ad15d7ab3f9fb57b3359/.claude/settings.json"/>
+    <id>urn:github:keevingfu/eufyprism:.claude/settings.json:aabffd679c413fe5736ec60af66f5ed78c51900e</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: keevingfu/eufyprism
+SHA: aabffd679c413fe5736ec60af66f5ed78c51900e</summary>
+    <category term="repository" label="keevingfu/eufyprism"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>iamsteveng/namecard: settings.json</title>
+    <link href="https://github.com/iamsteveng/namecard/blob/e1d324b2e9be5fc48a2237b8657c832f3e4753a9/.claude/settings.json"/>
+    <id>urn:github:iamsteveng/namecard:.claude/settings.json:a471d840e2f8f95e090c472b9287eca3135243cf</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: iamsteveng/namecard
+SHA: a471d840e2f8f95e090c472b9287eca3135243cf</summary>
+    <category term="repository" label="iamsteveng/namecard"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>miyazaki-kl/todo-app: settings.json</title>
+    <link href="https://github.com/miyazaki-kl/todo-app/blob/72e1650c7abba8fdb5e705e6753d3231de927017/.claude/settings.json"/>
+    <id>urn:github:miyazaki-kl/todo-app:.claude/settings.json:8fb5ff66027576a1ba29cd35401ce88a592f44fb</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: miyazaki-kl/todo-app
+SHA: 8fb5ff66027576a1ba29cd35401ce88a592f44fb</summary>
+    <category term="repository" label="miyazaki-kl/todo-app"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>ineffably/city-scape: settings.json</title>
+    <link href="https://github.com/ineffably/city-scape/blob/edd0b7a1bdc88e0ac9df9b905dae58cbcf8feb29/.claude/settings.json"/>
+    <id>urn:github:ineffably/city-scape:.claude/settings.json:65592e31b9fe5715c0b50431772915650347fba9</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: ineffably/city-scape
+SHA: 65592e31b9fe5715c0b50431772915650347fba9</summary>
+    <category term="repository" label="ineffably/city-scape"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>dyoshikawa/garden: settings.json</title>
+    <link href="https://github.com/dyoshikawa/garden/blob/22b6d61a1274d13a90db63dee1594b9c66f77719/.claude/settings.json"/>
+    <id>urn:github:dyoshikawa/garden:.claude/settings.json:4ef000954d84855d0aba0f195b9a6c62ec2b644c</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: dyoshikawa/garden
+SHA: 4ef000954d84855d0aba0f195b9a6c62ec2b644c</summary>
+    <category term="repository" label="dyoshikawa/garden"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>sclaussen/todo-sync: settings.json</title>
+    <link href="https://github.com/sclaussen/todo-sync/blob/1baa1621be15d672a768cebb844fc07418bfcc0e/.claude/settings.json"/>
+    <id>urn:github:sclaussen/todo-sync:.claude/settings.json:4639d5ab1673a11e2663595f335c217ee5042551</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: sclaussen/todo-sync
+SHA: 4639d5ab1673a11e2663595f335c217ee5042551</summary>
+    <category term="repository" label="sclaussen/todo-sync"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>WarrenZhu050413/fun_hooks: settings.json</title>
+    <link href="https://github.com/WarrenZhu050413/fun_hooks/blob/9388623a0ea79009264c1c54e5db9e93062fe00e/.claude/settings.json"/>
+    <id>urn:github:WarrenZhu050413/fun_hooks:.claude/settings.json:4303c674e07402619c5a0402f2aa86daab70a8c3</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: WarrenZhu050413/fun_hooks
+SHA: 4303c674e07402619c5a0402f2aa86daab70a8c3</summary>
+    <category term="repository" label="WarrenZhu050413/fun_hooks"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>aurevives/claudevoice: settings.json</title>
+    <link href="https://github.com/aurevives/claudevoice/blob/d9b952dec8c7f41c97f54296ca158babe92513da/.claude/settings.json"/>
+    <id>urn:github:aurevives/claudevoice:.claude/settings.json:39c45a5d8d17f19b94a0b93e9490a6fecc31a13c</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: aurevives/claudevoice
+SHA: 39c45a5d8d17f19b94a0b93e9490a6fecc31a13c</summary>
+    <category term="repository" label="aurevives/claudevoice"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>soenkenils/spring-demo: settings.json</title>
+    <link href="https://github.com/soenkenils/spring-demo/blob/6a549990350c72b2580fc309f3fc9cdb522277dc/.claude/settings.json"/>
+    <id>urn:github:soenkenils/spring-demo:.claude/settings.json:2e2656b4fec6713abeeff447cfc4d32ad6763bd9</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: soenkenils/spring-demo
+SHA: 2e2656b4fec6713abeeff447cfc4d32ad6763bd9</summary>
+    <category term="repository" label="soenkenils/spring-demo"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>jondcallahan/sunburntimer: settings.json</title>
+    <link href="https://github.com/jondcallahan/sunburntimer/blob/81722c9495aaa783ba8e48190f312817757bcbbb/.claude/settings.json"/>
+    <id>urn:github:jondcallahan/sunburntimer:.claude/settings.json:2da869d9a269271a35092466e9eb53ecf23eb7ca</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: jondcallahan/sunburntimer
+SHA: 2da869d9a269271a35092466e9eb53ecf23eb7ca</summary>
+    <category term="repository" label="jondcallahan/sunburntimer"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Anirach/claude-agent-sdk-01: settings.json</title>
+    <link href="https://github.com/Anirach/claude-agent-sdk-01/blob/045a833ac3b210f85577df054c5a994cf35b6193/.claude/settings.json"/>
+    <id>urn:github:Anirach/claude-agent-sdk-01:.claude/settings.json:2c7b7976ce627f36fb2289981ae7caf091115180</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Anirach/claude-agent-sdk-01
+SHA: 2c7b7976ce627f36fb2289981ae7caf091115180</summary>
+    <category term="repository" label="Anirach/claude-agent-sdk-01"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>Giftedx/crew: settings.json</title>
+    <link href="https://github.com/Giftedx/crew/blob/99d7d94caea004bfc861cf435fd57cd6d0a792dd/.claude/settings.json"/>
+    <id>urn:github:Giftedx/crew:.claude/settings.json:2aac23ed8379c91d555e7b3e1a7752dec7fd6bc4</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: Giftedx/crew
+SHA: 2aac23ed8379c91d555e7b3e1a7752dec7fd6bc4</summary>
+    <category term="repository" label="Giftedx/crew"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>vibecoding1/react-vite-supabase-template: settings.json</title>
+    <link href="https://github.com/vibecoding1/react-vite-supabase-template/blob/c922afc8864fb7e66d2658f40d88d41a373f3afe/.claude/settings.json"/>
+    <id>urn:github:vibecoding1/react-vite-supabase-template:.claude/settings.json:245a91ad70b58f16e030bccd5dfdafcec5b05f46</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: vibecoding1/react-vite-supabase-template
+SHA: 245a91ad70b58f16e030bccd5dfdafcec5b05f46</summary>
+    <category term="repository" label="vibecoding1/react-vite-supabase-template"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>olivbau/mythreads: settings.json</title>
+    <link href="https://github.com/olivbau/mythreads/blob/ac2db4a72fd0db59d1612b23a2a82e3c9dd00255/.claude/settings.json"/>
+    <id>urn:github:olivbau/mythreads:.claude/settings.json:19b97174797f1c2b0815cf0e5dadab27ceb418c6</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: olivbau/mythreads
+SHA: 19b97174797f1c2b0815cf0e5dadab27ceb418c6</summary>
+    <category term="repository" label="olivbau/mythreads"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>maxischmaxi/vibe-maker: settings.json</title>
+    <link href="https://github.com/maxischmaxi/vibe-maker/blob/834860911deabb75a365c9b4eeb8d415a79d159b/.claude/settings.json"/>
+    <id>urn:github:maxischmaxi/vibe-maker:.claude/settings.json:0dc632128bff1c303f0d791ff03e2001aa2714f1</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: maxischmaxi/vibe-maker
+SHA: 0dc632128bff1c303f0d791ff03e2001aa2714f1</summary>
+    <category term="repository" label="maxischmaxi/vibe-maker"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>ichuan/devcontainer: settings.json</title>
+    <link href="https://github.com/ichuan/devcontainer/blob/70906d29e5195e2cabdd997680260836b581c733/.devcontainer/.claude/settings.json"/>
+    <id>urn:github:ichuan/devcontainer:.devcontainer/.claude/settings.json:24ca1c6caca7f9cbb02263e9961a7974a2fd4738</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .devcontainer/.claude/settings.json
+Repository: ichuan/devcontainer
+SHA: 24ca1c6caca7f9cbb02263e9961a7974a2fd4738</summary>
+    <category term="repository" label="ichuan/devcontainer"/>
+    <category term="path" label=".devcontainer/.claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>codfish/katebromley.com: settings.json</title>
+    <link href="https://github.com/codfish/katebromley.com/blob/6329ecf1112defffa7e5a20e920af705a981437d/.claude/settings.json"/>
+    <id>urn:github:codfish/katebromley.com:.claude/settings.json:5875a39fbe3c6ebfcfcb250e156784b5d6fbaf07</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: codfish/katebromley.com
+SHA: 5875a39fbe3c6ebfcfcb250e156784b5d6fbaf07</summary>
+    <category term="repository" label="codfish/katebromley.com"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>hlte-net/elixir-daemon: settings.json</title>
+    <link href="https://github.com/hlte-net/elixir-daemon/blob/cce6ab2b43f677d1a2b506cef96798791401d0e1/.claude/settings.json"/>
+    <id>urn:github:hlte-net/elixir-daemon:.claude/settings.json:93063030a7a8fd81a3be6ef77cb9349ac2364b7f</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: hlte-net/elixir-daemon
+SHA: 93063030a7a8fd81a3be6ef77cb9349ac2364b7f</summary>
+    <category term="repository" label="hlte-net/elixir-daemon"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
     <title>KubrickCode/loa-work: settings.json</title>
     <link href="https://github.com/KubrickCode/loa-work/blob/5a6ae1ab75e73f6bfa322fb218e5eb13e36436c5/.claude/settings.json"/>
     <id>urn:github:KubrickCode/loa-work:.claude/settings.json:56bccfc9c14f6d72061e9afae32260169f05d16c</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: KubrickCode/loa-work
 SHA: 56bccfc9c14f6d72061e9afae32260169f05d16c</summary>
@@ -896,21 +951,32 @@ SHA: 56bccfc9c14f6d72061e9afae32260169f05d16c</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>krmcbride/claudecode-hooks: settings.json</title>
-    <link href="https://github.com/krmcbride/claudecode-hooks/blob/299eb2f57d3d56d65822a6c43dda13c94dcbce4f/.claude/settings.json"/>
-    <id>urn:github:krmcbride/claudecode-hooks:.claude/settings.json:a1b8ef83b8efd23a3d82b9d61a2cde06bce36268</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>mkizka/subscope: settings.json</title>
+    <link href="https://github.com/mkizka/subscope/blob/4c84d6d387b16a09fa66f46e8b9b621714e35bd4/.claude/settings.json"/>
+    <id>urn:github:mkizka/subscope:.claude/settings.json:4ebe41e01ff4ddec0dc0c3fc81bcaadf2367dcde</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: krmcbride/claudecode-hooks
-SHA: a1b8ef83b8efd23a3d82b9d61a2cde06bce36268</summary>
-    <category term="repository" label="krmcbride/claudecode-hooks"/>
+Repository: mkizka/subscope
+SHA: 4ebe41e01ff4ddec0dc0c3fc81bcaadf2367dcde</summary>
+    <category term="repository" label="mkizka/subscope"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>devunt/forklane: settings.json</title>
+    <link href="https://github.com/devunt/forklane/blob/c6cd533906ff4fa5cb491bff3aa1440e8730cff4/.claude/settings.json"/>
+    <id>urn:github:devunt/forklane:.claude/settings.json:93afe0878e2953573207e5abd011c0478f1396ed</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: devunt/forklane
+SHA: 93afe0878e2953573207e5abd011c0478f1396ed</summary>
+    <category term="repository" label="devunt/forklane"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
     <title>langadventurellc/trixie: settings.json</title>
     <link href="https://github.com/langadventurellc/trixie/blob/51bffe88a90e78b035b178c70373759111c7c8dc/.claude/settings.json"/>
     <id>urn:github:langadventurellc/trixie:.claude/settings.json:5c4e237562a406dc53edcbac65cf3494f522a7ae</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: langadventurellc/trixie
 SHA: 5c4e237562a406dc53edcbac65cf3494f522a7ae</summary>
@@ -918,32 +984,21 @@ SHA: 5c4e237562a406dc53edcbac65cf3494f522a7ae</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>jfuginay/gauntlet-macos-template: settings.json</title>
-    <link href="https://github.com/jfuginay/gauntlet-macos-template/blob/9521bf8bf02e2ab8f903411135d2671045ba63ea/.claude/settings.json"/>
-    <id>urn:github:jfuginay/gauntlet-macos-template:.claude/settings.json:4de45beac179ef9cceee0ebedddca6c377f644ea</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>andreashaja/promos: settings.json</title>
+    <link href="https://github.com/andreashaja/promos/blob/2f3ee8b9351e37116ca4c5ea43afe68fbb75c61d/.claude/settings.json"/>
+    <id>urn:github:andreashaja/promos:.claude/settings.json:55af2b337bb9fe4dc90946e90026f5f19901f9cd</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: jfuginay/gauntlet-macos-template
-SHA: 4de45beac179ef9cceee0ebedddca6c377f644ea</summary>
-    <category term="repository" label="jfuginay/gauntlet-macos-template"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>hoshinotsuyoshi/study-liam: settings.json</title>
-    <link href="https://github.com/hoshinotsuyoshi/study-liam/blob/ef3742c14f513e29e8526fd4d038f225e47c48bd/.claude/settings.json"/>
-    <id>urn:github:hoshinotsuyoshi/study-liam:.claude/settings.json:3971d276c497e2ebd270c0f663e91875644d9cfa</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: hoshinotsuyoshi/study-liam
-SHA: 3971d276c497e2ebd270c0f663e91875644d9cfa</summary>
-    <category term="repository" label="hoshinotsuyoshi/study-liam"/>
+Repository: andreashaja/promos
+SHA: 55af2b337bb9fe4dc90946e90026f5f19901f9cd</summary>
+    <category term="repository" label="andreashaja/promos"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
     <title>mmarfinetz/gmailunsubscriber: settings.json</title>
-    <link href="https://github.com/mmarfinetz/gmailunsubscriber/blob/bd41de9d4eea0b946ecb62cd9f971291f9decdb0/.claude/settings.json"/>
+    <link href="https://github.com/mmarfinetz/gmailunsubscriber/blob/5322862f0950c49201224f410f76485790cd3f26/.claude/settings.json"/>
     <id>urn:github:mmarfinetz/gmailunsubscriber:.claude/settings.json:379d70ee3506405b3d66422b86ff2f5a35efa231</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: mmarfinetz/gmailunsubscriber
 SHA: 379d70ee3506405b3d66422b86ff2f5a35efa231</summary>
@@ -951,10 +1006,21 @@ SHA: 379d70ee3506405b3d66422b86ff2f5a35efa231</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
+    <title>vicle1908/kafka-transactional-microservices: settings.json</title>
+    <link href="https://github.com/vicle1908/kafka-transactional-microservices/blob/abc83d349b3d87c4124c21de417d3daf1b721a48/.claude/settings.json"/>
+    <id>urn:github:vicle1908/kafka-transactional-microservices:.claude/settings.json:32510d69b640a3d1ff9bc9151a2d63bf806b7001</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: .claude/settings.json
+Repository: vicle1908/kafka-transactional-microservices
+SHA: 32510d69b640a3d1ff9bc9151a2d63bf806b7001</summary>
+    <category term="repository" label="vicle1908/kafka-transactional-microservices"/>
+    <category term="path" label=".claude/settings.json"/>
+  </entry>
+  <entry>
     <title>aishidajt9/2025JAMS79_Seminor: settings.json</title>
     <link href="https://github.com/aishidajt9/2025JAMS79_Seminor/blob/bc962409feea4ab6fcdef79ca6effc23e8b8e369/.claude/settings.json"/>
     <id>urn:github:aishidajt9/2025JAMS79_Seminor:.claude/settings.json:308a6c54e697ba817fe2ed5a4cf858b90a43388f</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: aishidajt9/2025JAMS79_Seminor
 SHA: 308a6c54e697ba817fe2ed5a4cf858b90a43388f</summary>
@@ -962,153 +1028,87 @@ SHA: 308a6c54e697ba817fe2ed5a4cf858b90a43388f</summary>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>takumi3488/reji-cleaner: settings.json</title>
-    <link href="https://github.com/takumi3488/reji-cleaner/blob/9da0575a0c0ab0a580250f46d88f29101574bbd1/.claude/settings.json"/>
-    <id>urn:github:takumi3488/reji-cleaner:.claude/settings.json:2bd7f5fb9597d2cd1be1b69253ad121586e567ba</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>kyldvs/dross: settings.json</title>
+    <link href="https://github.com/kyldvs/dross/blob/597e64c4b7f201ca6362a9e064a3fe34a7194cd2/.claude/settings.json"/>
+    <id>urn:github:kyldvs/dross:.claude/settings.json:280bd619d3e186e99e98fc12f4acb1e54feede68</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: takumi3488/reji-cleaner
-SHA: 2bd7f5fb9597d2cd1be1b69253ad121586e567ba</summary>
-    <category term="repository" label="takumi3488/reji-cleaner"/>
+Repository: kyldvs/dross
+SHA: 280bd619d3e186e99e98fc12f4acb1e54feede68</summary>
+    <category term="repository" label="kyldvs/dross"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>shawn-sandy/claude-css-refactor-tools-2: settings.json</title>
-    <link href="https://github.com/shawn-sandy/claude-css-refactor-tools-2/blob/2d417a07b6118f520bed1694ae2229b9a46992cf/.claude/settings.json"/>
-    <id>urn:github:shawn-sandy/claude-css-refactor-tools-2:.claude/settings.json:264e64b814cb9a32fb84d4f67671009127e965a1</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>tensiondriven/athena: settings.json</title>
+    <link href="https://github.com/tensiondriven/athena/blob/29716fd127240ac71f54a95f4b9b48fcd6163d44/.claude/settings.json"/>
+    <id>urn:github:tensiondriven/athena:.claude/settings.json:1a8a637d013d1c127e104ea0692c3585ad39f90d</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: shawn-sandy/claude-css-refactor-tools-2
-SHA: 264e64b814cb9a32fb84d4f67671009127e965a1</summary>
-    <category term="repository" label="shawn-sandy/claude-css-refactor-tools-2"/>
+Repository: tensiondriven/athena
+SHA: 1a8a637d013d1c127e104ea0692c3585ad39f90d</summary>
+    <category term="repository" label="tensiondriven/athena"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>Lucasdoreac/claudecodeludoc: settings.json</title>
-    <link href="https://github.com/Lucasdoreac/claudecodeludoc/blob/952e84751b05560b8439ba3ba3ec9883ae0ebeb5/.claude/settings.json"/>
-    <id>urn:github:Lucasdoreac/claudecodeludoc:.claude/settings.json:1f014f4e10fbc79fd0c2b0e66b3d345594f75256</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>cgbarlow/sasi: settings.json</title>
+    <link href="https://github.com/cgbarlow/sasi/blob/3ec4093ea306ad66aebc4af52eddc37e1431d846/.claude/settings.json"/>
+    <id>urn:github:cgbarlow/sasi:.claude/settings.json:9153e433be1a7faf1800306f93de2d3a330130ab</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: Lucasdoreac/claudecodeludoc
-SHA: 1f014f4e10fbc79fd0c2b0e66b3d345594f75256</summary>
-    <category term="repository" label="Lucasdoreac/claudecodeludoc"/>
+Repository: cgbarlow/sasi
+SHA: 9153e433be1a7faf1800306f93de2d3a330130ab</summary>
+    <category term="repository" label="cgbarlow/sasi"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>slamb2k/devsolo: settings.json</title>
-    <link href="https://github.com/slamb2k/devsolo/blob/9d8bdc98658299706e162ce790b476a432a02841/.claude/settings.json"/>
-    <id>urn:github:slamb2k/devsolo:.claude/settings.json:049df1f25401923dade1e652212dec6111aa83c1</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>scottbrown/dotfiles: settings.json</title>
+    <link href="https://github.com/scottbrown/dotfiles/blob/b504f148406b037dd376a7533c8dfff48760787b/claude/.claude/settings.json"/>
+    <id>urn:github:scottbrown/dotfiles:claude/.claude/settings.json:0515cb6d18eb4699383838386673da13fd0df29a</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
+    <summary>File: claude/.claude/settings.json
+Repository: scottbrown/dotfiles
+SHA: 0515cb6d18eb4699383838386673da13fd0df29a</summary>
+    <category term="repository" label="scottbrown/dotfiles"/>
+    <category term="path" label="claude/.claude/settings.json"/>
+  </entry>
+  <entry>
+    <title>v3ceban/.dotfiles: settings.json</title>
+    <link href="https://github.com/v3ceban/.dotfiles/blob/ed5985faded99abc16b23870956da5a5e69c0318/.claude/settings.json"/>
+    <id>urn:github:v3ceban/.dotfiles:.claude/settings.json:8f140d632aa344a1695709172d15a0a7b647faff</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: slamb2k/devsolo
-SHA: 049df1f25401923dade1e652212dec6111aa83c1</summary>
-    <category term="repository" label="slamb2k/devsolo"/>
+Repository: v3ceban/.dotfiles
+SHA: 8f140d632aa344a1695709172d15a0a7b647faff</summary>
+    <category term="repository" label="v3ceban/.dotfiles"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>azure-architect/crawl4ai-mcp-server: settings.json</title>
-    <link href="https://github.com/azure-architect/crawl4ai-mcp-server/blob/c28e615331a6a964146dd51b4b68a83885cbe923/.claude/settings.json"/>
-    <id>urn:github:azure-architect/crawl4ai-mcp-server:.claude/settings.json:01a5411dc38d23ff1ba700a12bcd7b2d16b0805b</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>ClaytonHunt/Teaching-Code: settings.json</title>
+    <link href="https://github.com/ClaytonHunt/Teaching-Code/blob/90e1eac7055ca083418ce535e3202249202497ae/.claude/settings.json"/>
+    <id>urn:github:ClaytonHunt/Teaching-Code:.claude/settings.json:5e27a1c78dedf9ea731452881d1cccb428322c55</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: azure-architect/crawl4ai-mcp-server
-SHA: 01a5411dc38d23ff1ba700a12bcd7b2d16b0805b</summary>
-    <category term="repository" label="azure-architect/crawl4ai-mcp-server"/>
+Repository: ClaytonHunt/Teaching-Code
+SHA: 5e27a1c78dedf9ea731452881d1cccb428322c55</summary>
+    <category term="repository" label="ClaytonHunt/Teaching-Code"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>promobase/openpromo: settings.json</title>
-    <link href="https://github.com/promobase/openpromo/blob/d78d9a3ff97646187eb55a209faf1993e5ffe803/.claude/settings.json"/>
-    <id>urn:github:promobase/openpromo:.claude/settings.json:735fa3c52b3048de6c95420745e05a5e23652893</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>engolder/task-manager: settings.json</title>
+    <link href="https://github.com/engolder/task-manager/blob/45f3b9c4eade23f66ae839b689ff00847150fc3b/.claude/settings.json"/>
+    <id>urn:github:engolder/task-manager:.claude/settings.json:2656355d17900ae119b373f93f30c9f93b2a89ce</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: promobase/openpromo
-SHA: 735fa3c52b3048de6c95420745e05a5e23652893</summary>
-    <category term="repository" label="promobase/openpromo"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>langadventurellc/task-trellis-mcp: settings.json</title>
-    <link href="https://github.com/langadventurellc/task-trellis-mcp/blob/09bf0ff2fed9b3abfb5e925454d3638a3794dbc4/.claude/settings.json"/>
-    <id>urn:github:langadventurellc/task-trellis-mcp:.claude/settings.json:0932a43465dc3e2861cd58590ccf9b6e32e914f1</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: langadventurellc/task-trellis-mcp
-SHA: 0932a43465dc3e2861cd58590ccf9b6e32e914f1</summary>
-    <category term="repository" label="langadventurellc/task-trellis-mcp"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>rei-m/android_hyakuninisshu: settings.json</title>
-    <link href="https://github.com/rei-m/android_hyakuninisshu/blob/2e040a811c536a67b707ef3e640a9a069050e38d/.claude/settings.json"/>
-    <id>urn:github:rei-m/android_hyakuninisshu:.claude/settings.json:8da300804199ef231a527ef5fbe06cdf8962d443</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: rei-m/android_hyakuninisshu
-SHA: 8da300804199ef231a527ef5fbe06cdf8962d443</summary>
-    <category term="repository" label="rei-m/android_hyakuninisshu"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>o2alexanderfedin/dynamic-agent-swarm: settings.json</title>
-    <link href="https://github.com/o2alexanderfedin/dynamic-agent-swarm/blob/62e77a00384d7bf15d64038850bea3ccf34e14e2/.claude/settings.json"/>
-    <id>urn:github:o2alexanderfedin/dynamic-agent-swarm:.claude/settings.json:2653861c7ee6349e30843ebd28701d490f851f46</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: o2alexanderfedin/dynamic-agent-swarm
-SHA: 2653861c7ee6349e30843ebd28701d490f851f46</summary>
-    <category term="repository" label="o2alexanderfedin/dynamic-agent-swarm"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>Quintennnn/Neptunus_framer: settings.json</title>
-    <link href="https://github.com/Quintennnn/Neptunus_framer/blob/cc593f698627f5b146fc5d046f539705c61e0905/.claude/settings.json"/>
-    <id>urn:github:Quintennnn/Neptunus_framer:.claude/settings.json:14425b80c86c5ef74db51acffb7f3ee59e18340a</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: Quintennnn/Neptunus_framer
-SHA: 14425b80c86c5ef74db51acffb7f3ee59e18340a</summary>
-    <category term="repository" label="Quintennnn/Neptunus_framer"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>yazinsai/n8n-workflow-generator: settings.json</title>
-    <link href="https://github.com/yazinsai/n8n-workflow-generator/blob/2f317af77e483c258bb97564874c31d8c2c7b324/.claude/settings.json"/>
-    <id>urn:github:yazinsai/n8n-workflow-generator:.claude/settings.json:04e5770873d82559948abc01ef8309df758781f3</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: yazinsai/n8n-workflow-generator
-SHA: 04e5770873d82559948abc01ef8309df758781f3</summary>
-    <category term="repository" label="yazinsai/n8n-workflow-generator"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>kinectron/kinectron: settings.json</title>
-    <link href="https://github.com/kinectron/kinectron/blob/18dfb5600104389e93a68438d13b87d8ce3c4500/.claude/settings.json"/>
-    <id>urn:github:kinectron/kinectron:.claude/settings.json:92680dc0d6dcd5ab3b9cef2e4a9506440d2d5b66</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: kinectron/kinectron
-SHA: 92680dc0d6dcd5ab3b9cef2e4a9506440d2d5b66</summary>
-    <category term="repository" label="kinectron/kinectron"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>bartstc/vite-ts-react-template: settings.json</title>
-    <link href="https://github.com/bartstc/vite-ts-react-template/blob/eda10aedfaf05338dc33689e117a1d7402ff2303/.claude/settings.json"/>
-    <id>urn:github:bartstc/vite-ts-react-template:.claude/settings.json:07b3cf328e1086c1c8fd83ed71395a380889d543</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: bartstc/vite-ts-react-template
-SHA: 07b3cf328e1086c1c8fd83ed71395a380889d543</summary>
-    <category term="repository" label="bartstc/vite-ts-react-template"/>
+Repository: engolder/task-manager
+SHA: 2656355d17900ae119b373f93f30c9f93b2a89ce</summary>
+    <category term="repository" label="engolder/task-manager"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
     <title>vichannnnn/ccstart: settings.json.example</title>
     <link href="https://github.com/vichannnnn/ccstart/blob/d89f49c12a444d4151482ca5400ffd6b409c0fde/template/.claude/settings.json.example"/>
     <id>urn:github:vichannnnn/ccstart:template/.claude/settings.json.example:afec5a63803972cd6c751ffe07385151c38fbc61</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: template/.claude/settings.json.example
 Repository: vichannnnn/ccstart
 SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
@@ -1119,7 +1119,7 @@ SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
     <title>vichannnnn/HimaWebsite: settings.json</title>
     <link href="https://github.com/vichannnnn/HimaWebsite/blob/a13b82771e66401b8a8dbe07fb1d104c5f627ca7/.claude/settings.json"/>
     <id>urn:github:vichannnnn/HimaWebsite:.claude/settings.json:afec5a63803972cd6c751ffe07385151c38fbc61</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
 Repository: vichannnnn/HimaWebsite
 SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
@@ -1130,7 +1130,7 @@ SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
     <title>vichannnnn/HimaWebsite: settings.json.example</title>
     <link href="https://github.com/vichannnnn/HimaWebsite/blob/a13b82771e66401b8a8dbe07fb1d104c5f627ca7/.claude/settings.json.example"/>
     <id>urn:github:vichannnnn/HimaWebsite:.claude/settings.json.example:afec5a63803972cd6c751ffe07385151c38fbc61</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json.example
 Repository: vichannnnn/HimaWebsite
 SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
@@ -1138,43 +1138,21 @@ SHA: afec5a63803972cd6c751ffe07385151c38fbc61</summary>
     <category term="path" label=".claude/settings.json.example"/>
   </entry>
   <entry>
-    <title>jhousteau/solution-desk-engine: settings.json</title>
-    <link href="https://github.com/jhousteau/solution-desk-engine/blob/5798714dcfe76075a1f7a4863aabd5982842583a/.claude/settings.json"/>
-    <id>urn:github:jhousteau/solution-desk-engine:.claude/settings.json:9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>mt114ran/mt114ran.github.io: settings.json</title>
+    <link href="https://github.com/mt114ran/mt114ran.github.io/blob/2463965b72df3367017794f648150017f8f07612/.claude/settings.json"/>
+    <id>urn:github:mt114ran/mt114ran.github.io:.claude/settings.json:b2608afbef8d6fae51c636d1843b715cbe4a89d2</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: jhousteau/solution-desk-engine
-SHA: 9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</summary>
-    <category term="repository" label="jhousteau/solution-desk-engine"/>
-    <category term="path" label=".claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>ClaytonHunt/claude-agent-manager: settings.json</title>
-    <link href="https://github.com/ClaytonHunt/claude-agent-manager/blob/812c8b3743894f7e4ca8e0071ea3ba193be89424/packages/agentic-base/.claude/settings.json"/>
-    <id>urn:github:ClaytonHunt/claude-agent-manager:packages/agentic-base/.claude/settings.json:1079a4858d4eb00cf2eb81966399b7f9309d62db</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: packages/agentic-base/.claude/settings.json
-Repository: ClaytonHunt/claude-agent-manager
-SHA: 1079a4858d4eb00cf2eb81966399b7f9309d62db</summary>
-    <category term="repository" label="ClaytonHunt/claude-agent-manager"/>
-    <category term="path" label="packages/agentic-base/.claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>TomasWolaschka/ai-rules: settings.json</title>
-    <link href="https://github.com/TomasWolaschka/ai-rules/blob/844c9b48da17fbab0298f9c62d5f8a442ebef204/.claude/settings.json"/>
-    <id>urn:github:TomasWolaschka/ai-rules:.claude/settings.json:ebf22f7e8b7fbfc29cb1527b6a8103df5492bc6e</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: .claude/settings.json
-Repository: TomasWolaschka/ai-rules
-SHA: ebf22f7e8b7fbfc29cb1527b6a8103df5492bc6e</summary>
-    <category term="repository" label="TomasWolaschka/ai-rules"/>
+Repository: mt114ran/mt114ran.github.io
+SHA: b2608afbef8d6fae51c636d1843b715cbe4a89d2</summary>
+    <category term="repository" label="mt114ran/mt114ran.github.io"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
     <title>pc-style/tui: settings.json.backup</title>
     <link href="https://github.com/pc-style/tui/blob/d75365e1a42ede561da577cb3aee638ea837b37d/.claude/settings.json.backup"/>
     <id>urn:github:pc-style/tui:.claude/settings.json.backup:94abcb2cd3263f3b1193e09c2d872892022aa90c</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json.backup
 Repository: pc-style/tui
 SHA: 94abcb2cd3263f3b1193e09c2d872892022aa90c</summary>
@@ -1182,80 +1160,69 @@ SHA: 94abcb2cd3263f3b1193e09c2d872892022aa90c</summary>
     <category term="path" label=".claude/settings.json.backup"/>
   </entry>
   <entry>
-    <title>t-naganuma/kakeibo-api: settings.json</title>
-    <link href="https://github.com/t-naganuma/kakeibo-api/blob/e384acf2f778a4eae921cb9ee99485886bea035c/.claude/settings.json"/>
-    <id>urn:github:t-naganuma/kakeibo-api:.claude/settings.json:7a8139405fe2a7faf4f22a800ac2689664675883</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>jhousteau/solution-desk-engine: settings.json</title>
+    <link href="https://github.com/jhousteau/solution-desk-engine/blob/5798714dcfe76075a1f7a4863aabd5982842583a/.claude/settings.json"/>
+    <id>urn:github:jhousteau/solution-desk-engine:.claude/settings.json:9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: t-naganuma/kakeibo-api
-SHA: 7a8139405fe2a7faf4f22a800ac2689664675883</summary>
-    <category term="repository" label="t-naganuma/kakeibo-api"/>
+Repository: jhousteau/solution-desk-engine
+SHA: 9647aaa0ce8bdf46f5577d1ea1eaff65c8b130b5</summary>
+    <category term="repository" label="jhousteau/solution-desk-engine"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>CaptainCrouton89/mystica-express: settings.json</title>
-    <link href="https://github.com/CaptainCrouton89/mystica-express/blob/311c1cb81a365f29af5954385b8b363fd57837f9/.claude/settings.json"/>
-    <id>urn:github:CaptainCrouton89/mystica-express:.claude/settings.json:4fc466c3ededb00096acc8e58286fed8135d4f83</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>vibecoding1/project-43-swift-nova: settings.json</title>
+    <link href="https://github.com/vibecoding1/project-43-swift-nova/blob/4500c12221cc51c482c7fc15cf7f7198bf281cf7/.claude/settings.json"/>
+    <id>urn:github:vibecoding1/project-43-swift-nova:.claude/settings.json:245a91ad70b58f16e030bccd5dfdafcec5b05f46</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: CaptainCrouton89/mystica-express
-SHA: 4fc466c3ededb00096acc8e58286fed8135d4f83</summary>
-    <category term="repository" label="CaptainCrouton89/mystica-express"/>
+Repository: vibecoding1/project-43-swift-nova
+SHA: 245a91ad70b58f16e030bccd5dfdafcec5b05f46</summary>
+    <category term="repository" label="vibecoding1/project-43-swift-nova"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>CaptainCrouton89/new-mystica: settings.json</title>
-    <link href="https://github.com/CaptainCrouton89/new-mystica/blob/b99bfdb1bfcded9257e094f3ac32cd8718a4c96d/mystica-express/.claude/settings.json"/>
-    <id>urn:github:CaptainCrouton89/new-mystica:mystica-express/.claude/settings.json:4fc466c3ededb00096acc8e58286fed8135d4f83</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
-    <summary>File: mystica-express/.claude/settings.json
-Repository: CaptainCrouton89/new-mystica
-SHA: 4fc466c3ededb00096acc8e58286fed8135d4f83</summary>
-    <category term="repository" label="CaptainCrouton89/new-mystica"/>
-    <category term="path" label="mystica-express/.claude/settings.json"/>
-  </entry>
-  <entry>
-    <title>takumi3488/playwright-grpc: settings.json</title>
-    <link href="https://github.com/takumi3488/playwright-grpc/blob/0af8eb4a03a84fa9569ab25ee881923402583613/.claude/settings.json"/>
-    <id>urn:github:takumi3488/playwright-grpc:.claude/settings.json:2bd7f5fb9597d2cd1be1b69253ad121586e567ba</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>iaminawe/Mercury-Shopify: settings.json</title>
+    <link href="https://github.com/iaminawe/Mercury-Shopify/blob/eeb93487fa1fa45a35304e5e3cdad66a0bc94e80/.claude/settings.json"/>
+    <id>urn:github:iaminawe/Mercury-Shopify:.claude/settings.json:9153e433be1a7faf1800306f93de2d3a330130ab</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: takumi3488/playwright-grpc
-SHA: 2bd7f5fb9597d2cd1be1b69253ad121586e567ba</summary>
-    <category term="repository" label="takumi3488/playwright-grpc"/>
+Repository: iaminawe/Mercury-Shopify
+SHA: 9153e433be1a7faf1800306f93de2d3a330130ab</summary>
+    <category term="repository" label="iaminawe/Mercury-Shopify"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>takumi3488/ccusage-multi-devices: settings.json</title>
-    <link href="https://github.com/takumi3488/ccusage-multi-devices/blob/652ead6992da7d105b03a411e76e6b060b5b1102/.claude/settings.json"/>
-    <id>urn:github:takumi3488/ccusage-multi-devices:.claude/settings.json:2bd7f5fb9597d2cd1be1b69253ad121586e567ba</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>pnocera/PiCode: settings.json</title>
+    <link href="https://github.com/pnocera/PiCode/blob/3c5178b4fb7143bc0e4fa2d9abddc618cf3e6190/.claude/settings.json"/>
+    <id>urn:github:pnocera/PiCode:.claude/settings.json:9153e433be1a7faf1800306f93de2d3a330130ab</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: takumi3488/ccusage-multi-devices
-SHA: 2bd7f5fb9597d2cd1be1b69253ad121586e567ba</summary>
-    <category term="repository" label="takumi3488/ccusage-multi-devices"/>
+Repository: pnocera/PiCode
+SHA: 9153e433be1a7faf1800306f93de2d3a330130ab</summary>
+    <category term="repository" label="pnocera/PiCode"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>langadventurellc/burnside: settings.json</title>
-    <link href="https://github.com/langadventurellc/burnside/blob/91a01c2d3c2df3cdb40b7afe9f2ba780665501ab/.claude/settings.json"/>
-    <id>urn:github:langadventurellc/burnside:.claude/settings.json:0932a43465dc3e2861cd58590ccf9b6e32e914f1</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>raihaan123/wisal: settings.json</title>
+    <link href="https://github.com/raihaan123/wisal/blob/ac80bc12f286255112763c25acf4877ac54eb2f4/.claude/settings.json"/>
+    <id>urn:github:raihaan123/wisal:.claude/settings.json:9153e433be1a7faf1800306f93de2d3a330130ab</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: langadventurellc/burnside
-SHA: 0932a43465dc3e2861cd58590ccf9b6e32e914f1</summary>
-    <category term="repository" label="langadventurellc/burnside"/>
+Repository: raihaan123/wisal
+SHA: 9153e433be1a7faf1800306f93de2d3a330130ab</summary>
+    <category term="repository" label="raihaan123/wisal"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
   <entry>
-    <title>andrewteece/sb9-showcase: settings.json</title>
-    <link href="https://github.com/andrewteece/sb9-showcase/blob/d2eea96fadf5464d7ecd5f6e38932eb92dc9c8b9/.claude/settings.json"/>
-    <id>urn:github:andrewteece/sb9-showcase:.claude/settings.json:07b3cf328e1086c1c8fd83ed71395a380889d543</id>
-    <updated>2025-11-05T15:19:33.949043+00:00</updated>
+    <title>diegofornalha/gerir-rag-claude: settings.json</title>
+    <link href="https://github.com/diegofornalha/gerir-rag-claude/blob/7eea5fe370e5d33a11968b8f6b790b1490d050e6/.claude/settings.json"/>
+    <id>urn:github:diegofornalha/gerir-rag-claude:.claude/settings.json:9153e433be1a7faf1800306f93de2d3a330130ab</id>
+    <updated>2025-11-06T15:19:45.073768+00:00</updated>
     <summary>File: .claude/settings.json
-Repository: andrewteece/sb9-showcase
-SHA: 07b3cf328e1086c1c8fd83ed71395a380889d543</summary>
-    <category term="repository" label="andrewteece/sb9-showcase"/>
+Repository: diegofornalha/gerir-rag-claude
+SHA: 9153e433be1a7faf1800306f93de2d3a330130ab</summary>
+    <category term="repository" label="diegofornalha/gerir-rag-claude"/>
     <category term="path" label=".claude/settings.json"/>
   </entry>
 </feed>
