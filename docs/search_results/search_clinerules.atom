@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Code Search Results for: .clinerules+in:path</title>
   <link href="https://github.com/search?q=.clinerules%2Bin%3Apath&amp;type=code" rel="alternate"/>
-  <updated>2025-11-05T15:08:38.841428+00:00</updated>
+  <updated>2025-11-06T15:08:23.397549+00:00</updated>
   <id>urn:github-search:.clinerules%2Bin%3Apath</id>
   <entry>
     <title>mtlynch/picoshare: style.md</title>
     <link href="https://github.com/mtlynch/picoshare/blob/fa9eb2a3126e38bbc15839795e602d3de91c1507/.clinerules/style.md"/>
     <id>urn:github:mtlynch/picoshare:.clinerules/style.md:34237051e2f70ce80ffd11d7e4153ef10e36313d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/style.md
 Repository: mtlynch/picoshare
 SHA: 34237051e2f70ce80ffd11d7e4153ef10e36313d</summary>
@@ -19,7 +19,7 @@ SHA: 34237051e2f70ce80ffd11d7e4153ef10e36313d</summary>
     <title>sammcj/gollama: .clinerules</title>
     <link href="https://github.com/sammcj/gollama/blob/1358225cd992713d72bce9237c4d4b30096b3ac3/.clinerules"/>
     <id>urn:github:sammcj/gollama:.clinerules:0d84458718c759d6a81b77a0efbafd6d47508fdb</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: sammcj/gollama
 SHA: 0d84458718c759d6a81b77a0efbafd6d47508fdb</summary>
@@ -28,9 +28,9 @@ SHA: 0d84458718c759d6a81b77a0efbafd6d47508fdb</summary>
   </entry>
   <entry>
     <title>No-Trade-No-Life/Yuan: sql.md</title>
-    <link href="https://github.com/No-Trade-No-Life/Yuan/blob/f75735258d0fdbfaffdb4eb0ad6835a01dce6dfa/.clinerules/sql.md"/>
+    <link href="https://github.com/No-Trade-No-Life/Yuan/blob/7fd9601d2bbcd6252f8c57e025adb4a664588f64/.clinerules/sql.md"/>
     <id>urn:github:No-Trade-No-Life/Yuan:.clinerules/sql.md:93cf8e0a2fc34b87a92eb947d25d83adde06a50b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/sql.md
 Repository: No-Trade-No-Life/Yuan
 SHA: 93cf8e0a2fc34b87a92eb947d25d83adde06a50b</summary>
@@ -41,7 +41,7 @@ SHA: 93cf8e0a2fc34b87a92eb947d25d83adde06a50b</summary>
     <title>mumu-lhl/Ciyue: vibesync.md</title>
     <link href="https://github.com/mumu-lhl/Ciyue/blob/724e767e44d0ed93920dfc9401ec4401e368400e/.clinerules/vibesync.md"/>
     <id>urn:github:mumu-lhl/Ciyue:.clinerules/vibesync.md:bc78b24c458bd6263952e5bba0d00655139aec43</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/vibesync.md
 Repository: mumu-lhl/Ciyue
 SHA: bc78b24c458bd6263952e5bba0d00655139aec43</summary>
@@ -52,7 +52,7 @@ SHA: bc78b24c458bd6263952e5bba0d00655139aec43</summary>
     <title>cyanheads/git-mcp-server: clinerules.md</title>
     <link href="https://github.com/cyanheads/git-mcp-server/blob/ac238b25dd579f973f19eb26f8ba8b20b5360766/.clinerules/clinerules.md"/>
     <id>urn:github:cyanheads/git-mcp-server:.clinerules/clinerules.md:6744e82a63b234db11fc7a28f0ccb5c38cee0741</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/clinerules.md
 Repository: cyanheads/git-mcp-server
 SHA: 6744e82a63b234db11fc7a28f0ccb5c38cee0741</summary>
@@ -63,7 +63,7 @@ SHA: 6744e82a63b234db11fc7a28f0ccb5c38cee0741</summary>
     <title>micronaut-projects/micronaut-maven-plugin: coding.md</title>
     <link href="https://github.com/micronaut-projects/micronaut-maven-plugin/blob/9bf7f1216c4567ae81b4fe8c75dd56c6936072fb/.clinerules/coding.md"/>
     <id>urn:github:micronaut-projects/micronaut-maven-plugin:.clinerules/coding.md:57bedb9c3bf18668d237f06a7787d6a325f3beb4</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/coding.md
 Repository: micronaut-projects/micronaut-maven-plugin
 SHA: 57bedb9c3bf18668d237f06a7787d6a325f3beb4</summary>
@@ -74,7 +74,7 @@ SHA: 57bedb9c3bf18668d237f06a7787d6a325f3beb4</summary>
     <title>concrnt/concrnt: .clinerules.md</title>
     <link href="https://github.com/concrnt/concrnt/blob/0dd042838340fb06d148f9388490ee8b92a98f4d/.clinerules.md"/>
     <id>urn:github:concrnt/concrnt:.clinerules.md:e30c4a3aea69fbf181d1269c3bb4fbdb22e79cde</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules.md
 Repository: concrnt/concrnt
 SHA: e30c4a3aea69fbf181d1269c3bb4fbdb22e79cde</summary>
@@ -85,7 +85,7 @@ SHA: e30c4a3aea69fbf181d1269c3bb4fbdb22e79cde</summary>
     <title>aws-samples/review-and-assessment-powered-by-intelligent-documentation: cdk.md</title>
     <link href="https://github.com/aws-samples/review-and-assessment-powered-by-intelligent-documentation/blob/e5a0dff7fd641dd099154fc693ff09c43baaafb1/.clinerules/cdk.md"/>
     <id>urn:github:aws-samples/review-and-assessment-powered-by-intelligent-documentation:.clinerules/cdk.md:b1638e1e6e8faf4093dcceb3862149f6abc9fe33</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/cdk.md
 Repository: aws-samples/review-and-assessment-powered-by-intelligent-documentation
 SHA: b1638e1e6e8faf4093dcceb3862149f6abc9fe33</summary>
@@ -96,7 +96,7 @@ SHA: b1638e1e6e8faf4093dcceb3862149f6abc9fe33</summary>
     <title>oke-py/npm-audit-action: rules.md</title>
     <link href="https://github.com/oke-py/npm-audit-action/blob/af618bdf10c8bc2ae07f3edd1553dd29948fc2af/.clinerules/rules.md"/>
     <id>urn:github:oke-py/npm-audit-action:.clinerules/rules.md:20090addeb105ec56542a2c070ade0135f683a43</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rules.md
 Repository: oke-py/npm-audit-action
 SHA: 20090addeb105ec56542a2c070ade0135f683a43</summary>
@@ -107,7 +107,7 @@ SHA: 20090addeb105ec56542a2c070ade0135f683a43</summary>
     <title>uhyo/better-typescript-lib: .clinerules</title>
     <link href="https://github.com/uhyo/better-typescript-lib/blob/696eb149c87f29ad20ab81866b233e45edeeb041/.clinerules"/>
     <id>urn:github:uhyo/better-typescript-lib:.clinerules:2916b8de74510213751c698ea97a4da1d9b98d01</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: uhyo/better-typescript-lib
 SHA: 2916b8de74510213751c698ea97a4da1d9b98d01</summary>
@@ -118,7 +118,7 @@ SHA: 2916b8de74510213751c698ea97a4da1d9b98d01</summary>
     <title>codeflow-studio/claude-code-chat: tdd.md</title>
     <link href="https://github.com/codeflow-studio/claude-code-chat/blob/08ed8ca63a13621d033f434edae56eefc83567ab/.clinerules/tdd.md"/>
     <id>urn:github:codeflow-studio/claude-code-chat:.clinerules/tdd.md:502bdc82e451cacd671550dc092ff39b7fd6b04a</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/tdd.md
 Repository: codeflow-studio/claude-code-chat
 SHA: 502bdc82e451cacd671550dc092ff39b7fd6b04a</summary>
@@ -129,7 +129,7 @@ SHA: 502bdc82e451cacd671550dc092ff39b7fd6b04a</summary>
     <title>dracory/cmsstore: .clinerules-ask</title>
     <link href="https://github.com/dracory/cmsstore/blob/a9468b25eb429c72c352a4c077991258b3b9ee08/.clinerules-ask"/>
     <id>urn:github:dracory/cmsstore:.clinerules-ask:471dcb37ee91a5d06d4d46b2294f8de6a1f42106</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules-ask
 Repository: dracory/cmsstore
 SHA: 471dcb37ee91a5d06d4d46b2294f8de6a1f42106</summary>
@@ -140,7 +140,7 @@ SHA: 471dcb37ee91a5d06d4d46b2294f8de6a1f42106</summary>
     <title>fxcl/.dotfiles: human.clinerules</title>
     <link href="https://github.com/fxcl/.dotfiles/blob/903e19a6dfa521b760f1e9579b721fb36706506c/clinerules/human.clinerules"/>
     <id>urn:github:fxcl/.dotfiles:clinerules/human.clinerules:c7a773a7b5b6bf8b61ca3ee0c784693d145c7c63</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: clinerules/human.clinerules
 Repository: fxcl/.dotfiles
 SHA: c7a773a7b5b6bf8b61ca3ee0c784693d145c7c63</summary>
@@ -151,7 +151,7 @@ SHA: c7a773a7b5b6bf8b61ca3ee0c784693d145c7c63</summary>
     <title>microhum/Pocketflow_Research_Agent: uv.txt</title>
     <link href="https://github.com/microhum/Pocketflow_Research_Agent/blob/fa23f80a48f3479284fb8760855b90429561f0df/.clinerules/uv.txt"/>
     <id>urn:github:microhum/Pocketflow_Research_Agent:.clinerules/uv.txt:b46e97ea5d25a0e70c05bb4657409bb4e48dffc3</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/uv.txt
 Repository: microhum/Pocketflow_Research_Agent
 SHA: b46e97ea5d25a0e70c05bb4657409bb4e48dffc3</summary>
@@ -162,7 +162,7 @@ SHA: b46e97ea5d25a0e70c05bb4657409bb4e48dffc3</summary>
     <title>fabb/WigAI: 09-qa.md</title>
     <link href="https://github.com/fabb/WigAI/blob/3257236b82bd84c916ebff2f184e8f162f39a6d2/.clinerules/09-qa.md"/>
     <id>urn:github:fabb/WigAI:.clinerules/09-qa.md:e7748143fc43b777537213d37c5d3a5dc9d5a728</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/09-qa.md
 Repository: fabb/WigAI
 SHA: e7748143fc43b777537213d37c5d3a5dc9d5a728</summary>
@@ -173,7 +173,7 @@ SHA: e7748143fc43b777537213d37c5d3a5dc9d5a728</summary>
     <title>zhivko/ai-trading-bot-2: .clinerules.txt</title>
     <link href="https://github.com/zhivko/ai-trading-bot-2/blob/7c3c405fc09f4c4186ab417b8e3e8653bb1b59eb/.clinerules.txt"/>
     <id>urn:github:zhivko/ai-trading-bot-2:.clinerules.txt:bec222e76cae5d443b1a8b875b9f365a0264926b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules.txt
 Repository: zhivko/ai-trading-bot-2
 SHA: bec222e76cae5d443b1a8b875b9f365a0264926b</summary>
@@ -184,7 +184,7 @@ SHA: bec222e76cae5d443b1a8b875b9f365a0264926b</summary>
     <title>vladimir-kharin/llm_1c_benckmark: 1csyntax.md</title>
     <link href="https://github.com/vladimir-kharin/llm_1c_benckmark/blob/6a2f54594f4ec6a6d094ef18356e26a69798672b/.clinerules/1csyntax.md"/>
     <id>urn:github:vladimir-kharin/llm_1c_benckmark:.clinerules/1csyntax.md:bb07c20f04550f31fd8826ae86f4e32b1ec3b713</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/1csyntax.md
 Repository: vladimir-kharin/llm_1c_benckmark
 SHA: bb07c20f04550f31fd8826ae86f4e32b1ec3b713</summary>
@@ -195,7 +195,7 @@ SHA: bb07c20f04550f31fd8826ae86f4e32b1ec3b713</summary>
     <title>cap-js/ord: memory-bank.md</title>
     <link href="https://github.com/cap-js/ord/blob/c3f64f3b16b54d93c76cc982b55ccc6783cf249d/.clinerules/memory-bank.md"/>
     <id>urn:github:cap-js/ord:.clinerules/memory-bank.md:1c396acb27cc41de6e071464ef2caab26b167fad</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/memory-bank.md
 Repository: cap-js/ord
 SHA: 1c396acb27cc41de6e071464ef2caab26b167fad</summary>
@@ -206,7 +206,7 @@ SHA: 1c396acb27cc41de6e071464ef2caab26b167fad</summary>
     <title>Darkin72/test-event: rules.txt</title>
     <link href="https://github.com/Darkin72/test-event/blob/95c1b96bf58b4a29ed5510145609ebc060db681e/.clinerules/rules.txt"/>
     <id>urn:github:Darkin72/test-event:.clinerules/rules.txt:5610b231746c22547a0fc4dcbed7a7c18095e2e7</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rules.txt
 Repository: Darkin72/test-event
 SHA: 5610b231746c22547a0fc4dcbed7a7c18095e2e7</summary>
@@ -217,7 +217,7 @@ SHA: 5610b231746c22547a0fc4dcbed7a7c18095e2e7</summary>
     <title>explicitcontextualunderstanding/vscodecontext: .clinerules-ask.md</title>
     <link href="https://github.com/explicitcontextualunderstanding/vscodecontext/blob/1f31060abe3419b10690a81c8a7c691a9c4ac25a/.clinerules-ask.md"/>
     <id>urn:github:explicitcontextualunderstanding/vscodecontext:.clinerules-ask.md:ab2cdf13173200b12146cc47ca244f2356212aac</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules-ask.md
 Repository: explicitcontextualunderstanding/vscodecontext
 SHA: ab2cdf13173200b12146cc47ca244f2356212aac</summary>
@@ -228,7 +228,7 @@ SHA: ab2cdf13173200b12146cc47ca244f2356212aac</summary>
     <title>davethackeray/inner-light-studio: .clinerules-code</title>
     <link href="https://github.com/davethackeray/inner-light-studio/blob/1a068d2e397d971d2a4bc9fd17c3adb930dffad6/.clinerules-code"/>
     <id>urn:github:davethackeray/inner-light-studio:.clinerules-code:3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules-code
 Repository: davethackeray/inner-light-studio
 SHA: 3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</summary>
@@ -239,7 +239,7 @@ SHA: 3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</summary>
     <title>jwynia/the-archived-city: .clineRules</title>
     <link href="https://github.com/jwynia/the-archived-city/blob/3b392d28985817bbeece750351cb2aea8c6d0809/.clineRules"/>
     <id>urn:github:jwynia/the-archived-city:.clineRules:55a2d267f13968d667831e795871697d6fd1c9a4</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clineRules
 Repository: jwynia/the-archived-city
 SHA: 55a2d267f13968d667831e795871697d6fd1c9a4</summary>
@@ -250,7 +250,7 @@ SHA: 55a2d267f13968d667831e795871697d6fd1c9a4</summary>
     <title>alt-dima/tofugu: tofugu.md</title>
     <link href="https://github.com/alt-dima/tofugu/blob/d8c4ce420035553a19ba44d6b30dd0ed8f5701d4/.clinerules/tofugu.md"/>
     <id>urn:github:alt-dima/tofugu:.clinerules/tofugu.md:6f4574b3492c03b06d54520fc1964a131d0cc7f9</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/tofugu.md
 Repository: alt-dima/tofugu
 SHA: 6f4574b3492c03b06d54520fc1964a131d0cc7f9</summary>
@@ -261,7 +261,7 @@ SHA: 6f4574b3492c03b06d54520fc1964a131d0cc7f9</summary>
     <title>yhayase/skk-vscode: main.md</title>
     <link href="https://github.com/yhayase/skk-vscode/blob/bf4f2f48edeee13f7e264e5b472a642a366da56a/.clinerules/main.md"/>
     <id>urn:github:yhayase/skk-vscode:.clinerules/main.md:29bfe44016a635d1c6c23c8df6a58f53ed66972f</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/main.md
 Repository: yhayase/skk-vscode
 SHA: 29bfe44016a635d1c6c23c8df6a58f53ed66972f</summary>
@@ -272,7 +272,7 @@ SHA: 29bfe44016a635d1c6c23c8df6a58f53ed66972f</summary>
     <title>chen-ziwen/chiko-admin: react.md</title>
     <link href="https://github.com/chen-ziwen/chiko-admin/blob/b27d8a3bd1dadfe1494f445fe753857e7a5b8af7/.clinerules/react.md"/>
     <id>urn:github:chen-ziwen/chiko-admin:.clinerules/react.md:afc8995bf11547cf61fb4e6cd452c41e121ff6e5</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/react.md
 Repository: chen-ziwen/chiko-admin
 SHA: afc8995bf11547cf61fb4e6cd452c41e121ff6e5</summary>
@@ -283,7 +283,7 @@ SHA: afc8995bf11547cf61fb4e6cd452c41e121ff6e5</summary>
     <title>MyWebIntelligence/MyDocClient: agent.md</title>
     <link href="https://github.com/MyWebIntelligence/MyDocClient/blob/d3f657bf76632afab7a2321e4a9ff039a29d29cf/.clinerules/agent.md"/>
     <id>urn:github:MyWebIntelligence/MyDocClient:.clinerules/agent.md:09aa665b134e962dd1c49ee0825cc396e2b7da28</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/agent.md
 Repository: MyWebIntelligence/MyDocClient
 SHA: 09aa665b134e962dd1c49ee0825cc396e2b7da28</summary>
@@ -294,7 +294,7 @@ SHA: 09aa665b134e962dd1c49ee0825cc396e2b7da28</summary>
     <title>mtlynch/mtlynch.io: hugo.md</title>
     <link href="https://github.com/mtlynch/mtlynch.io/blob/958383ece4c6aef7ba0f644b04024fa7a2dbf233/.clinerules/hugo.md"/>
     <id>urn:github:mtlynch/mtlynch.io:.clinerules/hugo.md:b6bedcfaebbb347422b7013e3076528590a02856</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/hugo.md
 Repository: mtlynch/mtlynch.io
 SHA: b6bedcfaebbb347422b7013e3076528590a02856</summary>
@@ -305,7 +305,7 @@ SHA: b6bedcfaebbb347422b7013e3076528590a02856</summary>
     <title>martinezhermes/arc-event-loop: arc-event-loop</title>
     <link href="https://github.com/martinezhermes/arc-event-loop/blob/36199354a0027457dd86dadf79e1372e9f0d9543/.clinerules/arc-event-loop"/>
     <id>urn:github:martinezhermes/arc-event-loop:.clinerules/arc-event-loop:fe243508ad4f14235a25aabaad931de06f22b631</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/arc-event-loop
 Repository: martinezhermes/arc-event-loop
 SHA: fe243508ad4f14235a25aabaad931de06f22b631</summary>
@@ -316,7 +316,7 @@ SHA: fe243508ad4f14235a25aabaad931de06f22b631</summary>
     <title>louisbrulenaudet/bodyboard: instructions.md</title>
     <link href="https://github.com/louisbrulenaudet/bodyboard/blob/c6002b7da1380adc0d97206026c694e5b0a902d2/.clinerules/instructions.md"/>
     <id>urn:github:louisbrulenaudet/bodyboard:.clinerules/instructions.md:f72fa24ba76e3b6a09cdfad384a5f23becd06e48</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/instructions.md
 Repository: louisbrulenaudet/bodyboard
 SHA: f72fa24ba76e3b6a09cdfad384a5f23becd06e48</summary>
@@ -327,7 +327,7 @@ SHA: f72fa24ba76e3b6a09cdfad384a5f23becd06e48</summary>
     <title>thisismygitrepo/crocodile: python_dev.md</title>
     <link href="https://github.com/thisismygitrepo/crocodile/blob/2f61f2330cae002d9cf7ccdda34d39003c709513/.clinerules/python_dev.md"/>
     <id>urn:github:thisismygitrepo/crocodile:.clinerules/python_dev.md:a0ad94a4afa56f7ed68f2620d12147a22620bf5e</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/python_dev.md
 Repository: thisismygitrepo/crocodile
 SHA: a0ad94a4afa56f7ed68f2620d12147a22620bf5e</summary>
@@ -338,7 +338,7 @@ SHA: a0ad94a4afa56f7ed68f2620d12147a22620bf5e</summary>
     <title>camshaft/cargo-mcp: rust.md</title>
     <link href="https://github.com/camshaft/cargo-mcp/blob/d5b2b8e6716e9e5620b48492855dd8afdabba4bb/.clinerules/rust.md"/>
     <id>urn:github:camshaft/cargo-mcp:.clinerules/rust.md:ced991242c00893105e057b568e158fd9a041ecd</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rust.md
 Repository: camshaft/cargo-mcp
 SHA: ced991242c00893105e057b568e158fd9a041ecd</summary>
@@ -349,7 +349,7 @@ SHA: ced991242c00893105e057b568e158fd9a041ecd</summary>
     <title>camshaft/cargo-mcp: duvet.md</title>
     <link href="https://github.com/camshaft/cargo-mcp/blob/d5b2b8e6716e9e5620b48492855dd8afdabba4bb/.clinerules/duvet.md"/>
     <id>urn:github:camshaft/cargo-mcp:.clinerules/duvet.md:bedce4ec28e658527a64fa962c683face8545b37</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/duvet.md
 Repository: camshaft/cargo-mcp
 SHA: bedce4ec28e658527a64fa962c683face8545b37</summary>
@@ -360,7 +360,7 @@ SHA: bedce4ec28e658527a64fa962c683face8545b37</summary>
     <title>TeacherEvan/English-K1Run: Guide.md</title>
     <link href="https://github.com/TeacherEvan/English-K1Run/blob/487d91fb2e150f248c8dc98a636c8d7ec008f45f/.clinerules/Guide.md"/>
     <id>urn:github:TeacherEvan/English-K1Run:.clinerules/Guide.md:d3d86315e55b7dfbbaa533c464e3faba79b4d73e</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/Guide.md
 Repository: TeacherEvan/English-K1Run
 SHA: d3d86315e55b7dfbbaa533c464e3faba79b4d73e</summary>
@@ -371,7 +371,7 @@ SHA: d3d86315e55b7dfbbaa533c464e3faba79b4d73e</summary>
     <title>hruth/pyxalign: global.md</title>
     <link href="https://github.com/hruth/pyxalign/blob/221355f71571d102b69cf14854f54cc8437dc4ee/.clinerules/global.md"/>
     <id>urn:github:hruth/pyxalign:.clinerules/global.md:06b0f8e8ca846931d101d71f603b60e68fbf91ce</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/global.md
 Repository: hruth/pyxalign
 SHA: 06b0f8e8ca846931d101d71f603b60e68fbf91ce</summary>
@@ -382,7 +382,7 @@ SHA: 06b0f8e8ca846931d101d71f603b60e68fbf91ce</summary>
     <title>repulsivityy/elevate_2025: readme.md</title>
     <link href="https://github.com/repulsivityy/elevate_2025/blob/4f1b33b1f66107db08fedf5f079fb3cabacaf693/.clinerules/readme.md"/>
     <id>urn:github:repulsivityy/elevate_2025:.clinerules/readme.md:1f3886cee0e147e19b24ad45e49bbf7fdee6fede</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/readme.md
 Repository: repulsivityy/elevate_2025
 SHA: 1f3886cee0e147e19b24ad45e49bbf7fdee6fede</summary>
@@ -393,7 +393,7 @@ SHA: 1f3886cee0e147e19b24ad45e49bbf7fdee6fede</summary>
     <title>jphacks/tk_b_2509: AGENTS.md</title>
     <link href="https://github.com/jphacks/tk_b_2509/blob/8a76fff9a74cc4090e2dbcffb790180625ca4b4f/.clinerules/AGENTS.md"/>
     <id>urn:github:jphacks/tk_b_2509:.clinerules/AGENTS.md:1aa0b47d9087af6252bbb56d41da73b8369f2716</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/AGENTS.md
 Repository: jphacks/tk_b_2509
 SHA: 1aa0b47d9087af6252bbb56d41da73b8369f2716</summary>
@@ -404,7 +404,7 @@ SHA: 1aa0b47d9087af6252bbb56d41da73b8369f2716</summary>
     <title>dreemrworld/dev-goat-africa: UI.md</title>
     <link href="https://github.com/dreemrworld/dev-goat-africa/blob/592f5b13f90945274ef9d8f7466e8a40e5f560f5/.clinerules/UI.md"/>
     <id>urn:github:dreemrworld/dev-goat-africa:.clinerules/UI.md:47a2b44d45d77abdfda456618f8554aac161e2ea</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/UI.md
 Repository: dreemrworld/dev-goat-africa
 SHA: 47a2b44d45d77abdfda456618f8554aac161e2ea</summary>
@@ -415,7 +415,7 @@ SHA: 47a2b44d45d77abdfda456618f8554aac161e2ea</summary>
     <title>KaboomFox/askzim: new_task.md</title>
     <link href="https://github.com/KaboomFox/askzim/blob/a7be05ed7a7336b0fda5ea407ffc15e0f24465d8/.clinerules/new_task.md"/>
     <id>urn:github:KaboomFox/askzim:.clinerules/new_task.md:0be632790702d127699c902a0f2088f0b6cba13c</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/new_task.md
 Repository: KaboomFox/askzim
 SHA: 0be632790702d127699c902a0f2088f0b6cba13c</summary>
@@ -426,7 +426,7 @@ SHA: 0be632790702d127699c902a0f2088f0b6cba13c</summary>
     <title>hyzhak/ollama-mcp-server: 01-memory-bank.md</title>
     <link href="https://github.com/hyzhak/ollama-mcp-server/blob/ca05535376dec34915c8b622422d16eb289a8730/.clinerules/01-memory-bank.md"/>
     <id>urn:github:hyzhak/ollama-mcp-server:.clinerules/01-memory-bank.md:dc3264f76a8a834262a2aecc3196f58b98a5cc7d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/01-memory-bank.md
 Repository: hyzhak/ollama-mcp-server
 SHA: dc3264f76a8a834262a2aecc3196f58b98a5cc7d</summary>
@@ -437,7 +437,7 @@ SHA: dc3264f76a8a834262a2aecc3196f58b98a5cc7d</summary>
     <title>espra/espra: .clinerules</title>
     <link href="https://github.com/espra/espra/blob/ab9deca92ecdc45195890222b559d9b93fd7c514/.clinerules"/>
     <id>urn:github:espra/espra:.clinerules:821799d2512e0c0cc0cfe3062d681f7e79d16e62</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: espra/espra
 SHA: 821799d2512e0c0cc0cfe3062d681f7e79d16e62</summary>
@@ -448,7 +448,7 @@ SHA: 821799d2512e0c0cc0cfe3062d681f7e79d16e62</summary>
     <title>HvTung04/thucchienai: rules.mdc</title>
     <link href="https://github.com/HvTung04/thucchienai/blob/246610522d201d358017a1a08099f9c5128eb9fd/.clinerules/rules.mdc"/>
     <id>urn:github:HvTung04/thucchienai:.clinerules/rules.mdc:911de9286e79d305c46334371ed9c49a379e3357</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rules.mdc
 Repository: HvTung04/thucchienai
 SHA: 911de9286e79d305c46334371ed9c49a379e3357</summary>
@@ -459,7 +459,7 @@ SHA: 911de9286e79d305c46334371ed9c49a379e3357</summary>
     <title>Tiberriver256/mcp-server-azure-devops: .clinerules</title>
     <link href="https://github.com/Tiberriver256/mcp-server-azure-devops/blob/96557d9cb6a0d5860f612ae9cdc3f7fb02f7c6f3/.clinerules"/>
     <id>urn:github:Tiberriver256/mcp-server-azure-devops:.clinerules:9b14e9fa2f10158d9c766609d7a26eeefbf3cd0d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: Tiberriver256/mcp-server-azure-devops
 SHA: 9b14e9fa2f10158d9c766609d7a26eeefbf3cd0d</summary>
@@ -470,7 +470,7 @@ SHA: 9b14e9fa2f10158d9c766609d7a26eeefbf3cd0d</summary>
     <title>stakiran/asdm_public: 000.md</title>
     <link href="https://github.com/stakiran/asdm_public/blob/bab47ee7169ed7cb83c9f4b369b3329fb052a641/.clinerules/000.md"/>
     <id>urn:github:stakiran/asdm_public:.clinerules/000.md:fb986dafd97534d1c0c56a80d03b495dabab2540</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/000.md
 Repository: stakiran/asdm_public
 SHA: fb986dafd97534d1c0c56a80d03b495dabab2540</summary>
@@ -481,7 +481,7 @@ SHA: fb986dafd97534d1c0c56a80d03b495dabab2540</summary>
     <title>judithsanchez/scoutly: api.md</title>
     <link href="https://github.com/judithsanchez/scoutly/blob/ad33adeff18ae98731f14fc8979bb1ddc7519a8c/.clinerules/api.md"/>
     <id>urn:github:judithsanchez/scoutly:.clinerules/api.md:c63bbf3c30ebdec692b6d57ff109bae97e8400c0</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/api.md
 Repository: judithsanchez/scoutly
 SHA: c63bbf3c30ebdec692b6d57ff109bae97e8400c0</summary>
@@ -490,9 +490,9 @@ SHA: c63bbf3c30ebdec692b6d57ff109bae97e8400c0</summary>
   </entry>
   <entry>
     <title>ryan-mahoney/prompt-orchestration-pipeline: faq.md</title>
-    <link href="https://github.com/ryan-mahoney/prompt-orchestration-pipeline/blob/f18bc8ad80836c8ce19022183f44d8121120d88d/.clinerules/faq.md"/>
+    <link href="https://github.com/ryan-mahoney/prompt-orchestration-pipeline/blob/52236fef16e343e119dfed6ced566c6f04d0cb21/.clinerules/faq.md"/>
     <id>urn:github:ryan-mahoney/prompt-orchestration-pipeline:.clinerules/faq.md:55b71c64f5d26555cafceefbfdc1553edf70b3e3</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/faq.md
 Repository: ryan-mahoney/prompt-orchestration-pipeline
 SHA: 55b71c64f5d26555cafceefbfdc1553edf70b3e3</summary>
@@ -503,7 +503,7 @@ SHA: 55b71c64f5d26555cafceefbfdc1553edf70b3e3</summary>
     <title>cblanquera/intime: Specifications.md</title>
     <link href="https://github.com/cblanquera/intime/blob/3aca94bbf5839f0c541cc2fc5b06daea66ed2e8d/prototype/.clinerules/Specifications.md"/>
     <id>urn:github:cblanquera/intime:prototype/.clinerules/Specifications.md:dfcd19cb58e6796e20ce54c68d396c6f704b5a3a</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: prototype/.clinerules/Specifications.md
 Repository: cblanquera/intime
 SHA: dfcd19cb58e6796e20ce54c68d396c6f704b5a3a</summary>
@@ -514,7 +514,7 @@ SHA: dfcd19cb58e6796e20ce54c68d396c6f704b5a3a</summary>
     <title>inkbytefo/agi-core-hunter: tech.md</title>
     <link href="https://github.com/inkbytefo/agi-core-hunter/blob/3b076731e137ad177fd9e0d2fa8c5c917700079e/.clinerules/tech.md"/>
     <id>urn:github:inkbytefo/agi-core-hunter:.clinerules/tech.md:f90073beb2bb9cba1f6cf242b245687c51518948</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/tech.md
 Repository: inkbytefo/agi-core-hunter
 SHA: f90073beb2bb9cba1f6cf242b245687c51518948</summary>
@@ -525,7 +525,7 @@ SHA: f90073beb2bb9cba1f6cf242b245687c51518948</summary>
     <title>fellow99/three-editor-by-ai: main.md</title>
     <link href="https://github.com/fellow99/three-editor-by-ai/blob/19608b1e6eb2a246210bdbbb5e522617323bccdd/.clinerules/main.md"/>
     <id>urn:github:fellow99/three-editor-by-ai:.clinerules/main.md:f0efa3223f5474a6af6415a700f8e539b7f68374</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/main.md
 Repository: fellow99/three-editor-by-ai
 SHA: f0efa3223f5474a6af6415a700f8e539b7f68374</summary>
@@ -536,7 +536,7 @@ SHA: f0efa3223f5474a6af6415a700f8e539b7f68374</summary>
     <title>suguru-toyohara/LocalLibraryforLLM: todo.md</title>
     <link href="https://github.com/suguru-toyohara/LocalLibraryforLLM/blob/6f28d37044f08c20f5fb910ec9537fd15d0333d6/.clinerules/todo.md"/>
     <id>urn:github:suguru-toyohara/LocalLibraryforLLM:.clinerules/todo.md:e803bfc7dded6bbd3d25da10741afdca3590febf</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/todo.md
 Repository: suguru-toyohara/LocalLibraryforLLM
 SHA: e803bfc7dded6bbd3d25da10741afdca3590febf</summary>
@@ -547,7 +547,7 @@ SHA: e803bfc7dded6bbd3d25da10741afdca3590febf</summary>
     <title>Neonize/SOMB: SOMB.md</title>
     <link href="https://github.com/Neonize/SOMB/blob/2fddbd94a7326c27dc8c099772659c5852bab42a/.clinerules/SOMB.md"/>
     <id>urn:github:Neonize/SOMB:.clinerules/SOMB.md:ab1c3877838b75f5b81236b5589b51e832a94075</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/SOMB.md
 Repository: Neonize/SOMB
 SHA: ab1c3877838b75f5b81236b5589b51e832a94075</summary>
@@ -558,7 +558,7 @@ SHA: ab1c3877838b75f5b81236b5589b51e832a94075</summary>
     <title>zachgk/PyChoice: main.md</title>
     <link href="https://github.com/zachgk/PyChoice/blob/14d00bd1f829ab9d97cc0c96aa9779556552d312/.clinerules/main.md"/>
     <id>urn:github:zachgk/PyChoice:.clinerules/main.md:9c37c25518172457a1947ba3fd184d39f0376025</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/main.md
 Repository: zachgk/PyChoice
 SHA: 9c37c25518172457a1947ba3fd184d39f0376025</summary>
@@ -569,7 +569,7 @@ SHA: 9c37c25518172457a1947ba3fd184d39f0376025</summary>
     <title>sorrowscry86/voidcat-reasoning-core: Main.md</title>
     <link href="https://github.com/sorrowscry86/voidcat-reasoning-core/blob/1d768d97e0450944fb48ec95ca74ef723634e6dd/.clinerules/Main.md"/>
     <id>urn:github:sorrowscry86/voidcat-reasoning-core:.clinerules/Main.md:6da0696fde03215922a48f1f71240ed8af104cec</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/Main.md
 Repository: sorrowscry86/voidcat-reasoning-core
 SHA: 6da0696fde03215922a48f1f71240ed8af104cec</summary>
@@ -580,7 +580,7 @@ SHA: 6da0696fde03215922a48f1f71240ed8af104cec</summary>
     <title>nagiyu/react-with-google-oauth: rule.md</title>
     <link href="https://github.com/nagiyu/react-with-google-oauth/blob/7b2a3586faaf8277cf05202f7259f158cac9cf49/.clinerules/rule.md"/>
     <id>urn:github:nagiyu/react-with-google-oauth:.clinerules/rule.md:5ea7cf3af790d5102bf1bf2dfdc9cb7626347a61</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rule.md
 Repository: nagiyu/react-with-google-oauth
 SHA: 5ea7cf3af790d5102bf1bf2dfdc9cb7626347a61</summary>
@@ -591,7 +591,7 @@ SHA: 5ea7cf3af790d5102bf1bf2dfdc9cb7626347a61</summary>
     <title>goldstack/goldstack: coding.md</title>
     <link href="https://github.com/goldstack/goldstack/blob/ed02c872effa5d68e97c055fc734fa599cfda45d/.clinerules/coding.md"/>
     <id>urn:github:goldstack/goldstack:.clinerules/coding.md:85fc5a5ae40d9979a1ca38acfcab96bf185abb6c</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/coding.md
 Repository: goldstack/goldstack
 SHA: 85fc5a5ae40d9979a1ca38acfcab96bf185abb6c</summary>
@@ -602,7 +602,7 @@ SHA: 85fc5a5ae40d9979a1ca38acfcab96bf185abb6c</summary>
     <title>phanijapps/agent_sandbox: 03-pm.md</title>
     <link href="https://github.com/phanijapps/agent_sandbox/blob/1ddddc14f7713ca3724d68e24737605eacae3ff9/.clinerules/03-pm.md"/>
     <id>urn:github:phanijapps/agent_sandbox:.clinerules/03-pm.md:fc052e43cfe0e7d353723b78c089109d3c07c001</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: phanijapps/agent_sandbox
 SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
@@ -613,7 +613,7 @@ SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
     <title>vek-servicos/bitbucket-runner: 03-pm.md</title>
     <link href="https://github.com/vek-servicos/bitbucket-runner/blob/23e8b2009c60418151203b46aff6503def2aba0e/.clinerules/03-pm.md"/>
     <id>urn:github:vek-servicos/bitbucket-runner:.clinerules/03-pm.md:da4efdef57d4d79eb1a46cda7bfa36c6d6ef9c2f</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: vek-servicos/bitbucket-runner
 SHA: da4efdef57d4d79eb1a46cda7bfa36c6d6ef9c2f</summary>
@@ -624,7 +624,7 @@ SHA: da4efdef57d4d79eb1a46cda7bfa36c6d6ef9c2f</summary>
     <title>tborys/BMAD: 07-sm.md</title>
     <link href="https://github.com/tborys/BMAD/blob/4cc3bf98522a09ce6b056f11f54aacb2736002ef/.clinerules/07-sm.md"/>
     <id>urn:github:tborys/BMAD:.clinerules/07-sm.md:d1b70a327a2402579aee0d164ab01c4856a3df5f</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: tborys/BMAD
 SHA: d1b70a327a2402579aee0d164ab01c4856a3df5f</summary>
@@ -635,7 +635,7 @@ SHA: d1b70a327a2402579aee0d164ab01c4856a3df5f</summary>
     <title>phanijapps/agent_sandbox: 06-po.md</title>
     <link href="https://github.com/phanijapps/agent_sandbox/blob/1ddddc14f7713ca3724d68e24737605eacae3ff9/.clinerules/06-po.md"/>
     <id>urn:github:phanijapps/agent_sandbox:.clinerules/06-po.md:cdca81167b50469c4d6c7c8f4479378fccf1ee68</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: phanijapps/agent_sandbox
 SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
@@ -646,7 +646,7 @@ SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
     <title>tborys/BMAD: 03-pm.md</title>
     <link href="https://github.com/tborys/BMAD/blob/4cc3bf98522a09ce6b056f11f54aacb2736002ef/.clinerules/03-pm.md"/>
     <id>urn:github:tborys/BMAD:.clinerules/03-pm.md:c35654da06500030bcb6d16cd47a91b372a1802c</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: tborys/BMAD
 SHA: c35654da06500030bcb6d16cd47a91b372a1802c</summary>
@@ -655,9 +655,9 @@ SHA: c35654da06500030bcb6d16cd47a91b372a1802c</summary>
   </entry>
   <entry>
     <title>ryan-mahoney/prompt-orchestration-pipeline: index.md</title>
-    <link href="https://github.com/ryan-mahoney/prompt-orchestration-pipeline/blob/f18bc8ad80836c8ce19022183f44d8121120d88d/.clinerules/index.md"/>
+    <link href="https://github.com/ryan-mahoney/prompt-orchestration-pipeline/blob/52236fef16e343e119dfed6ced566c6f04d0cb21/.clinerules/index.md"/>
     <id>urn:github:ryan-mahoney/prompt-orchestration-pipeline:.clinerules/index.md:a460ab63a5363947c08ec6f6597a7a79694d9630</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/index.md
 Repository: ryan-mahoney/prompt-orchestration-pipeline
 SHA: a460ab63a5363947c08ec6f6597a7a79694d9630</summary>
@@ -668,7 +668,7 @@ SHA: a460ab63a5363947c08ec6f6597a7a79694d9630</summary>
     <title>rickyvale04/SpotifyToVinyl: Rules.md</title>
     <link href="https://github.com/rickyvale04/SpotifyToVinyl/blob/5464cf6b9622e8283eba7582859bea515853244d/.clinerules/Rules.md"/>
     <id>urn:github:rickyvale04/SpotifyToVinyl:.clinerules/Rules.md:60b18ce96009aa46a1b10953aa3dd9e7a9927ae9</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/Rules.md
 Repository: rickyvale04/SpotifyToVinyl
 SHA: 60b18ce96009aa46a1b10953aa3dd9e7a9927ae9</summary>
@@ -679,7 +679,7 @@ SHA: 60b18ce96009aa46a1b10953aa3dd9e7a9927ae9</summary>
     <title>vek-servicos/bitbucket-runner: 06-po.md</title>
     <link href="https://github.com/vek-servicos/bitbucket-runner/blob/23e8b2009c60418151203b46aff6503def2aba0e/.clinerules/06-po.md"/>
     <id>urn:github:vek-servicos/bitbucket-runner:.clinerules/06-po.md:50297664f34e882b5995cf26a2b71a3de6d332b0</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: vek-servicos/bitbucket-runner
 SHA: 50297664f34e882b5995cf26a2b71a3de6d332b0</summary>
@@ -690,7 +690,7 @@ SHA: 50297664f34e882b5995cf26a2b71a3de6d332b0</summary>
     <title>vek-servicos/bitbucket-runner: 07-sm.md</title>
     <link href="https://github.com/vek-servicos/bitbucket-runner/blob/23e8b2009c60418151203b46aff6503def2aba0e/.clinerules/07-sm.md"/>
     <id>urn:github:vek-servicos/bitbucket-runner:.clinerules/07-sm.md:4b6b34e7794fb0db7218e94a90c1fc5da8561ab7</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: vek-servicos/bitbucket-runner
 SHA: 4b6b34e7794fb0db7218e94a90c1fc5da8561ab7</summary>
@@ -701,7 +701,7 @@ SHA: 4b6b34e7794fb0db7218e94a90c1fc5da8561ab7</summary>
     <title>Capstone-Memoria/Memoria-Front: basic.md</title>
     <link href="https://github.com/Capstone-Memoria/Memoria-Front/blob/39bd804956621fa7b4a9bf7815293914fc67921e/.clinerules/basic.md"/>
     <id>urn:github:Capstone-Memoria/Memoria-Front:.clinerules/basic.md:3954db8d2b42c211bed68997a4adcf619eb3ef02</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/basic.md
 Repository: Capstone-Memoria/Memoria-Front
 SHA: 3954db8d2b42c211bed68997a4adcf619eb3ef02</summary>
@@ -712,7 +712,7 @@ SHA: 3954db8d2b42c211bed68997a4adcf619eb3ef02</summary>
     <title>tborys/BMAD: 06-po.md</title>
     <link href="https://github.com/tborys/BMAD/blob/4cc3bf98522a09ce6b056f11f54aacb2736002ef/.clinerules/06-po.md"/>
     <id>urn:github:tborys/BMAD:.clinerules/06-po.md:05076eb5aefb052c7868fbe3fceb5bd54594d4ba</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: tborys/BMAD
 SHA: 05076eb5aefb052c7868fbe3fceb5bd54594d4ba</summary>
@@ -723,7 +723,7 @@ SHA: 05076eb5aefb052c7868fbe3fceb5bd54594d4ba</summary>
     <title>phanijapps/agent_sandbox: 07-sm.md</title>
     <link href="https://github.com/phanijapps/agent_sandbox/blob/1ddddc14f7713ca3724d68e24737605eacae3ff9/.clinerules/07-sm.md"/>
     <id>urn:github:phanijapps/agent_sandbox:.clinerules/07-sm.md:004ecb675d9cdec57caadaee5d5655c3a5457e34</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: phanijapps/agent_sandbox
 SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
@@ -734,7 +734,7 @@ SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
     <title>tvaroska/working: AGENTS.md</title>
     <link href="https://github.com/tvaroska/working/blob/0943aab86243fe2c2a2ea31ae20f6d59fa0bddf5/.clinerules/AGENTS.md"/>
     <id>urn:github:tvaroska/working:.clinerules/AGENTS.md:213b10d6db0f0024bf0c5fffcef6bd7eeb019ed4</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/AGENTS.md
 Repository: tvaroska/working
 SHA: 213b10d6db0f0024bf0c5fffcef6bd7eeb019ed4</summary>
@@ -745,7 +745,7 @@ SHA: 213b10d6db0f0024bf0c5fffcef6bd7eeb019ed4</summary>
     <title>mewuto/ai-agent-rules-generator: memory.md</title>
     <link href="https://github.com/mewuto/ai-agent-rules-generator/blob/3027aee0cf34ec14e53dae4f6dc16bace7ecb51f/.clinerules/memory.md"/>
     <id>urn:github:mewuto/ai-agent-rules-generator:.clinerules/memory.md:73bfae3d92a0de3bf962362c1be92157f5017de3</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/memory.md
 Repository: mewuto/ai-agent-rules-generator
 SHA: 73bfae3d92a0de3bf962362c1be92157f5017de3</summary>
@@ -754,9 +754,9 @@ SHA: 73bfae3d92a0de3bf962362c1be92157f5017de3</summary>
   </entry>
   <entry>
     <title>ryan-mahoney/prompt-orchestration-pipeline: README.md</title>
-    <link href="https://github.com/ryan-mahoney/prompt-orchestration-pipeline/blob/f18bc8ad80836c8ce19022183f44d8121120d88d/.clinerules/README.md"/>
+    <link href="https://github.com/ryan-mahoney/prompt-orchestration-pipeline/blob/52236fef16e343e119dfed6ced566c6f04d0cb21/.clinerules/README.md"/>
     <id>urn:github:ryan-mahoney/prompt-orchestration-pipeline:.clinerules/README.md:5c1d0f7f82f184e04fcb805e0bc54c5adf634bcc</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/README.md
 Repository: ryan-mahoney/prompt-orchestration-pipeline
 SHA: 5c1d0f7f82f184e04fcb805e0bc54c5adf634bcc</summary>
@@ -767,7 +767,7 @@ SHA: 5c1d0f7f82f184e04fcb805e0bc54c5adf634bcc</summary>
     <title>twtrubiks/django-ninja-shortener: 01_doc.md</title>
     <link href="https://github.com/twtrubiks/django-ninja-shortener/blob/775b792f0b73970f089c6fd435efffc8f1e7f93c/.clinerules/01_doc.md"/>
     <id>urn:github:twtrubiks/django-ninja-shortener:.clinerules/01_doc.md:55700a803b7fcf225cc524edec5ec2a91c3ba33e</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/01_doc.md
 Repository: twtrubiks/django-ninja-shortener
 SHA: 55700a803b7fcf225cc524edec5ec2a91c3ba33e</summary>
@@ -778,7 +778,7 @@ SHA: 55700a803b7fcf225cc524edec5ec2a91c3ba33e</summary>
     <title>Michael1Peng/webpack: 调试.md</title>
     <link href="https://github.com/Michael1Peng/webpack/blob/0d3bb3dd0cd57dea46d832a039e0ea33bc047e8f/.clinerules/%E8%B0%83%E8%AF%95.md"/>
     <id>urn:github:Michael1Peng/webpack:.clinerules/调试.md:4be4cef4f9d71254d46ad5f5270725d2f03b0fda</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/调试.md
 Repository: Michael1Peng/webpack
 SHA: 4be4cef4f9d71254d46ad5f5270725d2f03b0fda</summary>
@@ -789,7 +789,7 @@ SHA: 4be4cef4f9d71254d46ad5f5270725d2f03b0fda</summary>
     <title>ArdenKirk/TalesOfCharlie: Design.md</title>
     <link href="https://github.com/ArdenKirk/TalesOfCharlie/blob/5147ca14541af742d7d7ddd2cf6858cb02409a49/.clinerules/Design.md"/>
     <id>urn:github:ArdenKirk/TalesOfCharlie:.clinerules/Design.md:4ab0ca561310695d770a3d6fea96c28150fe1d0d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/Design.md
 Repository: ArdenKirk/TalesOfCharlie
 SHA: 4ab0ca561310695d770a3d6fea96c28150fe1d0d</summary>
@@ -800,7 +800,7 @@ SHA: 4ab0ca561310695d770a3d6fea96c28150fe1d0d</summary>
     <title>route250/pixelart-mcp: prompt.md</title>
     <link href="https://github.com/route250/pixelart-mcp/blob/15566374b691812ecfc72565b27b240a2ae65783/.clinerules/prompt.md"/>
     <id>urn:github:route250/pixelart-mcp:.clinerules/prompt.md:426bb8bd1fe04f155cbe955e35e00e38469f17e4</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/prompt.md
 Repository: route250/pixelart-mcp
 SHA: 426bb8bd1fe04f155cbe955e35e00e38469f17e4</summary>
@@ -811,7 +811,7 @@ SHA: 426bb8bd1fe04f155cbe955e35e00e38469f17e4</summary>
     <title>ToyB0x/ai-coding-rules: README.md</title>
     <link href="https://github.com/ToyB0x/ai-coding-rules/blob/b710bf7684097288d85084604dc0c0bf3c418cc9/.clinerules/README.md"/>
     <id>urn:github:ToyB0x/ai-coding-rules:.clinerules/README.md:31324aa3e049f3383cc2e7f921fee38dce242207</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/README.md
 Repository: ToyB0x/ai-coding-rules
 SHA: 31324aa3e049f3383cc2e7f921fee38dce242207</summary>
@@ -822,7 +822,7 @@ SHA: 31324aa3e049f3383cc2e7f921fee38dce242207</summary>
     <title>jbrandtmse/ContReAct-Ollama: 08-dev.md</title>
     <link href="https://github.com/jbrandtmse/ContReAct-Ollama/blob/57502893609fcec836ddb510bce3ad0f43961423/.clinerules/08-dev.md"/>
     <id>urn:github:jbrandtmse/ContReAct-Ollama:.clinerules/08-dev.md:2fdc35199574694d7e855231a250a77b6f5aa3e4</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/08-dev.md
 Repository: jbrandtmse/ContReAct-Ollama
 SHA: 2fdc35199574694d7e855231a250a77b6f5aa3e4</summary>
@@ -833,7 +833,7 @@ SHA: 2fdc35199574694d7e855231a250a77b6f5aa3e4</summary>
     <title>nuist-engineer-lion/Helpdesk-beckend: 测试.md</title>
     <link href="https://github.com/nuist-engineer-lion/Helpdesk-beckend/blob/24cb4472665d6bcfb90fbe582ec404157c2be245/.clinerules/%E6%B5%8B%E8%AF%95.md"/>
     <id>urn:github:nuist-engineer-lion/Helpdesk-beckend:.clinerules/测试.md:184a6c8afa402573423f41f397c13cd4bfd06df4</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/测试.md
 Repository: nuist-engineer-lion/Helpdesk-beckend
 SHA: 184a6c8afa402573423f41f397c13cd4bfd06df4</summary>
@@ -844,7 +844,7 @@ SHA: 184a6c8afa402573423f41f397c13cd4bfd06df4</summary>
     <title>mintedmaterial/mcp-ts-template: AGENTS.md</title>
     <link href="https://github.com/mintedmaterial/mcp-ts-template/blob/ba3d3d633747285f8e658b665c2321546c383432/.clinerules/AGENTS.md"/>
     <id>urn:github:mintedmaterial/mcp-ts-template:.clinerules/AGENTS.md:17f52f6d1ef9a1c0ef8bb7b4bba6f81b44bf42b1</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/AGENTS.md
 Repository: mintedmaterial/mcp-ts-template
 SHA: 17f52f6d1ef9a1c0ef8bb7b4bba6f81b44bf42b1</summary>
@@ -855,7 +855,7 @@ SHA: 17f52f6d1ef9a1c0ef8bb7b4bba6f81b44bf42b1</summary>
     <title>jaepetto/nbjrnlctl: custom.md</title>
     <link href="https://github.com/jaepetto/nbjrnlctl/blob/70af40009b578dcff92fccd66d14b951ff5576a0/.clinerules/custom.md"/>
     <id>urn:github:jaepetto/nbjrnlctl:.clinerules/custom.md:128b4122eb8f1a5a8896e98b4414d8daf6ae5eba</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/custom.md
 Repository: jaepetto/nbjrnlctl
 SHA: 128b4122eb8f1a5a8896e98b4414d8daf6ae5eba</summary>
@@ -866,7 +866,7 @@ SHA: 128b4122eb8f1a5a8896e98b4414d8daf6ae5eba</summary>
     <title>vek-servicos/bitbucket-runner: 08-dev.md</title>
     <link href="https://github.com/vek-servicos/bitbucket-runner/blob/23e8b2009c60418151203b46aff6503def2aba0e/.clinerules/08-dev.md"/>
     <id>urn:github:vek-servicos/bitbucket-runner:.clinerules/08-dev.md:0f0b297a73fe456d72605bf8b58fcb5e72faf9c7</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/08-dev.md
 Repository: vek-servicos/bitbucket-runner
 SHA: 0f0b297a73fe456d72605bf8b58fcb5e72faf9c7</summary>
@@ -877,7 +877,7 @@ SHA: 0f0b297a73fe456d72605bf8b58fcb5e72faf9c7</summary>
     <title>ssdeanx/langgraph-dm: memory.md</title>
     <link href="https://github.com/ssdeanx/langgraph-dm/blob/b6a76d4ea3aa2e4c47f206be9995fc97f8a085f8/.clinerules/memory.md"/>
     <id>urn:github:ssdeanx/langgraph-dm:.clinerules/memory.md:09c54a330b504361daad5a174ff59da1255f76aa</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/memory.md
 Repository: ssdeanx/langgraph-dm
 SHA: 09c54a330b504361daad5a174ff59da1255f76aa</summary>
@@ -886,9 +886,9 @@ SHA: 09c54a330b504361daad5a174ff59da1255f76aa</summary>
   </entry>
   <entry>
     <title>oxy-hq/oxy: .clinerules</title>
-    <link href="https://github.com/oxy-hq/oxy/blob/abb2c6430847d3a8360f9ebca3691f3bbb25992f/.clinerules"/>
+    <link href="https://github.com/oxy-hq/oxy/blob/157873303ca9fe161b6e01dda83981938117d3ce/.clinerules"/>
     <id>urn:github:oxy-hq/oxy:.clinerules:7b896de98207347c97c68e932f93dd3d43879a22</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: oxy-hq/oxy
 SHA: 7b896de98207347c97c68e932f93dd3d43879a22</summary>
@@ -899,7 +899,7 @@ SHA: 7b896de98207347c97c68e932f93dd3d43879a22</summary>
     <title>alesierraalta/LUMONEW: 1.md</title>
     <link href="https://github.com/alesierraalta/LUMONEW/blob/5d23b35922371fc1fe29d60f379cfd80b6942118/.clinerules/1.md"/>
     <id>urn:github:alesierraalta/LUMONEW:.clinerules/1.md:97c940f7e5b16b88be068e00e73e99bd1be25cb5</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/1.md
 Repository: alesierraalta/LUMONEW
 SHA: 97c940f7e5b16b88be068e00e73e99bd1be25cb5</summary>
@@ -910,7 +910,7 @@ SHA: 97c940f7e5b16b88be068e00e73e99bd1be25cb5</summary>
     <title>jamsmac/maidon_product_catalog: 1.md</title>
     <link href="https://github.com/jamsmac/maidon_product_catalog/blob/51f86a6a56f837666ec7d5858f2fd4c5301c67d0/.clinerules/1.md"/>
     <id>urn:github:jamsmac/maidon_product_catalog:.clinerules/1.md:0a1ffb809fafd04618150bd358f89d9e50975d3b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/1.md
 Repository: jamsmac/maidon_product_catalog
 SHA: 0a1ffb809fafd04618150bd358f89d9e50975d3b</summary>
@@ -921,7 +921,7 @@ SHA: 0a1ffb809fafd04618150bd358f89d9e50975d3b</summary>
     <title>repulsivityy/elevate_2025: YARA_RULES_STYLE_GUIDE.md</title>
     <link href="https://github.com/repulsivityy/elevate_2025/blob/4f1b33b1f66107db08fedf5f079fb3cabacaf693/.clinerules/YARA_RULES_STYLE_GUIDE.md"/>
     <id>urn:github:repulsivityy/elevate_2025:.clinerules/YARA_RULES_STYLE_GUIDE.md:c36d90c6a075e77b863fd3ad5ab21f087d226e3d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/YARA_RULES_STYLE_GUIDE.md
 Repository: repulsivityy/elevate_2025
 SHA: c36d90c6a075e77b863fd3ad5ab21f087d226e3d</summary>
@@ -932,7 +932,7 @@ SHA: c36d90c6a075e77b863fd3ad5ab21f087d226e3d</summary>
     <title>B415Corp/TimeTracker: tt.md</title>
     <link href="https://github.com/B415Corp/TimeTracker/blob/f3aa5a0322155afa751eec1348bf2dd93f427b5f/.clinerules/tt.md"/>
     <id>urn:github:B415Corp/TimeTracker:.clinerules/tt.md:7a8c94070064e1bb08c171cb70c76d3c51be2b91</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/tt.md
 Repository: B415Corp/TimeTracker
 SHA: 7a8c94070064e1bb08c171cb70c76d3c51be2b91</summary>
@@ -943,7 +943,7 @@ SHA: 7a8c94070064e1bb08c171cb70c76d3c51be2b91</summary>
     <title>Alexeykoh/tt-react-cient: tt.md</title>
     <link href="https://github.com/Alexeykoh/tt-react-cient/blob/64abe7070372d0972e8cbff723258e23fc8fa1a9/.clinerules/tt.md"/>
     <id>urn:github:Alexeykoh/tt-react-cient:.clinerules/tt.md:2717073d09961a323cd364f4ac55607acd567494</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/tt.md
 Repository: Alexeykoh/tt-react-cient
 SHA: 2717073d09961a323cd364f4ac55607acd567494</summary>
@@ -954,7 +954,7 @@ SHA: 2717073d09961a323cd364f4ac55607acd567494</summary>
     <title>agenticsorg/sparc2: .clinerules</title>
     <link href="https://github.com/agenticsorg/sparc2/blob/01bf771ae18f6199d2e4e4e2c8a004a966a15e51/.clinerules"/>
     <id>urn:github:agenticsorg/sparc2:.clinerules:930ac8bb19f20b2c010c580589a26f4726fdfd36</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: agenticsorg/sparc2
 SHA: 930ac8bb19f20b2c010c580589a26f4726fdfd36</summary>
@@ -965,7 +965,7 @@ SHA: 930ac8bb19f20b2c010c580589a26f4726fdfd36</summary>
     <title>decentralized-fda/decentralized-fda: pnpm.md</title>
     <link href="https://github.com/decentralized-fda/decentralized-fda/blob/f8cf7a709262136122f9eacfae45bc4b4ca6dd65/apps/dfda-node/.clinerules/pnpm.md"/>
     <id>urn:github:decentralized-fda/decentralized-fda:apps/dfda-node/.clinerules/pnpm.md:8a56c2caf5745e178dafcc823fc539ef968944fd</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: apps/dfda-node/.clinerules/pnpm.md
 Repository: decentralized-fda/decentralized-fda
 SHA: 8a56c2caf5745e178dafcc823fc539ef968944fd</summary>
@@ -976,7 +976,7 @@ SHA: 8a56c2caf5745e178dafcc823fc539ef968944fd</summary>
     <title>sylee999/nextjs-practice1: PRD.md</title>
     <link href="https://github.com/sylee999/nextjs-practice1/blob/a68d6ecc4b4ac62c5200b46506e851359af5330e/.clinerules/PRD.md"/>
     <id>urn:github:sylee999/nextjs-practice1:.clinerules/PRD.md:d0af38ce3b4bb8c5238388cea2151f840b0be1e2</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/PRD.md
 Repository: sylee999/nextjs-practice1
 SHA: d0af38ce3b4bb8c5238388cea2151f840b0be1e2</summary>
@@ -987,7 +987,7 @@ SHA: d0af38ce3b4bb8c5238388cea2151f840b0be1e2</summary>
     <title>dinhtrung0706/petHotel_shiba: C++.md</title>
     <link href="https://github.com/dinhtrung0706/petHotel_shiba/blob/52771f58665769e544df455f3cdaae8a81140071/.clinerules/C%2B%2B.md"/>
     <id>urn:github:dinhtrung0706/petHotel_shiba:.clinerules/C++.md:93d4d8eb4ed6d6470ad3136bc46b1928b7315b4b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/C++.md
 Repository: dinhtrung0706/petHotel_shiba
 SHA: 93d4d8eb4ed6d6470ad3136bc46b1928b7315b4b</summary>
@@ -998,7 +998,7 @@ SHA: 93d4d8eb4ed6d6470ad3136bc46b1928b7315b4b</summary>
     <title>bericyb/Particles: mcp.md</title>
     <link href="https://github.com/bericyb/Particles/blob/01e0ae4bd2277243ff206f37a84f24115cacc2d0/.clinerules/mcp.md"/>
     <id>urn:github:bericyb/Particles:.clinerules/mcp.md:4b23e6a062302207d555dcaf480a993863a50332</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/mcp.md
 Repository: bericyb/Particles
 SHA: 4b23e6a062302207d555dcaf480a993863a50332</summary>
@@ -1009,7 +1009,7 @@ SHA: 4b23e6a062302207d555dcaf480a993863a50332</summary>
     <title>yyokii/MyDoc: base.md</title>
     <link href="https://github.com/yyokii/MyDoc/blob/eb7f582ef6627a77d7c17a5c8174cb433ab085af/.clinerules/base.md"/>
     <id>urn:github:yyokii/MyDoc:.clinerules/base.md:8b6cdcafd11db93da4c77194a04f4875fc89bc8d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/base.md
 Repository: yyokii/MyDoc
 SHA: 8b6cdcafd11db93da4c77194a04f4875fc89bc8d</summary>
@@ -1020,7 +1020,7 @@ SHA: 8b6cdcafd11db93da4c77194a04f4875fc89bc8d</summary>
     <title>repulsivityy/elevate_2025: SECOPS_YARAL_STYLE_GUIDE.md</title>
     <link href="https://github.com/repulsivityy/elevate_2025/blob/4f1b33b1f66107db08fedf5f079fb3cabacaf693/.clinerules/SECOPS_YARAL_STYLE_GUIDE.md"/>
     <id>urn:github:repulsivityy/elevate_2025:.clinerules/SECOPS_YARAL_STYLE_GUIDE.md:1fccf06f8e8b90e416b5daa9e89f3dbc72984fb7</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/SECOPS_YARAL_STYLE_GUIDE.md
 Repository: repulsivityy/elevate_2025
 SHA: 1fccf06f8e8b90e416b5daa9e89f3dbc72984fb7</summary>
@@ -1031,7 +1031,7 @@ SHA: 1fccf06f8e8b90e416b5daa9e89f3dbc72984fb7</summary>
     <title>brian0309/astro-blog-brian: rule.md</title>
     <link href="https://github.com/brian0309/astro-blog-brian/blob/03345ce247014b4d9326a0771bac424306f4bab7/.clinerules/rule.md"/>
     <id>urn:github:brian0309/astro-blog-brian:.clinerules/rule.md:499af9676ba4a58c0c3f2d64b789005ff876b3c7</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rule.md
 Repository: brian0309/astro-blog-brian
 SHA: 499af9676ba4a58c0c3f2d64b789005ff876b3c7</summary>
@@ -1042,7 +1042,7 @@ SHA: 499af9676ba4a58c0c3f2d64b789005ff876b3c7</summary>
     <title>devAmjad4590/salasil: rule.md</title>
     <link href="https://github.com/devAmjad4590/salasil/blob/9ecbd91d1912725e3f66fb07065508d021d2cbfe/.clinerules/rule.md"/>
     <id>urn:github:devAmjad4590/salasil:.clinerules/rule.md:2051d70991d28d04f541e2b1f0fd9c940ea0961c</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rule.md
 Repository: devAmjad4590/salasil
 SHA: 2051d70991d28d04f541e2b1f0fd9c940ea0961c</summary>
@@ -1053,7 +1053,7 @@ SHA: 2051d70991d28d04f541e2b1f0fd9c940ea0961c</summary>
     <title>kimghw/IACSSEARCH: rev1.md</title>
     <link href="https://github.com/kimghw/IACSSEARCH/blob/009ef44da653b01b1e22d05597cba1f0051d4ced/.clinerules/rev1.md"/>
     <id>urn:github:kimghw/IACSSEARCH:.clinerules/rev1.md:dc913d18dcef097f0d404ea870dd56fefdaf2c8e</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/rev1.md
 Repository: kimghw/IACSSEARCH
 SHA: dc913d18dcef097f0d404ea870dd56fefdaf2c8e</summary>
@@ -1064,7 +1064,7 @@ SHA: dc913d18dcef097f0d404ea870dd56fefdaf2c8e</summary>
     <title>HeyitsRadinn/Phantom: plan.md</title>
     <link href="https://github.com/HeyitsRadinn/Phantom/blob/acec9c8790f4ca2cfc7956383ebc74fa5775d6ba/.clinerules/plan.md"/>
     <id>urn:github:HeyitsRadinn/Phantom:.clinerules/plan.md:cfb590ef67010282e9cf5dabd73274eac6d95600</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/plan.md
 Repository: HeyitsRadinn/Phantom
 SHA: cfb590ef67010282e9cf5dabd73274eac6d95600</summary>
@@ -1075,7 +1075,7 @@ SHA: cfb590ef67010282e9cf5dabd73274eac6d95600</summary>
     <title>t-keshi/persuade-gym: role.md</title>
     <link href="https://github.com/t-keshi/persuade-gym/blob/15adcb3794db1b8388b80e20491afe50efb9c773/.clinerules/role.md"/>
     <id>urn:github:t-keshi/persuade-gym:.clinerules/role.md:cdc5aa2d09885ff84332d054ae1c3adcef023bdd</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/role.md
 Repository: t-keshi/persuade-gym
 SHA: cdc5aa2d09885ff84332d054ae1c3adcef023bdd</summary>
@@ -1086,7 +1086,7 @@ SHA: cdc5aa2d09885ff84332d054ae1c3adcef023bdd</summary>
     <title>DS-rent/project: TASK.md</title>
     <link href="https://github.com/DS-rent/project/blob/b1e45ae146d260adcefcc617b27c4b53117077d0/.clinerules/TASK.md"/>
     <id>urn:github:DS-rent/project:.clinerules/TASK.md:b04231b7ff8a01ec5c321149389dd0b351b0da52</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/TASK.md
 Repository: DS-rent/project
 SHA: b04231b7ff8a01ec5c321149389dd0b351b0da52</summary>
@@ -1097,7 +1097,7 @@ SHA: b04231b7ff8a01ec5c321149389dd0b351b0da52</summary>
     <title>subaru-shoji/react-router-architecture: page.md</title>
     <link href="https://github.com/subaru-shoji/react-router-architecture/blob/0626e745a79f7178899cf6018215fe9da8528e4b/.clinerules/page.md"/>
     <id>urn:github:subaru-shoji/react-router-architecture:.clinerules/page.md:8e8511870aea18d45c1f044922f8e0b976331d12</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/page.md
 Repository: subaru-shoji/react-router-architecture
 SHA: 8e8511870aea18d45c1f044922f8e0b976331d12</summary>
@@ -1108,7 +1108,7 @@ SHA: 8e8511870aea18d45c1f044922f8e0b976331d12</summary>
     <title>ready-1/m4300api_helpers: .human.clinerules.md</title>
     <link href="https://github.com/ready-1/m4300api_helpers/blob/167b6b8e4855e9ae9f501836237a31303f5ff013/.human.clinerules.md"/>
     <id>urn:github:ready-1/m4300api_helpers:.human.clinerules.md:c7a773a7b5b6bf8b61ca3ee0c784693d145c7c63</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .human.clinerules.md
 Repository: ready-1/m4300api_helpers
 SHA: c7a773a7b5b6bf8b61ca3ee0c784693d145c7c63</summary>
@@ -1119,7 +1119,7 @@ SHA: c7a773a7b5b6bf8b61ca3ee0c784693d145c7c63</summary>
     <title>claycampbell/FSD: .clinerules-code</title>
     <link href="https://github.com/claycampbell/FSD/blob/d9e1b9b5c342cdcebdf02448e3400ec81617089c/.clinerules-code"/>
     <id>urn:github:claycampbell/FSD:.clinerules-code:3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules-code
 Repository: claycampbell/FSD
 SHA: 3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</summary>
@@ -1130,7 +1130,7 @@ SHA: 3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</summary>
     <title>blackms/SlideForge: .clinerules-code</title>
     <link href="https://github.com/blackms/SlideForge/blob/c976480dab9f6f4e0216f1ddd029613fabe3a4ee/.clinerules-code"/>
     <id>urn:github:blackms/SlideForge:.clinerules-code:3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules-code
 Repository: blackms/SlideForge
 SHA: 3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</summary>
@@ -1141,7 +1141,7 @@ SHA: 3a99a030c94c2c7d8287b4565d3a93cc5475bd1b</summary>
     <title>repulsivityy/elevate_2025: readme.md</title>
     <link href="https://github.com/repulsivityy/elevate_2025/blob/4f1b33b1f66107db08fedf5f079fb3cabacaf693/ai-runbooks-elevate25/.clinerules/readme.md"/>
     <id>urn:github:repulsivityy/elevate_2025:ai-runbooks-elevate25/.clinerules/readme.md:1f3886cee0e147e19b24ad45e49bbf7fdee6fede</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: ai-runbooks-elevate25/.clinerules/readme.md
 Repository: repulsivityy/elevate_2025
 SHA: 1f3886cee0e147e19b24ad45e49bbf7fdee6fede</summary>
@@ -1152,7 +1152,7 @@ SHA: 1f3886cee0e147e19b24ad45e49bbf7fdee6fede</summary>
     <title>ramosjuan24/mcp-server-azure-devops: .clinerules</title>
     <link href="https://github.com/ramosjuan24/mcp-server-azure-devops/blob/1cd053e8c390267eeed2722670183d49ac712b84/.clinerules"/>
     <id>urn:github:ramosjuan24/mcp-server-azure-devops:.clinerules:9b14e9fa2f10158d9c766609d7a26eeefbf3cd0d</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: ramosjuan24/mcp-server-azure-devops
 SHA: 9b14e9fa2f10158d9c766609d7a26eeefbf3cd0d</summary>
@@ -1163,7 +1163,7 @@ SHA: 9b14e9fa2f10158d9c766609d7a26eeefbf3cd0d</summary>
     <title>suh4s/dojour: 03-pm.md</title>
     <link href="https://github.com/suh4s/dojour/blob/3d801287817ca7969d94e141a20de97da2cdd651/.clinerules/03-pm.md"/>
     <id>urn:github:suh4s/dojour:.clinerules/03-pm.md:fc052e43cfe0e7d353723b78c089109d3c07c001</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: suh4s/dojour
 SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
@@ -1174,7 +1174,7 @@ SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
     <title>lhdneves/bike-management-app: 03-pm.md</title>
     <link href="https://github.com/lhdneves/bike-management-app/blob/30d30ee37fd856ee3ffa79abfd48d07e42e6dfc0/.clinerules/03-pm.md"/>
     <id>urn:github:lhdneves/bike-management-app:.clinerules/03-pm.md:fc052e43cfe0e7d353723b78c089109d3c07c001</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: lhdneves/bike-management-app
 SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
@@ -1185,7 +1185,7 @@ SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
     <title>Lethabu/appointmentbooking: 03-pm.md</title>
     <link href="https://github.com/Lethabu/appointmentbooking/blob/53d34fa039515f008644fc725920bca3dd2d49c5/.clinerules/03-pm.md"/>
     <id>urn:github:Lethabu/appointmentbooking:.clinerules/03-pm.md:fc052e43cfe0e7d353723b78c089109d3c07c001</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: Lethabu/appointmentbooking
 SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
@@ -1196,7 +1196,7 @@ SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
     <title>santosrai/BMAD: 03-pm.md</title>
     <link href="https://github.com/santosrai/BMAD/blob/7d347f0a676c7c5b0cd2efdca759da6042db249f/.clinerules/03-pm.md"/>
     <id>urn:github:santosrai/BMAD:.clinerules/03-pm.md:fc052e43cfe0e7d353723b78c089109d3c07c001</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/03-pm.md
 Repository: santosrai/BMAD
 SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
@@ -1207,7 +1207,7 @@ SHA: fc052e43cfe0e7d353723b78c089109d3c07c001</summary>
     <title>suh4s/dojour: 06-po.md</title>
     <link href="https://github.com/suh4s/dojour/blob/3d801287817ca7969d94e141a20de97da2cdd651/.clinerules/06-po.md"/>
     <id>urn:github:suh4s/dojour:.clinerules/06-po.md:cdca81167b50469c4d6c7c8f4479378fccf1ee68</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: suh4s/dojour
 SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
@@ -1218,7 +1218,7 @@ SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
     <title>lhdneves/bike-management-app: 06-po.md</title>
     <link href="https://github.com/lhdneves/bike-management-app/blob/30d30ee37fd856ee3ffa79abfd48d07e42e6dfc0/.clinerules/06-po.md"/>
     <id>urn:github:lhdneves/bike-management-app:.clinerules/06-po.md:cdca81167b50469c4d6c7c8f4479378fccf1ee68</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: lhdneves/bike-management-app
 SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
@@ -1229,7 +1229,7 @@ SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
     <title>Lethabu/appointmentbooking: 06-po.md</title>
     <link href="https://github.com/Lethabu/appointmentbooking/blob/53d34fa039515f008644fc725920bca3dd2d49c5/.clinerules/06-po.md"/>
     <id>urn:github:Lethabu/appointmentbooking:.clinerules/06-po.md:cdca81167b50469c4d6c7c8f4479378fccf1ee68</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: Lethabu/appointmentbooking
 SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
@@ -1240,7 +1240,7 @@ SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
     <title>santosrai/BMAD: 06-po.md</title>
     <link href="https://github.com/santosrai/BMAD/blob/7d347f0a676c7c5b0cd2efdca759da6042db249f/.clinerules/06-po.md"/>
     <id>urn:github:santosrai/BMAD:.clinerules/06-po.md:cdca81167b50469c4d6c7c8f4479378fccf1ee68</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/06-po.md
 Repository: santosrai/BMAD
 SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
@@ -1251,7 +1251,7 @@ SHA: cdca81167b50469c4d6c7c8f4479378fccf1ee68</summary>
     <title>suh4s/dojour: 07-sm.md</title>
     <link href="https://github.com/suh4s/dojour/blob/3d801287817ca7969d94e141a20de97da2cdd651/.clinerules/07-sm.md"/>
     <id>urn:github:suh4s/dojour:.clinerules/07-sm.md:004ecb675d9cdec57caadaee5d5655c3a5457e34</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: suh4s/dojour
 SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
@@ -1262,7 +1262,7 @@ SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
     <title>lhdneves/bike-management-app: 07-sm.md</title>
     <link href="https://github.com/lhdneves/bike-management-app/blob/30d30ee37fd856ee3ffa79abfd48d07e42e6dfc0/.clinerules/07-sm.md"/>
     <id>urn:github:lhdneves/bike-management-app:.clinerules/07-sm.md:004ecb675d9cdec57caadaee5d5655c3a5457e34</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: lhdneves/bike-management-app
 SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
@@ -1273,7 +1273,7 @@ SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
     <title>Lethabu/appointmentbooking: 07-sm.md</title>
     <link href="https://github.com/Lethabu/appointmentbooking/blob/53d34fa039515f008644fc725920bca3dd2d49c5/.clinerules/07-sm.md"/>
     <id>urn:github:Lethabu/appointmentbooking:.clinerules/07-sm.md:004ecb675d9cdec57caadaee5d5655c3a5457e34</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: Lethabu/appointmentbooking
 SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
@@ -1284,7 +1284,7 @@ SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
     <title>santosrai/BMAD: 07-sm.md</title>
     <link href="https://github.com/santosrai/BMAD/blob/7d347f0a676c7c5b0cd2efdca759da6042db249f/.clinerules/07-sm.md"/>
     <id>urn:github:santosrai/BMAD:.clinerules/07-sm.md:004ecb675d9cdec57caadaee5d5655c3a5457e34</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/07-sm.md
 Repository: santosrai/BMAD
 SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
@@ -1295,7 +1295,7 @@ SHA: 004ecb675d9cdec57caadaee5d5655c3a5457e34</summary>
     <title>cyanheads/protein-mcp-server: AGENTS.md</title>
     <link href="https://github.com/cyanheads/protein-mcp-server/blob/cc71a3cadee9297fb1b65f733996c468bb283311/.clinerules/AGENTS.md"/>
     <id>urn:github:cyanheads/protein-mcp-server:.clinerules/AGENTS.md:17f52f6d1ef9a1c0ef8bb7b4bba6f81b44bf42b1</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/AGENTS.md
 Repository: cyanheads/protein-mcp-server
 SHA: 17f52f6d1ef9a1c0ef8bb7b4bba6f81b44bf42b1</summary>
@@ -1306,7 +1306,7 @@ SHA: 17f52f6d1ef9a1c0ef8bb7b4bba6f81b44bf42b1</summary>
     <title>agenticsorg/edge-agents: .clinerules</title>
     <link href="https://github.com/agenticsorg/edge-agents/blob/9b284f8f0b153260b5e662107de3809aa6d766ab/.clinerules"/>
     <id>urn:github:agenticsorg/edge-agents:.clinerules:930ac8bb19f20b2c010c580589a26f4726fdfd36</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules
 Repository: agenticsorg/edge-agents
 SHA: 930ac8bb19f20b2c010c580589a26f4726fdfd36</summary>
@@ -1317,7 +1317,7 @@ SHA: 930ac8bb19f20b2c010c580589a26f4726fdfd36</summary>
     <title>dinhtrung0706/Third_party_api: C++.md</title>
     <link href="https://github.com/dinhtrung0706/Third_party_api/blob/6de41eed83230e11969541256f4764ac8e7086e1/.clinerules/C%2B%2B.md"/>
     <id>urn:github:dinhtrung0706/Third_party_api:.clinerules/C++.md:93d4d8eb4ed6d6470ad3136bc46b1928b7315b4b</id>
-    <updated>2025-11-05T15:08:38.841428+00:00</updated>
+    <updated>2025-11-06T15:08:23.397549+00:00</updated>
     <summary>File: .clinerules/C++.md
 Repository: dinhtrung0706/Third_party_api
 SHA: 93d4d8eb4ed6d6470ad3136bc46b1928b7315b4b</summary>
