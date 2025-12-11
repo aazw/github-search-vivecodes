@@ -15,9 +15,9 @@ jobs:
       QUERY: ".claude/settings.json+in:path"
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Install uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v7
       - name: Install packages
         run: uv sync --link-mode=copy --frozen
       - name: Run script
