@@ -436,3 +436,7 @@ core.*
 # Ignore script results
 *.xml
 *.atom
+
+# Temporary files
+tmp
+tmp/*
