@@ -4,8 +4,8 @@
 * Performs code search with `sort=indexed&order=desc` to find recently added files and outputs results in Atom feed format
 * Should work as long as the API supports `sort=indexed` (reportedly will be deprecated eventually)
 * Hosts and regularly updates results for the following queries using GitHub Actions � GitHub Pages:
-    * `filename:.clinerules`
-    * `filename:CLAUDE.md`
+  * `filename:.clinerules`
+  * `filename:CLAUDE.md`
 
 ## Setup
 
@@ -25,7 +25,7 @@ python src/github_search.py --query "filename:CLAUDE.md" --token YOUR_GITHUB_TOK
 
 ## Options
 
-- `--query`, `-q`: Search query (required)
-- `--token`, `-t`: GitHub API token (required/environment variable available)
-- `--output`, `-o`: Output file path (stdout if omitted)
-- `--log-level`, `-l`: Log level (DEBUG/INFO/WARNING/ERROR)
+* `--query`, `-q`: Search query (required)
+* `--token`, `-t`: GitHub API token (required/environment variable available)
+* `--output`, `-o`: Output file path (stdout if omitted)
+* `--log-level`, `-l`: Log level (DEBUG/INFO/WARNING/ERROR)
